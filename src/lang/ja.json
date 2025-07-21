@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n}のインポート中です",
   "import_workout_count": "{n}/{tot} ワークアウトをインポートしました",
   "import_workouts_blurb": "クリックして{types}のファイルを選択するか、ここにドラッグ＆ドロップします。複数のファイルを選択またはドロップすることができます。各ファイルは、フォルダに取り込まれます。",
+  "Include all columns in CSV": "CSVにすべての列を含める",
   "Include commutes": "通勤・通学も表示",
   "Include fitness in CSV": "フィットネス値をCSVに含める",
   "Include workout descriptions": "ワークアウトの説明を含む",

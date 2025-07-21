@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} importul este în curs de desfășurare",
   "import_workout_count": "Antrenamente importate {n}/{tot} Antrenamente",
   "import_workouts_blurb": "Apasă pentru a selecta {types} fișiere sau trage-le și fixează-le aici. Puteți selecta sau plasa mai multe fișiere. Fiecare fișier va fi importat în dosar.",
+  "Include all columns in CSV": "Include all columns in CSV",
   "Include commutes": "Includere naveta",
   "Include fitness in CSV": "Includere fitness în CSV",
   "Include workout descriptions": "Includeți descrieri ale antrenamentelor",

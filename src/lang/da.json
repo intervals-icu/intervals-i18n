@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} import er i gang",
   "import_workout_count": "Importerede {n}/{tot} træningspas",
   "import_workouts_blurb": "Klik for at vælge {types}-filer, eller træk og slip dem her. Du kan vælge eller slippe flere filer. Hver fil vil blive importeret til mappen.",
+  "Include all columns in CSV": "Inkluder alle kolonner i CSV",
   "Include commutes": "Inkluder pendler",
   "Include fitness in CSV": "Inkluder fitness i CSV",
   "Include workout descriptions": "Inkluder træningsbeskrivelser",

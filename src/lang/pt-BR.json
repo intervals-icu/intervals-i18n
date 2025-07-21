@@ -1297,6 +1297,7 @@
   "import_in_progress": "A importação de {n} está em andamento",
   "import_workout_count": "{n} de {tot} treinos importados",
   "import_workouts_blurb": "Clique para selecionar arquivos {types} ou arraste e solte aqui. Você pode selecionar ou soltar vários arquivos. Cada arquivo será importado para a pasta.",
+  "Include all columns in CSV": "Incluir todas as colunas no CSV",
   "Include commutes": "Incluir deslocamentos",
   "Include fitness in CSV": "Incluir condicionamento no CSV",
   "Include workout descriptions": "Incluir descrições de treinos",

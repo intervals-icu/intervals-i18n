@@ -1297,6 +1297,7 @@
   "import_in_progress": " Uvoz{n} je v teku",
   "import_workout_count": "Uvoženih {n}/{tot} treningov",
   "import_workouts_blurb": "Kliknite, da izberete {types} datotek ali jih povlecite in spustite sem. Izberete ali spustite ahko več datotek. Vsaka datoteka bo uvožena v mapo.",
+  "Include all columns in CSV": "Vključite vse stolpce v CSV",
   "Include commutes": "Vključite vožnje na delo",
   "Include fitness in CSV": "Vključite fitnes in CSV",
   "Include workout descriptions": "Vključite opise vadbe",

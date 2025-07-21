@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} import is bezig",
   "import_workout_count": "Geïmporteerde {n}/{tot} trainingen",
   "import_workouts_blurb": "Klik om {types} bestanden te selecteren of sleep ze hierheen. Je kunt meerdere bestanden selecteren of neerzetten. Elk bestand zal in de map worden geïmporteerd.",
+  "Include all columns in CSV": "Neem alle kolommen op in CSV",
   "Include commutes": "Inclusief woon/werkverkeer",
   "Include fitness in CSV": "Conditie exporteren in CSV",
   "Include workout descriptions": "Trainingsbeschrijvingen opnemen.",

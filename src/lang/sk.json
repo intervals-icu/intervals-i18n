@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} import prebieha",
   "import_workout_count": "Importované {n}/{tot} tréningy",
   "import_workouts_blurb": "Kliknutím vyberte súbory {typy} alebo ich sem potiahnite. Môžete vybrať alebo pustiť viacero súborov. Každý súbor sa importuje do priečinka",
+  "Include all columns in CSV": "Zahrňte všetky stĺpce v CSV",
   "Include commutes": "Zahrnúť dochádzanie",
   "Include fitness in CSV": "Zahrnúť fitness do CSV",
   "Include workout descriptions": "Zahrňte opisy cvičení",

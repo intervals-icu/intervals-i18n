@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} import folyamatban",
   "import_workout_count": "{n}/{tot} edzés importálva",
   "import_workouts_blurb": "Kattints a {types} fájlok kiválasztásához, vagy húzd ide őket. Több fájl is kiválasztható vagy törölhető. Minden egyes fájl importálásra kerül a mappába.",
+  "Include all columns in CSV": "Minden oszlop belefoglalása CSV-ben",
   "Include commutes": "Tartalmazza az ingázást ",
   "Include fitness in CSV": "Fittség felvétele a CSV-be",
   "Include workout descriptions": "Tartalmazza az edzés leírását",

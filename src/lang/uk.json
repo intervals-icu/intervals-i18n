@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} виконується імпорт",
   "import_workout_count": "Імпортовано {n}/{tot} тренувань",
   "import_workouts_blurb": "Натисніть, щоб вибрати {types} файли, або перетягніть їх сюди. Ви можете вибрати або скинути кілька файлів. Кожен файл буде імпортовано в папку.",
+  "Include all columns in CSV": "Включайте всі стовпці в CSV",
   "Include commutes": "Включити поїздки на роботу",
   "Include fitness in CSV": "Включити фітнес у CSV",
   "Include workout descriptions": "Додайте опис тренувань",

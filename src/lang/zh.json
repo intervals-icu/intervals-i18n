@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} 导入正在进行中",
   "import_workout_count": "导入 {n}/{tot} 训练课程",
   "import_workouts_blurb": "点击选择 {types} 文件或将它们拖放到这里。可以选择或拖放多个文件，每个文件都将被导入文件夹中",
+  "Include all columns in CSV": "在CSV中包含所有列",
   "Include commutes": "包括通勤",
   "Include fitness in CSV": "在CSV中包括健康度",
   "Include workout descriptions": "包括锻炼说明",

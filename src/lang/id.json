@@ -1297,6 +1297,7 @@
   "import_in_progress": "{n} impor sedang berlangsung",
   "import_workout_count": "Latihan {n}/{tot} yang diimpor",
   "import_workouts_blurb": "Klik untuk memilih file {types} atau seret dan jatuhkan di sini. Anda dapat memilih atau menjatuhkan beberapa file. Setiap file akan diimpor ke dalam folder.",
+  "Include all columns in CSV": "Sertakan semua kolom dalam CSV",
   "Include commutes": "Termasuk perjalanan pulang pergi",
   "Include fitness in CSV": "Menyertakan kebugaran dalam CSV",
   "Include workout descriptions": "Menyertakan deskripsi latihan",
