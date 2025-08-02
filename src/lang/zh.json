@@ -583,6 +583,7 @@
   "Compare Activities": "比较活动",
   "Compare Athletes": "比较运动员",
   "Compliance": "合规",
+  "Compliance colors on bars": "条形图上的合规颜色",
   "Compliance to plan": "遵守计划",
   "compliance_blurb": "依从性是针对至少有一项运动计划锻炼的周内活动进行计算的。如果该活动未与计划的锻炼相匹配，则遵守率为 0%。否则，将活动训练负荷与计划训练负荷进行比较。如果负荷不可用，则将活动移动（或经过）的时间与计划的锻炼持续时间进行比较。如果您不想计算未配对活动的合规性（例如单独记录的预热），请勾选忽略合规性框。",
   "Component Type": "组件类型",

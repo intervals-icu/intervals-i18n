@@ -583,6 +583,7 @@
   "Compare Activities": "Porównaj aktywności",
   "Compare Athletes": "Porównaj sportowców",
   "Compliance": "Zrealizowane",
+  "Compliance colors on bars": "Kolory zgodności na słupkach",
   "Compliance to plan": "Zgodność z planem",
   "compliance_blurb": "Zgodność jest obliczana dla aktywności w tygodniach, które obejmują co najmniej jeden zaplanowany trening dla danego sportu. Jeśli aktywność nie została powiązana z zaplanowanym treningiem, zgodność wynosi 0%. W przeciwnym razie obciążenie treningowe związane z aktywnością jest porównywane z planowanym obciążeniem treningowym. Jeśli obciążenie nie jest dostępne, czas trwania aktywności (lub czas, który upłynął) jest porównywany z planowanym czasem trwania treningu. Jeśli nie chcesz obliczać zgodności dla niesparowanej aktywności (np. oddzielnie rejestrowanej rozgrzewki), zaznacz pole „ignoruj zgodność”.",
   "Component Type": "Typ komponentu",

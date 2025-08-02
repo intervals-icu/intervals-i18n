@@ -583,6 +583,7 @@
   "Compare Activities": "Comparar actividades",
   "Compare Athletes": "Comparar atletas",
   "Compliance": "Conformidad",
+  "Compliance colors on bars": "Colores de cumplimiento en barras",
   "Compliance to plan": "Cumplimiento del plan",
   "compliance_blurb": "El cumplimiento se calcula para actividades en semanas que tienen al menos un entrenamiento planificado para ese deporte. Si la actividad no se ha combinado con un entrenamiento planificado, el cumplimiento es del 0 %. De lo contrario, la carga de entrenamiento de la actividad se compara con la carga de entrenamiento planificada. Si la carga no está disponible, entonces el tiempo de movimiento (o transcurrido) de la actividad se compara con la duración planificada del entrenamiento. Si no desea calcular el cumplimiento para una actividad no emparejada (por ejemplo, un calentamiento registrado por separado), marque la casilla ignorar cumplimiento.",
   "Component Type": "Tipo de componente",

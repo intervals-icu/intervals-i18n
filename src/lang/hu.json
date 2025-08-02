@@ -583,6 +583,7 @@
   "Compare Activities": "Tev. összehasonlítása",
   "Compare Athletes": "Sportolók összehasonlítása",
   "Compliance": "Megfelelés",
+  "Compliance colors on bars": "Megfelelőségi színek a sávokon",
   "Compliance to plan": "A tervnek megfelel",
   "compliance_blurb": "A megfelelőséget azokra a hetekben végzett tevékenységekre számítják ki, amelyek legalább egy tervezett edzést tartalmaznak a sportághoz. Ha a tevékenység nem párosult tervezett edzéssel, akkor a megfelelés 0%. Ellenkező esetben az edzésterhelést a tervezett edzésterheléshez viszonyítjuk. Ha nem áll rendelkezésre terhelés, akkor a tevékenység mozgási (vagy eltelt) idejét a rendszer összehasonlítja a tervezett edzésidővel. Ha nem szeretné kiszámítani a megfelelőséget egy nem párosított tevékenységhez (például egy külön naplózott bemelegítéshez), jelölje be a megfelelőség figyelmen kívül hagyása négyzetet.",
   "Component Type": "Összetevő típusa",

@@ -583,6 +583,7 @@
   "Compare Activities": "Porovnanie aktivít",
   "Compare Athletes": "Porovnajte športovcov",
   "Compliance": "Dodržiavanie",
+  "Compliance colors on bars": "Farby súl na baroch",
   "Compliance to plan": "Dodržiavanie plánu",
   "compliance_blurb": "Dodržiavanie pravidiel sa počíta pre aktivity v týždňoch, v ktorých je pre daný šport naplánovaný aspoň jeden tréning. Ak aktivita nebola spojená s plánovaným tréningom, potom je zhoda 0 %. V opačnom prípade sa aktivita s tréningovou záťažou porovnáva s plánovanou tréningovou záťažou. Ak zaťaženie nie je k dispozícii, potom sa pohyblivý (alebo uplynulý) čas aktivity porovnáva s plánovaným trvaním tréningu. Ak nechcete vypočítať zhodu pre nespárovanú aktivitu (napr. samostatne zaznamenanú rozcvičku), začiarknite políčko Ignorovať zhodu",
   "Component Type": "Typ komponentu",

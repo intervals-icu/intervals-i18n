@@ -583,6 +583,7 @@
   "Compare Activities": "Primerjaj dejavnosti",
   "Compare Athletes": "Primerjajte Športnike",
   "Compliance": "Skladnost",
+  "Compliance colors on bars": "Barve skladnosti na stolpcih",
   "Compliance to plan": "Skladnost s planom",
   "compliance_blurb": "Skladnost se izračuna za dejavnosti v tednih, ki imajo vsaj eno načrtovano vadbo za šport. Če aktivnost ni bila združena z načrtovano vadbo, je skladnost 0 %. V nasprotnem primeru se vadbena obremenitev dejavnosti primerja z načrtovano vadbeno obremenitvijo. Če obremenitev ni na voljo, se gibalni (ali pretečeni) čas dejavnosti primerja z načrtovanim trajanjem vadbe. Če ne želite izračunati skladnosti za neparno dejavnost (npr. ogrevanje, zabeleženo ločeno), označite polje Prezri skladnost.",
   "Component Type": "Vrsta komponente",

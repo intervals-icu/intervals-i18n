@@ -583,6 +583,7 @@
   "Compare Activities": "Compare Activities",
   "Compare Athletes": "Compare Athletes",
   "Compliance": "Compliance",
+  "Compliance colors on bars": "Compliance colors on bars",
   "Compliance to plan": "Compliance to plan",
   "compliance_blurb": "Compliance is calculated for activities in weeks that have at least one planned workout for the sport. If the activity has not been paired with a planned workout then compliance is 0%. Otherwise the activity training load is compared to the planned training load. If load is not available then the activity moving (or elapsed) time is compared to planned workout duration. If you do not want to calculate compliance for an unpaired activity (e.g. a warmup logged separately) then tick the ignore compliance box.",
   "Component Type": "Component Type",

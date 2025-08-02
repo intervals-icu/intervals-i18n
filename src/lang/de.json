@@ -583,6 +583,7 @@
   "Compare Activities": "Aktivitäten vergleichen",
   "Compare Athletes": "Athleten vergleichen",
   "Compliance": "Einhaltung",
+  "Compliance colors on bars": "Compliance-Farben auf Balken",
   "Compliance to plan": "Einhaltung des Plans",
   "compliance_blurb": "Die Einhaltung wird für Aktivitäten in Wochen berechnet, in denen mindestens ein Training für die Sportart geplant ist. Wenn die Aktivität nicht mit einem geplanten Training gekoppelt wurde, beträgt die Compliance 0 %. Ansonsten wird die Aktivitätstrainingsbelastung mit der geplanten Trainingsbelastung verglichen. Wenn keine Belastung verfügbar ist, wird die Bewegungszeit (oder verstrichene Zeit) der Aktivität mit der geplanten Trainingsdauer verglichen. Wenn Sie die Compliance für eine ungepaarte Aktivität (z. B. ein separat protokolliertes Aufwärmen) nicht berechnen möchten, aktivieren Sie das Kontrollkästchen „Compliance ignorieren“.",
   "Component Type": "Komponententyp",

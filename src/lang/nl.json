@@ -583,6 +583,7 @@
   "Compare Activities": "Activiteiten Vergelijken",
   "Compare Athletes": "Atleten vergelijken",
   "Compliance": "Naleving",
+  "Compliance colors on bars": "Nalevingskleuren op balken",
   "Compliance to plan": "Plan-naleving",
   "compliance_blurb": "De naleving wordt berekend voor activiteiten in weken waarin ten minste één geplande training voor de sport bestaat. Als de activiteit niet is gekoppeld aan een geplande training, is de naleving 0%. Anders wordt de trainingsbelasting van de activiteit vergeleken met de geplande trainingsbelasting. Als er geen belasting beschikbaar is, wordt de bewogen tijd (of verstreken tijd) van de activiteit vergeleken met de geplande trainingsduur. Als je de naleving voor een niet-gekoppelde activiteit (bijvoorbeeld een apart geregistreerde warming-up) niet wilt berekenen, vink dan het vakje 'naleving negeren' aan.",
   "Component Type": "Componenttype",

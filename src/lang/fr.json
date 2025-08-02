@@ -583,6 +583,7 @@
   "Compare Activities": "Comparer les activités",
   "Compare Athletes": "Comparer les athlètes",
   "Compliance": "Conformité",
+  "Compliance colors on bars": "Couleurs de conformité sur les barres",
   "Compliance to plan": "Conformité au plan",
   "compliance_blurb": "La conformité est calculée pour les activités des semaines qui comportent au moins un entraînement prévu pour le sport. Si l'activité n'a pas été associée à un entraînement planifié, la conformité est de 0 %. Sinon, la charge d'entraînement d'activité est comparée à la charge d'entraînement planifiée. Si la charge n'est pas disponible, le temps de déplacement (ou écoulé) de l'activité est comparé à la durée d'entraînement prévue. Si vous ne souhaitez pas calculer la conformité pour une activité non couplée (par exemple, un échauffement enregistré séparément), cochez la case \"Ignorer la conformité\".",
   "Component Type": "Type de composant",

@@ -583,6 +583,7 @@
   "Compare Activities": "Porovnat aktivity",
   "Compare Athletes": "Srovnejte sportovce",
   "Compliance": "Dodržování",
+  "Compliance colors on bars": "Barvy souladu na pruzích",
   "Compliance to plan": "Soulad s plánem",
   "compliance_blurb": "Dodržení se vypočítává pro aktivity v týdnech, které mají alespoň jeden plánovaný trénink pro daný sport. Pokud aktivita nebyla spárována s plánovaným cvičením, pak je dodržování 0 %. V opačném případě je zátěžová tréninková aktivita porovnávána s plánovanou tréninkovou zátěží. Pokud zátěž není k dispozici, pak se pohybující se (nebo uplynulý) čas aktivity porovná s plánovanou délkou tréninku. Pokud nechcete počítat shodu pro nespárovanou aktivitu (např. zahřívání přihlášené samostatně), zaškrtněte políčko ignorovat shodu.",
   "Component Type": "Typ komponenty",

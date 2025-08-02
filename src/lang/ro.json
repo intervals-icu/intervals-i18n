@@ -583,6 +583,7 @@
   "Compare Activities": "Comparați activitățile",
   "Compare Athletes": "Comparare atleți",
   "Compliance": "Conformitate",
+  "Compliance colors on bars": "Culorile de conformitate pe bare",
   "Compliance to plan": "Conform cu planul",
   "compliance_blurb": "Conformitatea este calculată pentru activitățile în săptămâni care au cel puțin un antrenament planificat pentru sport. Dacă activitatea nu a fost asociată cu un antrenament planificat, atunci conformitatea este de 0%. În caz contrar, sarcina de antrenament al activității este comparată cu sarcina de antrenament planificată. Dacă încărcarea nu este disponibilă, atunci timpul de mișcare a activității (sau scurs) este comparat cu durata planificată a antrenamentului. Dacă nu doriți să calculați conformitatea pentru o activitate neîmperecheată (de exemplu, o încălzire înregistrată separat), atunci bifați caseta de ignorare a conformității.",
   "Component Type": "Tip component",

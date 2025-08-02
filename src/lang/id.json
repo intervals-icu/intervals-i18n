@@ -583,6 +583,7 @@
   "Compare Activities": "Bandingkan aktivitas",
   "Compare Athletes": "Bandingkan Atlet",
   "Compliance": "Kepatuhan",
+  "Compliance colors on bars": "Warna kepatuhan pada batang",
   "Compliance to plan": "Kepatuhan terhadap rencana",
   "compliance_blurb": "Kepatuhan dihitung untuk aktivitas dalam minggu yang memiliki setidaknya satu latihan terencana untuk olahraga tersebut. Jika aktivitas belum dipasangkan dengan latihan yang direncanakan, maka kepatuhannya adalah 0%. Jika tidak, beban latihan aktivitas dibandingkan dengan beban latihan yang direncanakan. Jika beban tidak tersedia, maka waktu bergerak (atau waktu yang telah berlalu) aktivitas dibandingkan dengan durasi latihan yang direncanakan. Jika Anda tidak ingin menghitung kepatuhan untuk aktivitas yang tidak dipasangkan (misalnya, pemanasan yang dicatat secara terpisah), centang kotak untuk abaikan kepatuhan.",
   "Component Type": "Jenis Komponen",

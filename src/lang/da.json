@@ -583,6 +583,7 @@
   "Compare Activities": "Sammenlign aktiviteter",
   "Compare Athletes": "Sammenlign atleter",
   "Compliance": "Overensstemmelse",
+  "Compliance colors on bars": "Overholdelsesfarver på søjler",
   "Compliance to plan": "Overensstemmelse med plan",
   "compliance_blurb": "Overensstemmelse beregnes for aktiviteter i uger, der har mindst én planlagt træning for sporten. Hvis aktiviteten ikke er blevet parret med en planlagt træning, er compliance 0 %. Ellers sammenlignes aktivitetstræningsbelastningen med den planlagte træningsbelastning. Hvis belastning ikke er tilgængelig, sammenlignes aktivitetens bevægelige (eller forløbne) tid med den planlagte træningsvarighed. Hvis du ikke ønsker at beregne overensstemmelse for en uparret aktivitet (f.eks. en opvarmning logget separat), skal du markere feltet \"Ignorer overensstemmelse\".",
   "Component Type": "Komponenttype",

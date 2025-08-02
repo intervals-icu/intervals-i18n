@@ -583,6 +583,7 @@
   "Compare Activities": "Confronta attività",
   "Compare Athletes": "Confronta Atleti",
   "Compliance": "Conformità",
+  "Compliance colors on bars": "Colori di conformità sulle barre",
   "Compliance to plan": "Conformità al piano",
   "compliance_blurb": "La compliance viene calcolata per le attività in settimane che prevedono almeno un allenamento pianificato per lo sport. Se l'attività non è stata abbinata a un allenamento pianificato, la conformità è pari allo 0%. Altrimenti il carico formativo dell'attività viene confrontato con il carico formativo pianificato. Se il carico non è disponibile, il tempo di movimento dell'attività (o trascorso) viene confrontato con la durata dell'allenamento pianificata. Se non desideri calcolare la conformità per un'attività non abbinata (ad esempio un riscaldamento registrato separatamente), seleziona la casella Ignora conformità.",
   "Component Type": "Tipo di Componente",
