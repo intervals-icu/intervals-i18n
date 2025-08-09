@@ -2300,6 +2300,7 @@
   "Strain rate": "Taux d'effort",
   "Strain Score": "Score d'effort (SS)",
   "strain_score_help": "Le score d'effort (SS, similaire à XSS dans Xert), est une métrique de charge d'entraînement basée sur la puissance qui prend en compte le temps passé au-dessus de l'état métabolique maximal pour estimer le niveau d'effort de l'activité. L'algorithme quantifie la contribution de chaque système énergétique (oxydatif, glycolytique et sprint/PCr) respectivement en tant que SS CP, SS W' et SS Pmax.",
+  "strain_score_parts_title": "Parties du score de contrainte",
   "strain_score_title": "Similaire à XSS dans Xert",
   "strain_score_title2": "Métrique de charge SS",
   "strain_stream_title": "Taux d'effort",

@@ -2300,6 +2300,7 @@
   "Strain rate": "Rychlost zátěže",
   "Strain Score": "Skóre zátěže",
   "strain_score_help": "Skóre zátěže (SS, podobné XSS v Xert), je metrika tréninkové zátěže založená na výkonu, která zohledňuje čas strávený nad maximálním metabolickým stálým stavem, aby odhadla úroveň zátěže při aktivitě. Algoritmus kvantifikuje přínos jednotlivých energetických systémů (oxidativního, glykolytického a sprintového/PCr) jako SS CP, SS W' a SS Pmax.",
+  "strain_score_parts_title": "Části skóre zátěže",
   "strain_score_title": "Podobné XSS v Xert",
   "strain_score_title2": "Metrika zátěže SS",
   "strain_stream_title": "Rychlost zátěže",

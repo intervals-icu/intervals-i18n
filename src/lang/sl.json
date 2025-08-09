@@ -2300,6 +2300,7 @@
   "Strain rate": "Hitrost obremenitve",
   "Strain Score": "Ocena napora",
   "strain_score_help": "Ocena obremenitve (SS, podobno kot XSS v Xert), je metrika obremenitve treninga, ki temelji na moči in upošteva čas, preživet nad maksimalnim metabolnim stalnim stanjem, za oceno ravni obremenitve pri dejavnosti. Algoritem kvantificira prispevek vsakega energijskega sistema (oksidativnega, glikolitičnega in sprint/PCr) kot SS CP, SS W' in SS Pmax.",
+  "strain_score_parts_title": "Delovni deleži napetosti",
   "strain_score_title": "Podobno XSS v Xert",
   "strain_score_title2": "Metrična ocena obremenitve SS",
   "strain_stream_title": "Hitrost obremenitve",

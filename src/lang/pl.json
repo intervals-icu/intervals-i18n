@@ -2300,6 +2300,7 @@
   "Strain rate": "Współczynnik przeciążenia",
   "Strain Score": "Wynik obciążenia",
   "strain_score_help": "Wynik obciążenia (SS, podobny do XSS w Xert), jest miarą obciążenia treningowego opartą na mocy, która uwzględnia czas spędzony powyżej maksymalnego stanu metabolicznego ustalonego, aby oszacować poziom obciążenia dla aktywności. Algorytm kwantyfikuje wkład każdego systemu energetycznego (oksydacyjnego, glikolitycznego i sprintu/PCr) jako SS CP, SS W' i SS Pmax odpowiednio.",
+  "strain_score_parts_title": "Części wyniku obciążenia",
   "strain_score_title": "Podobny do XSS w Xert",
   "strain_score_title2": "Metryka obciążenia SS",
   "strain_stream_title": "Współczynnik przeciążenia",

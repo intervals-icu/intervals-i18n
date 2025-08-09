@@ -2300,6 +2300,7 @@
   "Strain rate": "Rata de efort",
   "Strain Score": "Scor de efort",
   "strain_score_help": "Scorul de efort (SS, similar cu XSS în Xert), este o metrică de încărcare de antrenament bazată pe putere care ia în considerare timpul petrecut peste starea metabolică maximă pentru a estima nivelul de efort pentru activitate. Algoritmul cuantifică contribuția fiecărui sistem energetic (oxidativ, glicolitic și sprint/PCr) ca SS CP, SS W' și SS Pmax, respectiv.",
+  "strain_score_parts_title": "Părți ale scorului de efort",
   "strain_score_title": " Similar cu XSS în Xert",
   "strain_score_title2": "Metrică de încărcare SS",
   "strain_stream_title": "Rata de efort",

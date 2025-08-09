@@ -2300,6 +2300,7 @@
   "Strain rate": "Strain rate",
   "Strain Score": "Strain Score",
   "strain_score_help": "Strain Score (SS, similar to XSS in Xert), is a power based training load metric that considers time spent above the maximal metabolic steady state to estimate the level of strain for the activity. The algorithm quantifies the contribution from each energy system (oxidative, glycolytic and sprint/PCr) as SS CP, SS W' and SS Pmax respectively.",
+  "strain_score_parts_title": "Strain Score parts",
   "strain_score_title": "Similar to XSS in Xert",
   "strain_score_title2": "SS load metric",
   "strain_stream_title": "Strain rate",

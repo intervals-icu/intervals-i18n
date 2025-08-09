@@ -2300,6 +2300,7 @@
   "Strain rate": "应变速率",
   "Strain Score": "应变评分",
   "strain_score_help": "应变评分（SS，类似于Xert中的XSS）是一种基于功率的训练负荷指标，考虑在最大代谢稳态之上所花费的时间，以估算活动的应变水平。该算法量化了每个能量系统（氧化、糖酵解和冲刺/磷酸肌酸）所贡献的部分，分别为SS CP、SS W'和SS Pmax。",
+  "strain_score_parts_title": "应变评分部分",
   "strain_score_title": "类似于Xert中的XSS",
   "strain_score_title2": "SS负荷指标",
   "strain_stream_title": "应变速率",

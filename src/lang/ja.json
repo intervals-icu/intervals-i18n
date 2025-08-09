@@ -2300,6 +2300,7 @@
   "Strain rate": "ひずみ率",
   "Strain Score": "ストレインスコア",
   "strain_score_help": "ストレイン・スコア(SS、XertのXSSに類似)は、パワーベースのトレーニング負荷指標で、最大代謝定常状態以上に費やされた時間を考慮し、アクティビティの負荷レベルを推定します。このアルゴリズムは、各エネルギーシステム（酸化的、解糖的、スプリント/PCr）からの寄与をそれぞれSS CP、SS W'、SS Pmaxとして定量化します。",
+  "strain_score_parts_title": "ストレインスコアパーツ",
   "strain_score_title": "XertのXSSに類似するプログラム",
   "strain_score_title2": "SSロードメトリック",
   "strain_stream_title": "ひずみ率",

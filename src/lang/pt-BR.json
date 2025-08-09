@@ -2300,6 +2300,7 @@
   "Strain rate": "Taxa de esforço",
   "Strain Score": "Pontuação de esforço",
   "strain_score_help": "Pontuação de Esforço (SS, semelhante ao XSS no Xert), é uma métrica de carga de treino baseada em potência que considera o tempo gasto acima do estado metabólico máximo para estimar o nível de esforço para a atividade. O algoritmo quantifica a contribuição de cada sistema de energia (oxidativo, glicolítico e sprint/PCr) como SS CP, SS W' e SS Pmax, respectivamente.",
+  "strain_score_parts_title": "Partes da pontuação de esforço",
   "strain_score_title": "Semelhante ao XSS no Xert",
   "strain_score_title2": "Métrica de carga SS",
   "strain_stream_title": "Taxa de esforço",
