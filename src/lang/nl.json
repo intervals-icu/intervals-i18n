@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP Watt",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "De geschatte eFTP wordt berekend aan de hand van vermogen-curves van FastFitness.Tips en Morton's kritische vermogen-model met 3 parameters. Het algoritme vereist slechts 1 maximale inspanning met een duur tussen de 180 seconden en 30 minuten. Merk op dat de volledige dataset voor de geselecteerde vermogen-curves wordt gebruikt en dat er geen verval is, zodat de eFTP-waarde op de grafiek kan verschillen van je huidige eFTP. W' is relatief ten opzichte van eFTP.",
+  "eftp_help_part1": "Geschatte FTP voor deze activiteit op zichzelf is {ftp} W (van {secs} op {watts} W).",
+  "eftp_help_part2": "Dit is minder dan de modelwaarde van {watts} W, dus de modelwaarde is behouden.",
   "eftp_highest_in_season": "De hier getoonde waarde is de hoogste per seizoen.",
   "Elapsed": "Verstreken",
   "Elapsed time": "Verstreken tijd",

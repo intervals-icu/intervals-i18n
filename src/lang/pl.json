@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP Waty",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "Szacowane FTP jest obliczane przy użyciu krzywych mocy z FastFitness.Tips i 3-parametrowego modelu mocy krytycznej Mortona. Algorytm wymaga tylko 1 wysiłku maksymalnego o długości od 180 sekund do 30 minut. Należy pamiętać, że wszystkie dane dla wybranych krzywych mocy są używane i nie ma rozkładu, więc wartość eFTP na wykresie może różnić się od Twojego aktualnego eFTP. W' jest względne w stosunku do eFTP.",
+  "eftp_help_part1": "Szacowane FTP dla tej aktywności samodzielnie wynosi {ftp} W (z {secs} przy {watts} W).",
+  "eftp_help_part2": "Jest to mniej niż wartość modelowa {watts} W, więc zachowano wartość modelową.",
   "eftp_highest_in_season": "Podana tu wartość jest najwyższą osiągniętą w danym sezonie.",
   "Elapsed": "Upłynęło",
   "Elapsed time": "Czas",

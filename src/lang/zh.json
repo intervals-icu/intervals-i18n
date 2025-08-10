@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP 瓦数",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "估计的FTP是使用FastFitness.Tips的功率曲线和Morton的3参数临界功率模型计算的，该算法只需要在180s到30min之间的1次全力输出。请注意，所选功率曲线的所有数据都被使用，而且没有衰减，因此图表上的eFTP值可能与当前的eFTP不同。W'是相对于eFTP而言的",
+  "eftp_help_part1": "此活动的估算FTP为{ftp}瓦（来自{secs}秒的{watts}瓦）。",
+  "eftp_help_part2": "这低于模型值{watts}瓦，因此已保持模型值。",
   "eftp_highest_in_season": "这里显示的数值是每个赛季所达到的最高值",
   "Elapsed": "经过",
   "Elapsed time": "历时",

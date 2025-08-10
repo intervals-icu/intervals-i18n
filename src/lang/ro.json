@@ -905,6 +905,8 @@
   "eFTP Watts": "wați eFTP",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "FTP estimat este calculat utilizând curbele de putere de la FastFitness.Tips și modelul de putere critică cu 3 parametri al lui Morton. Algoritmul necesită doar 1 efort maxim între 180 de secunde și 30 de minute. De notat că toate datele pentru curbele de putere selectate sunt utilizate și nu există decădere, astfel încât valoarea eFTP din diagramă poate fi diferit de eFTP-ul tău actual. W' este relativ la eFTP.",
+  "eftp_help_part1": "FTP estimat pentru această activitate în sine este {ftp} W (din {secs} la {watts} W).",
+  "eftp_help_part2": "Aceasta este mai mică decât valoarea modelului de {watts} W, așa că valoarea modelului a fost păstrată.",
   "eftp_highest_in_season": "Valoarea prezentată aici este cea mai mare atinsă în fiecare sezon.",
   "Elapsed": "Scurs",
   "Elapsed time": "Timp scurs",

@@ -905,6 +905,8 @@
   "eFTP Watts": "Watts eFTP",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "O FTP estimado é calculado usando curvas de potência de FastFitness.Tips e o modelo de potência crítica de 3 parâmetros de Morton. O algoritmo requer apenas 1 esforço máximo entre 180 segundos e 30 minutos. Note que todos os dados para as curvas de potência seleccionadas são utilizados e não há decaimento, pelo que o valor de eFTP no gráfico pode diferir do seu eFTP actual. W' é relativo a eFTP.",
+  "eftp_help_part1": "FTP estimado para esta atividade por si só é {ftp} W (de {secs} em {watts} W).",
+  "eftp_help_part2": "Isto é inferior ao valor do modelo de {watts} W, pelo que o valor do modelo foi mantido.",
   "eftp_highest_in_season": "O valor aqui mostrado é o mais alto alcançado durante cada estação.",
   "Elapsed": "Tempo Decorrido",
   "Elapsed time": "Duração",

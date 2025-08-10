@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP Watty",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "Odhadovaný FTP je vypočítán pomocí výkonových křivek z FastFitness.Tips a 3 parametrového kritického výkonového modelu Mortona. Algoritmus vyžaduje pouze 1 maximální úsilí od 180 sekund do 30 minut. Všimněte si toho, že jsou použita všechna data pro vybrané výkonové křivky a nedochází k žádnému poklesu, takže hodnota eFTP v grafu se může lišit od vašeho aktuálního eFTP. W 'je relativní k eFTP.",
+  "eftp_help_part1": "Odhadované FTP pro tuto aktivitu samostatně je {ftp} W (z {secs} při {watts} W).",
+  "eftp_help_part2": "Toto je méně než modelová hodnota {watts} W, takže byla zachována modelová hodnota.",
   "eftp_highest_in_season": "Zde uvedená hodnota je nejvyšší dosažená během každé sezóny.",
   "Elapsed": "Uplynulý",
   "Elapsed time": "Uplynulý čas",

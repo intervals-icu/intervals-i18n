@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP watt",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "A becsült FTP kiszámítása a FastFitness.Tips és a Morton 3 paraméteres kritikus teljesítménymodelljének teljesítménygörbéi alapján történik. Az algoritmus mindössze 1 maximális erőfeszítésű munkát igényel 180 másodperc és 30 perc között. Ne feledd, hogy a kiválasztott teljesítménygörbékhez tartozó összes adat felhasználásra kerül, és nincs romlás, ezért a táblázatban szereplő eFTP érték eltérhet a jelenlegi eFTP-től. W 'az eFTP-hez képest.",
+  "eftp_help_part1": "Az adott tevékenységhez becsült FTP önmagában {ftp} W (ebből {secs} másodperc {watts} W-nál).",
+  "eftp_help_part2": "Ez kevesebb, mint a modellértékű {watts} W, így a modellérték lett megtartva.",
   "eftp_highest_in_season": "Az itt látható érték a legmagasabb érték, amelyet minden szezonban elértek.",
   "Elapsed": "Eltelt",
   "Elapsed time": "Eltelt idő",

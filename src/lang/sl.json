@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP vatov",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "Ocenjeni FTP se izračuna z uporabo krivulj moči iz FastFitness.Tips in Mortonovega 3 stopenjskega modela kritične moči. Algoritem zahteva samo 1 največji napor med 180 sekundami in 30 minutami. Upoštevajte, da so uporabljeni vsi podatki za izbrane krivulje moči in ni upadanja, zato se lahko vrednost eFTP na grafu razlikuje od vašega trenutnega eFTP. W' je relativna glede na eFTP.",
+  "eftp_help_part1": "Ocenjeni FTP za to dejavnost je {ftp} W (iz {secs} pri {watts} W).",
+  "eftp_help_part2": "To je manj kot modelna vrednost {watts} W, zato je bila ohranjena modelna vrednost.",
   "eftp_highest_in_season": "Tukaj je prikazana najvišja dosežena vrednost v vsaki sezoni.",
   "Elapsed": "Preteklo",
   "Elapsed time": "Pretečen čas",

@@ -905,6 +905,8 @@
   "eFTP Watts": "Watt eFTP",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "Estimasi FTP dihitung menggunakan kurva daya dari FastFitness.Tips dan model daya kritis 3 parameter Morton. Algoritme ini hanya membutuhkan 1 upaya maksimal antara 180 detik hingga 30 menit. Perhatikan bahwa semua data untuk kurva daya yang dipilih digunakan dan tidak ada peluruhan sehingga nilai eFTP pada grafik mungkin berbeda dengan eFTP Anda saat ini. W' relatif terhadap eFTP.",
+  "eftp_help_part1": "Perkiraan FTP untuk aktivitas ini sendiri adalah {ftp} W (dari {secs} selama {watts} W).",
+  "eftp_help_part2": "Ini kurang dari nilai model sebesar {watts} W sehingga nilai model telah dipertahankan.",
   "eftp_highest_in_season": "Nilai yang ditampilkan di sini adalah nilai tertinggi yang dicapai selama setiap musim.",
   "Elapsed": "Berlalu",
   "Elapsed time": "Total waktu",

@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTPワット",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "推定FTPは、FastFitness.TipsのパワーカーブとMorton氏の3要素クリティカルパワーモデルを使用して算出しています。このアルゴリズムでは、1回だけ180秒～30分間のマックスエフォート（最大負荷）のデータが必要です。選択したパワーカーブのデータが減衰されずに全て使用されますので、チャート上のeFTP値は現在のeFTPと異なる場合があることに注意してください。W'はeFTPとの相対関係になっています。",
+  "eftp_help_part1": "このアクティビティ単体での推定FTPは {ftp} W（ {secs} から {watts} W）。",
+  "eftp_help_part2": "これはモデル値 {watts} Wより小さいので、モデル値が維持されている。",
   "eftp_highest_in_season": "ここに表示されている数値は、各シーズンの中で記録した最高値です。",
   "Elapsed": "経過時間",
   "Elapsed time": "経過時間",

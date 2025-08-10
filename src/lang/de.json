@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP Watt",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "Die geschätzte FTP wird anhand von Leistungskurven aus FastFitness.Tips und dem 3-Parameter-CP-Modell von Morton berechnet. Der Algorithmus benötigt nur eine maximale Ausbelastung zwischen 180 Sekunden und 30 Minuten. Beachte, dass alle Daten für die ausgewählten Leistungskurven verwendet werden und es keinen Verfall gibt, so dass der eFTP-Wert in dem Diagramm von deinem aktuellen eFTP-Wert abweichen kann. W\" ist relativ zu eFTP.",
+  "eftp_help_part1": "Der geschätzte FTP für diese Aktivität allein beträgt {ftp} W (aus {secs} bei {watts} W).",
+  "eftp_help_part2": "Dies ist weniger als der Modellwert von {watts} W, daher wurde der Modellwert beibehalten.",
   "eftp_highest_in_season": "Der hier angegebene Wert ist der höchste, der in der jeweiligen Saison erreicht wurde.",
   "Elapsed": "Abgelaufene",
   "Elapsed time": "Verstrichene Zeit",

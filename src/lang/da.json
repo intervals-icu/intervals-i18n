@@ -905,6 +905,8 @@
   "eFTP Watts": "eFTP-watt",
   "eFTP/kg": "eFTP/kg",
   "eftp_blurb": "Estimeret FTP beregnes ved hjælp af effektkurver fra FastFitness.Tips og Mortons 3 parameter kritiske effektmodel. Algoritmen kræver kun 1 maks indsats på mellem 180 sekunder og 30 minutter. Bemærk, at alle data for de valgte effektkurver bruges, og der er ingen henfald, så eFTP-værdien på kortet kan afvige fra din nuværende eFTP. W' er i forhold til eFTP.",
+  "eftp_help_part1": "Estimeret FTP for denne aktivitet alene er {ftp} W (fra {secs} ved {watts} W).",
+  "eftp_help_part2": "Dette er mindre end modelværdien på {watts} W, så modelværdien er blevet bibeholdt.",
   "eftp_highest_in_season": "Værdien vist her er den højeste opnået i løbet af hver sæson.",
   "Elapsed": "Forløbet",
   "Elapsed time": "Forløbet tid",
