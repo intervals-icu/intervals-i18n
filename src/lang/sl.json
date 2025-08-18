@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "Atlet ni ima konfigurirano to prilagojeno polje aktivnosti",
   "MMP Duration": "Trajanje MMP",
   "mmp_days": "Korake treninga je mogoče določiti kot odstotek športnikove povprečne maksimalne moči (MMP) za dano trajanje. To je število dni, uporabljenih za izračun krivulje modela za treninge z uporabo MMP.",
+  "mobile_cols_title": "Število stolpcev na telefonih",
   "Model": "Model",
   "Model pace": "Modelni tempo",
   "Model power": "Model moči",

@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "The athlete does not have this custom activity field configured",
   "MMP Duration": "MMP Duration",
   "mmp_days": "Workout steps can be specified as a percentage of the athlete's mean maximal power (MMP) for a given duration. This is number of days used to compute the model curve for workouts using MMP.",
+  "mobile_cols_title": "Number of columns on phones",
   "Model": "Model",
   "Model pace": "Model pace",
   "Model power": "Model power",

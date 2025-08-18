@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "Der Sportler hat dieses benutzerdefinierte Aktivitätsfeld nicht konfiguriert",
   "MMP Duration": "MMP-Dauer",
   "mmp_days": "Trainingsschritte können als Prozentsatz der mittleren Maximalleistung (MMP) des Athleten für eine bestimmte Dauer angegeben werden. Dies ist die Anzahl der Tage, die zur Berechnung der Modellkurve für das Training mit MMP verwendet wird.",
+  "mobile_cols_title": "Anzahl der Spalten auf Handys",
   "Model": "Modell",
   "Model pace": "Modelltempo",
   "Model power": "Modellleistung",

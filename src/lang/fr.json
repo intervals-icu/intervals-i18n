@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "L'athlète n'a pas ce champ d'activité personnalisé configuré",
   "MMP Duration": "Durée PMM",
   "mmp_days": "Les étapes de l'entraînement peuvent être spécifiées comme un pourcentage de la puissance maximale moyenne (PMM) de l'athlète pour une durée donnée. Il s'agit du nombre de jours utilisés pour calculer la courbe modèle pour les entraînements utilisant la PMM.",
+  "mobile_cols_title": "Nombre de colonnes sur les téléphones",
   "Model": "Modèle",
   "Model pace": "Modèle de l'allure",
   "Model power": "Modèle de puissance",

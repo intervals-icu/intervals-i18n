@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "De atleet heeft dit aangepaste activiteitsveld niet geconfigureerd",
   "MMP Duration": "MMP-duur",
   "mmp_days": "Workoutstappen kunnen worden opgegeven als een percentage van het gemiddelde maximale vermogen (MMP) van de atleet voor een bepaalde duur. Dit is het aantal dagen dat wordt gebruikt om de modelcurve te berekenen voor trainingen met MMP.",
+  "mobile_cols_title": "Aantal kolommen op telefoons",
   "Model": "Model",
   "Model pace": "Tempo-model",
   "Model power": "Vermogens-model",

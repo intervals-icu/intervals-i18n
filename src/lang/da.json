@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "Atleten har ikke dette tilpassede aktivitetsfelt konfigureret",
   "MMP Duration": "MMP varighed",
   "mmp_days": "Træningstrin kan angives som en procentdel af atletens gennemsnitlige maksimale effekt (MMP) for en given varighed. Dette er antallet af dage, der bruges til at beregne modelkurven for træning med MMP.",
+  "mobile_cols_title": "Antal kolonner på telefoner",
   "Model": "Model",
   "Model pace": "Modeltempo",
   "Model power": "Modeleffekt",

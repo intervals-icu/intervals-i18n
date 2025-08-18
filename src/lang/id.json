@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "Atlet tidak memiliki bidang aktivitas kustom ini yang dikonfigurasi",
   "MMP Duration": "Durasi MMP",
   "mmp_days": "Langkah-langkah latihan dapat ditentukan sebagai persentase dari rata-rata daya maksimal atlet (MMP) untuk durasi tertentu. Ini adalah jumlah hari yang digunakan untuk menghitung kurva model untuk latihan dengan menggunakan MMP.",
+  "mobile_cols_title": "Jumlah kolom pada ponsel",
   "Model": "Model",
   "Model pace": "Pace model",
   "Model power": "daya model",

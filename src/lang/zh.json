@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "运动员未配置此自定义活动字段",
   "MMP Duration": "MMP时间",
   "mmp_days": "训练步骤可以定义为运动员在一定时间内的平均最大功率(MMP)的百分比。这个天数用于计算使用MMP的训练的模型曲线",
+  "mobile_cols_title": "手机上的列数",
   "Model": "模型",
   "Model pace": "模型步伐",
   "Model power": "模型功率",

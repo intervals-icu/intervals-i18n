@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "O atleta não tem este campo de atividade personalizado configurado",
   "MMP Duration": "Duração do MMP",
   "mmp_days": "As fases de treino podem ser especificadas como uma percentagem da potência máxima média do atleta (MMP) para uma determinada duração. Este é o número de dias utilizado para calcular a curva modelo para os treinos com MMP.",
+  "mobile_cols_title": "Número de colunas em telemóveis",
   "Model": "Modelo",
   "Model pace": "Ritmo do modelo",
   "Model power": "Modelo do potênciómetro",

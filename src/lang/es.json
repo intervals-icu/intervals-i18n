@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "El atleta no tiene configurado este campo de actividad personalizada",
   "MMP Duration": "Duración de MMP",
   "mmp_days": "Los pasos de los entrenamientos pueden especificarse como un porcentaje de la potencia máxima media del atleta (MMP) para una duración determinada. Este es el número de días que se utiliza para calcular la curva del modelo para los entrenamientos que utilizan MMP.",
+  "mobile_cols_title": "Número de columnas en teléfonos",
   "Model": "Modelo",
   "Model pace": "Modelo de ritmo",
   "Model power": "Poder modelo",

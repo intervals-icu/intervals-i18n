@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "Sportivul nu are acest câmp de activitate personalizat configurat",
   "MMP Duration": "Durata MMP",
   "mmp_days": "Secțiunile de antrenament pot fi specificate ca procent din puterea maximă medie (MMP) a sportivului pentru o anumită durată. Acesta este numărul de zile utilizate pentru a calcula curba modelului pentru antrenamente folosind MMP.",
+  "mobile_cols_title": "Numărul de coloane pe telefoane",
   "Model": "Model",
   "Model pace": "Ritmul modelului",
   "Model power": "Model de putere",

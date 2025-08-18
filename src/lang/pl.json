@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "Sportowiec nie ma skonfigurowanego tego niestandardowego pola aktywności",
   "MMP Duration": "Czas trwania MMP",
   "mmp_days": "Etapy treningu mogą być określone jako procent średniej mocy maksymalnej (MMP) zawodnika dla danego czasu trwania. Jest to liczba dni używanych do obliczania krzywej modelu dla treningów wykorzystujących MMP.",
+  "mobile_cols_title": "Liczba kolumn na telefonach",
   "Model": "Model",
   "Model pace": "Modelowe tempo",
   "Model power": "Modelowana moc",

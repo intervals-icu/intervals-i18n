@@ -1591,6 +1591,7 @@
   "missing_custom_activity_field": "Atlet nemá tento vlastní aktivní pole nakonfigurováno",
   "MMP Duration": "Trvání MMP",
   "mmp_days": "Tréninkové kroky lze určit jako procento průměrného maximálního výkonu sportovce (MMP) za dané trvání. Toto je počet dní použitých k výpočtu modelové křivky pro cvičení pomocí MMP.",
+  "mobile_cols_title": "Počet sloupců na telefonech",
   "Model": "Model",
   "Model pace": "Modelové tempo",
   "Model power": "Výkon modelu",
