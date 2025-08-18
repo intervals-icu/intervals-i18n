@@ -559,6 +559,7 @@
   "coach_tick_blurb": "How well did the athlete perform?",
   "Coaching": "Coaching",
   "Coaching Group": "Coaching Group",
+  "coaching_group_warning": "This is a coaching group. If you join it, all the current and future admins and coaches in the group will be able to see and update your data. Only join the group if you trust the admins.",
   "coaching_groups": "Coaching Groups",
   "coaching_groups_blurb": "For teams and coaching organisations. Create groups of athletes to automatically assign coaches, configure settings and other features.",
   "Coasting": "Coasting",

@@ -559,6 +559,7 @@
   "coach_tick_blurb": "Jak dobře si sportovec vedl?",
   "Coaching": "Koučování",
   "Coaching Group": "Skupina koučinku",
+  "coaching_group_warning": "Toto je koučovací skupina. Pokud se do ní připojíte, všichni současní a budoucí správci a trenéři ve skupině budou moci vidět a aktualizovat vaše údaje. Připojte se ke skupině pouze v případě, že důvěřujete správcům.",
   "coaching_groups": "Skupiny koučinku",
   "coaching_groups_blurb": "Pro týmy a koučovací organizace. Vytvořte skupiny sportovců pro automatické přiřazení trenérů, konfiguraci nastavení a další funkce.",
   "Coasting": "Doběh",

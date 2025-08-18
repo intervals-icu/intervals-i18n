@@ -559,6 +559,7 @@
   "coach_tick_blurb": "À quel point l'athlète a-t-il bien performé ?",
   "Coaching": "Coaching",
   "Coaching Group": "Groupe d'entraînement",
+  "coaching_group_warning": "Il s'agit d'un groupe de coaching. Si vous le rejoignez, tous les administrateurs et entraîneurs actuels et futurs du groupe pourront voir et mettre à jour vos données. Rejoignez le groupe uniquement si vous faites confiance aux administrateurs.",
   "coaching_groups": "Groupes d'entraînement",
   "coaching_groups_blurb": "Pour les équipes et les organisations de coaching. Créez des groupes d'athlètes pour attribuer automatiquement des entraîneurs, configurer des paramètres et d'autres fonctionnalités.",
   "Coasting": "Roue libre",

@@ -559,6 +559,7 @@
   "coach_tick_blurb": "Seberapa baik atlet tersebut tampil?",
   "Coaching": "Pelatihan",
   "Coaching Group": "Kelompok Pelatihan",
+  "coaching_group_warning": "Ini adalah grup pelatihan. Jika Anda bergabung, semua admin dan pelatih saat ini dan di masa depan dalam grup akan dapat melihat dan memperbarui data Anda. Bergabunglah hanya jika Anda mempercayai admin.",
   "coaching_groups": "Kelompok Pelatihan",
   "coaching_groups_blurb": "Untuk tim dan organisasi pelatihan. Buat kelompok atlet untuk secara otomatis menugaskan pelatih, mengonfigurasi pengaturan, dan fitur lainnya.",
   "Coasting": "Meluncur",

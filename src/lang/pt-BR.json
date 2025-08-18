@@ -559,6 +559,7 @@
   "coach_tick_blurb": "Como o atleta se saiu?",
   "Coaching": "Treinamento",
   "Coaching Group": "Grupo de Treinamento",
+  "coaching_group_warning": "Este é um grupo de treinamento. Se você ingressar nele, todos os administradores e treinadores atuais e futuros do grupo poderão ver e atualizar seus dados. Participe do grupo apenas se confiar nos administradores.",
   "coaching_groups": "Grupos de Treinamento",
   "coaching_groups_blurb": "Para equipes e organizações de treinamento. Crie grupos de atletas para atribuir treinadores automaticamente, configurar configurações e outros recursos.",
   "Coasting": "Descanso",
