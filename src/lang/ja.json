@@ -2429,7 +2429,7 @@
   "tick_both_boxes": "両方のボックスをチェックしてください：",
   "Tidal Vol": "換気量",
   "Tidal volume": "一回換気量",
-  "tidal_volume_min_title": "分時換気(L / min)",
+  "tidal_volume_min_title": "1分間の呼吸量（L/分）",
   "tidal_volume_title": "呼吸あたりの容量(L)",
   "Time": "タイム",
   "Time in HR Z1": "HR Z1 持続時間",

@@ -2429,7 +2429,7 @@
   "tick_both_boxes": "Both boxes must be ticked:",
   "Tidal Vol": "Tidal Vol",
   "Tidal volume": "Tidal volume",
-  "tidal_volume_min_title": "Minute ventilation (L/min)",
+  "tidal_volume_min_title": "Breathing volume per minute (L/min)",
   "tidal_volume_title": "Volume per breath (L)",
   "Time": "Time",
   "Time in HR Z1": "Time in HR Z1",

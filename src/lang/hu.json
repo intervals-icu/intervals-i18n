@@ -2429,7 +2429,7 @@
   "tick_both_boxes": "Mindkét négyzetet be kell jelölni:",
   "Tidal Vol": "Tidal Vol",
   "Tidal volume": "Árapály térfogata",
-  "tidal_volume_min_title": "Percenkénti szellőzés (L/perc)",
+  "tidal_volume_min_title": "Légzési térfogat percenként (L/perc)",
   "tidal_volume_title": "Térfogat légzésenként (L)",
   "Time": "Idő",
   "Time in HR Z1": "Z1 HR zónában eltöltött idő",

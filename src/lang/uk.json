@@ -2429,7 +2429,7 @@
   "tick_both_boxes": "Обидва поля повинні бути відмічені:",
   "Tidal Vol": "Tidal Vol",
   "Tidal volume": "Дихальний об'єм",
-  "tidal_volume_min_title": "Хвилинна вентиляція (л/хв)",
+  "tidal_volume_min_title": "Дихальний об'єм за хвилину (л/хв)",
   "tidal_volume_title": "Об'єм на вдих (л)",
   "Time": "Час",
   "Time in HR Z1": "Час у ЧСС Z1",
