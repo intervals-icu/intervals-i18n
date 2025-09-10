@@ -2491,6 +2491,7 @@
   "to": "a",
   "Today": "Oggi",
   "Today as % of total for the week": "Oggi come % del totale della settimana",
+  "too_old_for_weather": "Questa attività è troppo vecchia per l'analisi meteorologica. I dati storici delle previsioni del tempo sono disponibili solo a partire dal {oldest}.",
   "Top": "Top",
   "Top Color": "Colore superiore",
   "Top left": "In alto a sinistra",

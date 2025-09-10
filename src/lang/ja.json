@@ -2491,6 +2491,7 @@
   "to": "から",
   "Today": "今日",
   "Today as % of total for the week": "今週の合計に対する今日の割合",
+  "too_old_for_weather": "このアクティビティは気象分析には古すぎます。過去の天気予報データは {oldest} 以降からしか利用できません。",
   "Top": "トップ",
   "Top Color": "トップのカラー",
   "Top left": "左上",

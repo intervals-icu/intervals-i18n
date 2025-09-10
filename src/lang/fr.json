@@ -2491,6 +2491,7 @@
   "to": "à",
   "Today": "Aujourd'hui",
   "Today as % of total for the week": "Aujourd'hui en % du total de la semaine",
+  "too_old_for_weather": "Cette activité est trop ancienne pour une analyse météorologique. Les données historiques de prévisions météorologiques ne sont disponibles qu'à partir de {oldest}.",
   "Top": "Haut",
   "Top Color": "Couleur supérieure",
   "Top left": "En haut à gauche",

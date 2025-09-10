@@ -2491,6 +2491,7 @@
   "to": "hoz",
   "Today": "Ma",
   "Today as % of total for the week": "Ma a hét összességének %-a",
+  "too_old_for_weather": "Ez a tevékenység túl régi az időjárás elemzéséhez. A történelmi időjárás-előrejelzési adatok csak {oldest} időponttól érhetők el.",
   "Top": "Felső",
   "Top Color": "Felső színe",
   "Top left": "Bal felső",

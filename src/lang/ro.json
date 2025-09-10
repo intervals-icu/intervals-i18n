@@ -2491,6 +2491,7 @@
   "to": "la",
   "Today": "Astăzi",
   "Today as % of total for the week": "Astăzi ca % din totalul săptămânii",
+  "too_old_for_weather": "Această activitate este prea veche pentru analiza meteo. Datele istorice ale prognozei meteo sunt disponibile doar începând cu {oldest}.",
   "Top": "Top",
   "Top Color": "Culoare superioară",
   "Top left": "Stânga sus",
