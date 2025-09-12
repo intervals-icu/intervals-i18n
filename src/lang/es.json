@@ -2292,6 +2292,7 @@
   "Sponsored Athlete": "Atleta patrocinado",
   "Sport Settings": "Ajustes deportivos",
   "sport_settings_combined_time_in_zones": "Intervals.icu informa sobre el tiempo combinado en zonas. Esto funciona mejor si tiene el mismo número de zonas de potencia, frecuencia cardíaca y ritmo y las zonas son comparables.",
+  "sport_settings_fields_blurb": "Valores personalizados del campo de actividad copiados en nuevas actividades para este deporte",
   "sports_settings_other_blurb": "Estas configuraciones se utilizan para actividades que no coinciden con ningún otro deporte",
   "Spreadsheet": "Hoja de cálculo",
   "Sprinter": "Sprinter",

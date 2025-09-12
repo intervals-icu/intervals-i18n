@@ -2292,6 +2292,7 @@
   "Sponsored Athlete": "Gesponserter Athlet",
   "Sport Settings": "Sport-Einstellungen",
   "sport_settings_combined_time_in_zones": "Intervals.icu erstellt Statistiken über die kombinierte Zeit in Zonen. Dies funktioniert am besten, wenn du die gleiche Anzahl von Zonen für Leistung, HF und Tempo eingestellt hast und die Zonen vergleichbar sind.",
+  "sport_settings_fields_blurb": "Benutzerdefinierte Aktivitätsfeldwerte werden auf neue Aktivitäten für diesen Sport übertragen",
   "sports_settings_other_blurb": "Diese Einstellungen werden für Aktivitäten verwendet, die mit keinen anderen Sportarten übereinstimmen.",
   "Spreadsheet": "Tabellenkalkulation",
   "Sprinter": "Sprinter",

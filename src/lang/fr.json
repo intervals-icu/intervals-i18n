@@ -2292,6 +2292,7 @@
   "Sponsored Athlete": "Athlète sponsorisé",
   "Sport Settings": "Paramètres du sport",
   "sport_settings_combined_time_in_zones": "Intervals.icu rapporte le temps combiné dans les zones. Cela fonctionne mieux si vous avez le même nombre de zones pour la puissance, la FC et l'allure et que les zones sont comparables.",
+  "sport_settings_fields_blurb": "Valeurs personnalisées des champs d'activité copiées sur les nouvelles activités pour ce sport",
   "sports_settings_other_blurb": "Ces paramètres sont utilisés pour des activités qui ne correspondent à aucun autre sport",
   "Spreadsheet": "Tableur",
   "Sprinter": "Sprinter",
