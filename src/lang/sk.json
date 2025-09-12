@@ -2292,6 +2292,7 @@
   "Sponsored Athlete": "Sponzorovaný športovec",
   "Sport Settings": "Športové nastavenia",
   "sport_settings_combined_time_in_zones": "Intervaly.icu uvádzajú kombinovaný čas v zónach. Najlepšie to funguje, ak máte rovnaký počet zón pre výkon, srdcovú frekvenciu a rýchlosť a zóny sú porovnateľné",
+  "sport_settings_fields_blurb": "Vlastné hodnoty aktivít skopírované do nových aktivít pre tento šport",
   "sports_settings_other_blurb": "Tieto nastavenia sa používajú pri činnostiach, ktoré nezodpovedajú žiadnemu inému športu",
   "Spreadsheet": "Tabuľka",
   "Sprinter": "Šprintér",

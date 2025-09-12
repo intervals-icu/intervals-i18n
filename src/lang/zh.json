@@ -2292,6 +2292,7 @@
   "Sponsored Athlete": "赞助运动员",
   "Sport Settings": "运动设置",
   "sport_settings_combined_time_in_zones": "Intervals.icu报告的是各区的综合时间。如果你的功率、心率和配速区间数量相同，效果最好且这些区间具有可比性",
+  "sport_settings_fields_blurb": "此运动的新活动中复制的自定义活动字段值",
   "sports_settings_other_blurb": "这些设置用于不匹配任何其他运动的活动",
   "Spreadsheet": "电子表格",
   "Sprinter": "冲刺手",
