@@ -509,6 +509,7 @@
   "chat_member_new_role": "'{0}' sekarang adalah grup {1}",
   "chat_removed_athlete": "Dihapus '{0}' dari grup",
   "Chats": "Obrolan",
+  "CHATS_scope_description": "Obrolan, grup, dan pesan Anda",
   "check_garmin_settings": "Silakan periksa pengaturan Garmin Anda untuk Intervals.icu:",
   "check_inbox_for_email": "Silakan periksa kotak masuk dan spam Anda untuk email konfirmasi dan klik tautannya",
   "Checkout": "Pembayaran",

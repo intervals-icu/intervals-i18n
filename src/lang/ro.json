@@ -509,6 +509,7 @@
   "chat_member_new_role": "'{0}' este acum un grup {1}",
   "chat_removed_athlete": "Îndepărtat '{0}' din grup",
   "Chats": "Conversații",
+  "CHATS_scope_description": "Conversațiile, grupurile și mesajele tale",
   "check_garmin_settings": "Te rugăm să verifici setările Garmin pentru Intervals.icu:",
   "check_inbox_for_email": "Te rugăm să verifici căsuța de e-mail și spam pentru un e-mail de confirmare și apasă pe link",
   "Checkout": "Verifica",

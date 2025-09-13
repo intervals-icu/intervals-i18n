@@ -509,6 +509,7 @@
   "chat_member_new_role": "'{0}'は現在グループ {1}である。",
   "chat_removed_athlete": "グループから「{0}」を削除",
   "Chats": "チャット",
+  "CHATS_scope_description": "チャット、グループ、メッセージ",
   "check_garmin_settings": "Intervals.icu のGarminの設定をご確認ください：",
   "check_inbox_for_email": "受信トレイや迷惑メールに届いている確認メールからリンクをクリックしてください。",
   "Checkout": "チェックアウト",
