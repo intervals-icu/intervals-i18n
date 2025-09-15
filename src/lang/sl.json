@@ -509,6 +509,7 @@
   "chat_member_new_role": "'{0}' je zdaj skupina {1}",
   "chat_removed_athlete": "Odstranjen '{0}' iz skupine",
   "Chats": "Klepeti",
+  "CHATS_scope_description": "Vaši klepeti, skupine in sporočila",
   "check_garmin_settings": "Preverite nastavitve Garmina za Intervals.icu:",
   "check_inbox_for_email": "Preverite svoj nabiralnik in vsiljeno pošto za potrditveno e-pošto in kliknite povezavo",
   "Checkout": "Preveri",

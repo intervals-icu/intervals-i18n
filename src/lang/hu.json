@@ -509,6 +509,7 @@
   "chat_member_new_role": "'{0}' most egy {1} csoport",
   "chat_removed_athlete": "Eltávolítva '{0}' a csoportból",
   "Chats": "Beszélgetések",
+  "CHATS_scope_description": "Az Ön csevegései, csoportjai és üzenetei",
   "check_garmin_settings": "Kérjük, ellenőrizze a Garmin beállításait az Intervals.icu számára:",
   "check_inbox_for_email": "Ellenőrizd a beérkező levelek mappáját és a spam mappát is, hogy vannak-e megerősítő e-mailek, és, ha igen, akkor kattints a linkre",
   "Checkout": "Kijelentkezés",

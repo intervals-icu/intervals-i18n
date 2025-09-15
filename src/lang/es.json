@@ -509,6 +509,7 @@
   "chat_member_new_role": "'{0}' ahora es un grupo {1}",
   "chat_removed_athlete": "Eliminado '{0}' del grupo",
   "Chats": "Chats",
+  "CHATS_scope_description": "Tus chats, grupos y mensajes",
   "check_garmin_settings": "Compruebe la configuración de su Garmin para Intervals.icu:",
   "check_inbox_for_email": "Revise su bandeja de entrada y correo no deseado para obtener un correo electrónico de confirmación y haga clic en el enlace",
   "Checkout": "Revisa",
