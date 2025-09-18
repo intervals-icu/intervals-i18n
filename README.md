@@ -24,7 +24,7 @@ to see what has actually changed.
 - Sebastian Murawski (pl)
 - Rastislav Srnánek (cs)
 - Matjaž Hribljan (sl)
-- Serhii Khrapin (uk)
+- Serhii Khrapin / Andrii Bondarchuk (uk)
 - Shingo Kitayama (ja)
 - Frederik (da)
 - Rodrigo Chogri Galli (pt-BR)
