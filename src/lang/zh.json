@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "无乳酸能量系统贡献",
   "Pedals": "脚踏",
   "Percentage of fitness": "健康度的百分比",
+  "percentage_of": "{n}的百分比",
   "percentage_of_ftp_blurb": "运动员功能阈值功率的百分比",
   "percentage_of_mmp_blurb": "在给定的持续时间内，运动员平均最大功率的百分比(默认为步骤时间)",
   "Period": "时期",

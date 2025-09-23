@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Contribution du système énergétique alactique",
   "Pedals": "Pédales",
   "Percentage of fitness": "Pourcentage de condition physique",
+  "percentage_of": "Pourcentage de {n}",
   "percentage_of_ftp_blurb": "Pourcentage de la FTP de l'athlète",
   "percentage_of_mmp_blurb": "Pourcentage de la puissance maximale moyenne de l'athlète pour une durée donnée (par défaut, la durée de l'étape)",
   "Period": "Règles",

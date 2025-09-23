@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Alaktatenergissystemets bidrag",
   "Pedals": "Pedaler",
   "Percentage of fitness": "Konditionsprocent",
+  "percentage_of": "Procentdel af {n}",
   "percentage_of_ftp_blurb": "Procentdel af atleternes funktionelle tærskeleffekt",
   "percentage_of_mmp_blurb": "Procentdel af atleterne betyder maksimal effekt for en given varighed (standard er skridtvarigheden)",
   "Period": "Periode",

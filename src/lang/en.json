@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Alactic energy system contribution",
   "Pedals": "Pedals",
   "Percentage of fitness": "Percentage of fitness",
+  "percentage_of": "Percentage of {n}",
   "percentage_of_ftp_blurb": "Percentage of the athletes functional threshold power",
   "percentage_of_mmp_blurb": "Percentage of the athletes mean maximal power for a given duration (default is the step duration)",
   "Period": "Period",

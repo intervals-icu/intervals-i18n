@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Contribuția sistemului energetic alactic",
   "Pedals": "Pedale",
   "Percentage of fitness": "Procentul de fitness",
+  "percentage_of": "Procentajul din {n}",
   "percentage_of_ftp_blurb": "Procentul puterii pragului funcțional al atletului",
   "percentage_of_mmp_blurb": "Procentul înseamnă puterea maximă a atletului pentru o anumită durată (implicit este durata secțiunii)",
   "Period": "Perioadă",

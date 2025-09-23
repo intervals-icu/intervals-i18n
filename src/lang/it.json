@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Contributo del sistema energetico alattacido",
   "Pedals": "Pedali",
   "Percentage of fitness": "percentuale del fitness",
+  "percentage_of": "Percentuale di {n}",
   "percentage_of_ftp_blurb": "Percentuale della potenza di soglia funzionale degli atleti",
   "percentage_of_mmp_blurb": "Percentuale della potenza massima media dell'atleta per una data durata (l'impostazione predefinita è la durata del passo)",
   "Period": "Periodo",

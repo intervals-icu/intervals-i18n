@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Contribuição do sistema de energia aláctica",
   "Pedals": "Pedais",
   "Percentage of fitness": "Percentagem de aptidão física",
+  "percentage_of": "Percentagem de {n}",
   "percentage_of_ftp_blurb": "Percentagem do limiar de potência funcional dos atletas",
   "percentage_of_mmp_blurb": "Percentagem dos atletas significa potência máxima para uma determinada duração (por defeito é a duração da etapa)",
   "Period": "Período mestrual",

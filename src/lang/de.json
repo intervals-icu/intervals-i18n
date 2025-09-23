@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Beitrag des alaktischen Energiesystems",
   "Pedals": "Pedale",
   "Percentage of fitness": "Prozentsatz der Fitness",
+  "percentage_of": "Prozentsatz von {n}",
   "percentage_of_ftp_blurb": "Prozentsatz der funktionellen Schwellenleistung des Athleten",
   "percentage_of_mmp_blurb": "Prozentsatz der durchschnittlichen Maximalleistung des Athleten für eine bestimmte Dauer (Standard ist die Schrittdauer)",
   "Period": "Zeitraum",

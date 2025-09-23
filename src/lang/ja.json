@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "乳酸エネルギーシステムの貢献",
   "Pedals": "ペダル",
   "Percentage of fitness": "フィットネスの％",
+  "percentage_of": "{n}の割合",
   "percentage_of_ftp_blurb": "アスリートのFTPの割合",
   "percentage_of_mmp_blurb": "ある継続時間におけるアスリートの平均最大パワーの割合（デフォルトはステップの継続時間）",
   "Period": "期間",

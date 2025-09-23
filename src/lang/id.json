@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Kontribusi sistem energi alaktat",
   "Pedals": "Pedal",
   "Percentage of fitness": "Persentase kebugaran",
+  "percentage_of": "Persentase dari {n}",
   "percentage_of_ftp_blurb": "Persentase daya ambang batas fungsional atlet",
   "percentage_of_mmp_blurb": "Persentase rata-rata daya maksimal atlet untuk durasi tertentu (standarnya adalah durasi langkah)",
   "Period": "Periode",

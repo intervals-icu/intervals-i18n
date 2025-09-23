@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Udział systemu energetycznego alaktacyjnego",
   "Pedals": "Pedały",
   "Percentage of fitness": "Procent wytrenowania",
+  "percentage_of": "Procent z {n}",
   "percentage_of_ftp_blurb": "Procent funkcjonalnej mocy progowej sportowców",
   "percentage_of_mmp_blurb": "Procent średniej mocy maksymalnej zawodnika dla danego czasu trwania (domyślnie jest to czas trwania kroku).",
   "Period": "Okres",

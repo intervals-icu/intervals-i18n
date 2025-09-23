@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Alaktikus energia rendszer hozzájárulás",
   "Pedals": "Pedálok",
   "Percentage of fitness": "A fittség százalékos arányában",
+  "percentage_of": "{n} százaléka",
   "percentage_of_ftp_blurb": "A sportolók funkcionális küszöbértéke",
   "percentage_of_mmp_blurb": "Egy adott időtartamra a maximális teljesítmény (MMP) százalékában megadott intenzitási érték. (alapértelmezés szerint az adott feladat időtartama)",
   "Period": "Menstruáció",

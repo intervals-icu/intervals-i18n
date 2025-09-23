@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Contribución del sistema de energía aláctica",
   "Pedals": "Pedales",
   "Percentage of fitness": "Porcentaje de aptitud",
+  "percentage_of": "Porcentaje de {n}",
   "percentage_of_ftp_blurb": "Porcentaje de la potencia del umbral funcional del deportista",
   "percentage_of_mmp_blurb": "Porcentaje de la potencia máxima media del deportista para una duración determinada (por defecto es la duración del paso)",
   "Period": "período",

@@ -1836,6 +1836,7 @@
   "pcr_stream_title": "Bijdrage van het alactische energiesysteem",
   "Pedals": "Pedalen",
   "Percentage of fitness": "Percentage van conditie",
+  "percentage_of": "Percentage van {n}",
   "percentage_of_ftp_blurb": "Percentage van het functionele drempelvermogen van de atleet",
   "percentage_of_mmp_blurb": "Percentage van het gemiddelde maximale vermogen van de atleet voor een bepaalde duur (standaard is de duur van de stap)",
   "Period": "Ongesteld",
