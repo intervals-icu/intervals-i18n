@@ -2490,6 +2490,7 @@
   "Time with headwind %": "Idő ellenszélben %",
   "Time with tailwind %": "Idő a tailwind %",
   "Time_duration": "Idő",
+  "time_in_zones": "Idő {n} zónában",
   "time_in_zones_hr_load_blurb": "Az edzésterhelés becslésére lineáris regressziós modell készül a korábbi, teljesítmény- és pulzus-adattal rögzített tevékenységeid alapján.",
   "time_trialist_blurb": "Kilométert kilométerre halmozhatsz az élen haladva fájdalom nélkül (Tony Martin)",
   "Timeline": "Idővonal",

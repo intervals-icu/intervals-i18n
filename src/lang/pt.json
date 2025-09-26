@@ -2490,6 +2490,7 @@
   "Time with headwind %": "Tempo com vento contra %",
   "Time with tailwind %": "Tempo com vento a favor %",
   "Time_duration": "Hora",
+  "time_in_zones": "Tempo em {n} zonas",
   "time_in_zones_hr_load_blurb": "As suas actividades anteriores com potência e frequência cardíaca são utilizadas para construir um modelo de regressão linear para estimar a carga de treino.",
   "time_trialist_blurb": "Pode fazer quilómetro após quilómetro na frente e não sentir dor (Tony Martin)",
   "Timeline": "Cronologia",

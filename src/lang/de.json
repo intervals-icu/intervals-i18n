@@ -2490,6 +2490,7 @@
   "Time with headwind %": "Zeit mit Gegenwind %",
   "Time with tailwind %": "Zeit mit Tailwind %",
   "Time_duration": "Zeit",
+  "time_in_zones": "Zeit in {n} Zonen",
   "time_in_zones_hr_load_blurb": "Deine bisherigen Aktivitäten mit Leistung und Herzfrequenz werden verwendet, um ein lineares Regressionsmodell zur Schätzung der Trainingsbelastung zu erstellen.",
   "time_trialist_blurb": "Du kannst Kilometer um Kilometer an der Spitze abspulen und hast keine Schmerzen (Tony Martin)",
   "Timeline": "Zeitstrahl",

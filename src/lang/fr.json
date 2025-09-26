@@ -2490,6 +2490,7 @@
   "Time with headwind %": "Temps avec vent de face %",
   "Time with tailwind %": "Temps avec vent de dos %",
   "Time_duration": "Durée",
+  "time_in_zones": "Temps dans {n} zones",
   "time_in_zones_hr_load_blurb": "Vos activités précédentes avec la puissance et la fréquence cardiaque sont utilisées pour construire un modèle de régression linéaire afin d'estimer la charge d'entraînement",
   "time_trialist_blurb": "Vous aimez les efforts en solitaire et pouvez avaler les kilomètres sans douleur (Tony Martin)",
   "Timeline": "Chronologie",

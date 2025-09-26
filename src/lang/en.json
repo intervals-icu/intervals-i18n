@@ -2490,6 +2490,7 @@
   "Time with headwind %": "Time with headwind %",
   "Time with tailwind %": "Time with tailwind %",
   "Time_duration": "Time",
+  "time_in_zones": "Time in {n} zones",
   "time_in_zones_hr_load_blurb": "Your previous activities with power and heart rate are used to build a linear regression model to estimate training load.",
   "time_trialist_blurb": "You can do kilometer after kilometer on the front and do not feel pain (Tony Martin)",
   "Timeline": "Timeline",

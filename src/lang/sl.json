@@ -2490,6 +2490,7 @@
   "Time with headwind %": "Čas s proti vetrom %",
   "Time with tailwind %": "Čas s tailwind %",
   "Time_duration": "Čas",
+  "time_in_zones": "Čas v {n} conah",
   "time_in_zones_hr_load_blurb": "Vaše prejšnje aktivnosti z močjo in srčnim utripom se uporabljajo za izgradnjo modela linearne regresije za oceno napora treninga.",
   "time_trialist_blurb": "Lahko delaš kilometer za kilometrom spredaj in ne čutiš bolečine (Tony Martin)",
   "Timeline": "Časovnica",

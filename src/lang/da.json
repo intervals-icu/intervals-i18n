@@ -2490,6 +2490,7 @@
   "Time with headwind %": "Tid med modvind %",
   "Time with tailwind %": "Tid med tailwind %",
   "Time_duration": "Tid",
+  "time_in_zones": "Tid i {n} zoner",
   "time_in_zones_hr_load_blurb": "Dine tidligere aktiviteter med effekt og puls bruges til at bygge en lineær regressionsmodel til at estimere træningsbelastning.",
   "time_trialist_blurb": "Du kan køre forrest kilometer efter kilometer og føler ikke smerte (Tony Martin)",
   "Timeline": "Tidslinje",
