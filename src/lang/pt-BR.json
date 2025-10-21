@@ -2501,6 +2501,7 @@
   "Time with headwind %": "Tempo com vento de frente %",
   "Time with tailwind %": "Tempo com vento de cauda %",
   "Time_duration": "Tempo",
+  "time_in_custom_zone": "Tempo na Zona Personalizada",
   "time_in_zones": "Tempo em {n} zonas",
   "time_in_zones_hr_load_blurb": "Suas atividades anteriores com potência e frequência cardíaca são usadas para construir um modelo de regressão linear para estimar a carga de treino.",
   "time_trialist_blurb": "Você consegue fazer quilômetro após quilômetro na frente sem sentir dor (Tony Martin)",

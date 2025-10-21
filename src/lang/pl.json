@@ -2501,6 +2501,7 @@
   "Time with headwind %": "Czas z wiatrem z przodu %",
   "Time with tailwind %": "Czas z wiatrem z tyłu %",
   "Time_duration": "Czas",
+  "time_in_custom_zone": "Czas w strefie niestandardowej",
   "time_in_zones": "Czas w {n} strefach",
   "time_in_zones_hr_load_blurb": "Poprzednie aktywności użytkownika wraz z mocą i tętnem są wykorzystywane do budowy modelu regresji liniowej w celu oszacowania obciążenia treningowego.",
   "time_trialist_blurb": "Możesz robić kilometr za kilometrem na froncie i nie czuć bólu (Tony Martin)",

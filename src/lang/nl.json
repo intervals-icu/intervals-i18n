@@ -2501,6 +2501,7 @@
   "Time with headwind %": "Tijd met tegenwind %",
   "Time with tailwind %": "Tijd met tailwind %",
   "Time_duration": "Tijd",
+  "time_in_custom_zone": "Tijd in Aangepaste Zone",
   "time_in_zones": "Tijd in {n} zones",
   "time_in_zones_hr_load_blurb": "Je eerdere activiteiten met zowel vermogen als hartslag worden gebruikt om een lineair regressiemodel te bouwen en de trainingsbelasting te schatten.",
   "time_trialist_blurb": "Je kan kilometers op kop rijden zonder pijn te voelen (Tony Martin)",

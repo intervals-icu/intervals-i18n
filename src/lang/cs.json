@@ -2501,6 +2501,7 @@
   "Time with headwind %": "Čas s protivětrem %",
   "Time with tailwind %": "Čas s tailwindem %",
   "Time_duration": "Čas",
+  "time_in_custom_zone": "Čas v uživatelské zóně",
   "time_in_zones": "Čas v {n} zónách",
   "time_in_zones_hr_load_blurb": "Vaše předchozí aktivity s výkonem a srdeční frekvencí se používají k sestavení lineárního regresního modelu pro odhad tréninkového zatížení.",
   "time_trialist_blurb": "Na přední straně můžete dělat kilometr za kilometrem a necítíte bolest (Tony Martin)",

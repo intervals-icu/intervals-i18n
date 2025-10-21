@@ -2501,6 +2501,7 @@
   "Time with headwind %": "Timp cu vânt din față %",
   "Time with tailwind %": "Timp cu vânt din spate %",
   "Time_duration": "Timp",
+  "time_in_custom_zone": "Timp în Zona Personalizată",
   "time_in_zones": "Timp în {n} zone",
   "time_in_zones_hr_load_blurb": "Activitățile tale anterioare cu putere și puls sunt utilizate pentru a construi un model de regresie liniară pentru a estima efortul de antrenament.",
   "time_trialist_blurb": "Poți face kilometru după kilometru în față și nu simți durere (Tony Martin)",

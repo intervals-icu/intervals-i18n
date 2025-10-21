@@ -2501,6 +2501,7 @@
   "Time with headwind %": "Waktu dengan angin depan %",
   "Time with tailwind %": "Waktu dengan tailwind %",
   "Time_duration": "Waktu",
+  "time_in_custom_zone": "Waktu di Zona Kustom",
   "time_in_zones": "Waktu dalam {n} zona",
   "time_in_zones_hr_load_blurb": "Aktivitas Anda sebelumnya dengan daya dan denyut jantung digunakan untuk membangun model regresi linier untuk memperkirakan beban latihan.",
   "time_trialist_blurb": "Anda dapat melakukan kilometer demi kilometer di bagian depan dan tidak merasakan sakit (Tony Martin)",
