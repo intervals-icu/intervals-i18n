@@ -1882,7 +1882,7 @@
   "Please choose a new password for your account": "Vă rugăm să alegeți o nouă parolă pentru contul dvs.",
   "Please enter your email and password to login": "Vă rugăm să introduceți adresa de email și parola pentru autentificare",
   "Please pay invoice": "Vă rugăm să plătiți factura",
-  "please_add_me_to_group": "Vă rog să mă adăugați la {group}, mulțumesc!",
+  "please_add_me_to_group": "Vă rog să mă adăugați la {0}, mulțumesc!",
   "please_capture_dob": "Te rugăm să îți introduci data nașterii pentru a vedea clasamentele bazate pe vârstă pentru putere! Cum te compari cu cei de vârsta ta?",
   "please_coach_me": "Te rog, antrenează-mă!",
   "please_describe_problem": "Te rugăm să descrii problema pe care o ai sau noua funcție interesantă la care te-ai gândit și voi vedea ce pot face.",

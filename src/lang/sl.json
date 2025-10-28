@@ -1882,7 +1882,7 @@
   "Please choose a new password for your account": "Prosimo, izberite novo geslo za svoj račun",
   "Please enter your email and password to login": "Prosimo, vnesite svoj e-poštni naslov in geslo za prijavo",
   "Please pay invoice": "Prosimo, plačajte račun",
-  "please_add_me_to_group": "Prosim, dodajte me v {group}, hvala!",
+  "please_add_me_to_group": "Prosim, dodajte me v {0}, hvala!",
   "please_capture_dob": "Zajemite svoj datum rojstva, da si ogledate starostno lestvico moči! Kako se primerjate s svojimi vrstniki?",
   "please_coach_me": "Prosim, trenirajte me!",
   "please_describe_problem": "Prosim, opišite težavo, ki jo imate, ali zanimivo novo funkcijo, na katero ste pomislili, in videli bomo, kaj lahko storimo.",

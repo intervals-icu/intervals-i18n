@@ -1882,7 +1882,7 @@
   "Please choose a new password for your account": "あなたのアカウントの新しいパスワードを選択してください",
   "Please enter your email and password to login": "Eメールとパスワードを入力してログインしてください",
   "Please pay invoice": "請求書にお支払いください",
-  "please_add_me_to_group": "{group}に参加させてください、thanks!",
+  "please_add_me_to_group": "{0}に参加させてください、thanks!",
   "please_capture_dob": "パワーの年齢別ランキングを見るには、生年月日を入力してください！同世代と比較してどうですか？",
   "please_coach_me": "コーチをお願いします",
   "please_describe_problem": "あなたが抱えている問題や、あなたが思いついたクールな新機能について書いてください。",

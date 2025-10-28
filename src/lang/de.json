@@ -1882,7 +1882,7 @@
   "Please choose a new password for your account": "Bitte wähle ein neues Passwort für dein Konto",
   "Please enter your email and password to login": "Bitte gib deine E-Mail und dein Passwort ein, um dich anzumelden",
   "Please pay invoice": "Bitte Rechnung bezahlen",
-  "please_add_me_to_group": "Bitte füge mich zu {group} hinzu, danke!",
+  "please_add_me_to_group": "Bitte füge mich zu {0} hinzu, danke!",
   "please_capture_dob": "Bitte erfasse dein Geburtsdatum, um altersbasierte Ranglisten für die Leistung anzuzeigen! Wie schneidest du im Vergleich zu deinen Kollegen ab?",
   "please_coach_me": "Bitte coache mich!",
   "please_describe_problem": "Bitte beschreibe das Problem, das du hast, oder die coole neue Funktion, an die du gedacht hast, und ich werde sehen, was ich tun kann.",

@@ -1882,7 +1882,7 @@
   "Please choose a new password for your account": "请为您的账户选择一个新的密码",
   "Please enter your email and password to login": "请输入你的电子邮件和密码来登录",
   "Please pay invoice": "请支付",
-  "please_add_me_to_group": "请把我加到 {group} 群组，谢谢!",
+  "please_add_me_to_group": "请把我加到 {0} 群组，谢谢!",
   "please_capture_dob": "请设置你的出生日期，以查看基于年龄的功率排名!你与你的同龄人相比如何？",
   "please_coach_me": "请指导我！",
   "please_describe_problem": "请描述你遇到的问题，或你想到的新酷功能，我来看看能做什么",

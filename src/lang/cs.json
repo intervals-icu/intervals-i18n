@@ -1882,7 +1882,7 @@
   "Please choose a new password for your account": "Zvolte prosím nové heslo pro svůj účet",
   "Please enter your email and password to login": "Pro přihlášení zadejte svůj e -mail a heslo",
   "Please pay invoice": "Zaplaťte prosím fakturu",
-  "please_add_me_to_group": "Přidejte si mě do služby {group}, děkuji!",
+  "please_add_me_to_group": "Přidejte si mě do služby {0}, děkuji!",
   "please_capture_dob": "Zaznamenejte prosím své datum narození a zobrazte žebříčky moci na základě věku! Jak si vedete ve srovnání se svými vrstevníky?",
   "please_coach_me": "Prosím, trenéruj mě!",
   "please_describe_problem": "Popište prosím váš problém nebo skvělou novou funkci, na kterou jste mysleli, a já uvidím, co mohu udělat.",

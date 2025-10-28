@@ -1882,7 +1882,7 @@
   "Please choose a new password for your account": "Por favor escolha uma nova senha para a sua conta",
   "Please enter your email and password to login": "Por favor introduza o seu e-mail e palavra-passe para iniciar sessão",
   "Please pay invoice": "Por favor pague a factura",
-  "please_add_me_to_group": "Por favor adicione-me ao {group}, obrigado!",
+  "please_add_me_to_group": "Por favor adicione-me ao {0}, obrigado!",
   "please_capture_dob": "Indique a sua data de nascimento para ver rankings baseados na idade em relação com a potência! Como está em relação aos seus pares?",
   "please_coach_me": "Por favor, treine-me!",
   "please_describe_problem": "Por favor, descreva o problema que está a ter ou a nova funcionalidade fixe em que pensou e eu verei o que posso fazer.",
