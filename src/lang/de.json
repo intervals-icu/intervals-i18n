@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Wie Werte für mehrere Aktivitäten am selben Tag in Fitnessdiagrammen kombiniert werden sollten",
   "custom_item_copied": "{n} wurde kopiert",
   "custom_streams_blurb": "Intervals.icu kann benutzerdefinierte Aktivitätsdatenströme aus Datensätzen in Fit-Dateien erstellen. Diese können sowohl einzeln dargestellt als auch zu benutzerdefinierten Aktivitätsdiagrammen hinzugefügt werden. Aktivitäten müssen erneut verarbeitet werden, um Daten für neue Streams zu extrahieren.",
+  "custom_zones_blurb": "Erstellen Sie Zonen für jeden Aktivitätsstrom (nicht nur Leistung, Herzfrequenz und Tempo) mit beliebigen Werten als Anker, zur Trainingssteuerung und Zeit in den Zonen",
   "Cut": "Zuschneiden",
   "CV%": "CV%",
   "Cycling Shoes": "Fahrradschuhe",

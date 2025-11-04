@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Hvordan værdier for flere aktiviteter på samme dag skal kombineres på fitnessdiagrammer",
   "custom_item_copied": "{n} er blevet kopieret",
   "custom_streams_blurb": "Intervals.icu kan oprette tilpassede aktivitetsdatastrømme fra poster i fit-filer. Disse kan tegnes for sig selv såvel som føjes til brugerdefinerede aktivitetsdiagrammer. Aktiviteter skal genbehandles for at udtrække data til nye strømme.",
+  "custom_zones_blurb": "Opret zoner for enhver aktivitetsstrøm (ikke kun effekt, puls og tempo) med vilkårlige værdier som ankre, til træningsforskrifter og tid i zoner",
   "Cut": "Skær",
   "CV%": "CV %",
   "Cycling Shoes": "Cykelsko",

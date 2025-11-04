@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Ako sa majú kombinovať hodnoty pre viacero aktivít v ten istý deň v grafoch fyzickej zdatnosti",
   "custom_item_copied": "{n} bol skopírovaný",
   "custom_streams_blurb": "Intervaly.icu môžu vytvárať vlastné dátové toky aktivít zo záznamov v súboroch fit. Tie možno vykresliť samostatne alebo pridať do vlastných grafov aktivity. Aktivity je potrebné opätovne spracovať, aby sa získali údaje pre nové toky",
+  "custom_zones_blurb": "Vytvorte zóny pre akýkoľvek tok aktivity (nielen výkon, tepovú frekvenciu a tempo) s ľubovoľnými hodnotami ako kotvami, pre predpis tréningu a čas v zónach",
   "Cut": "Rez",
   "CV%": "CV%",
   "Cycling Shoes": "Cyklistická obuv",

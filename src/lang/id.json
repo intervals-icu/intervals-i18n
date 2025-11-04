@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Bagaimana nilai untuk beberapa aktivitas pada hari yang sama harus digabungkan pada bagan kebugaran",
   "custom_item_copied": "{n} telah disalin",
   "custom_streams_blurb": "Intervals.icu dapat membuat aliran data aktivitas khusus dari catatan dalam file yang sesuai. Ini dapat diplot sendiri serta ditambahkan ke bagan aktivitas khusus. Aktivitas perlu diproses ulang untuk mengekstrak data untuk aliran baru.",
+  "custom_zones_blurb": "Buat zona untuk aliran aktivitas apa pun (tidak hanya daya, HR, dan kecepatan) dengan nilai apa pun sebagai jangkar, untuk resep latihan dan waktu dalam zona",
   "Cut": "Potong",
   "CV%": "CV%",
   "Cycling Shoes": "Sepatu Sepeda",

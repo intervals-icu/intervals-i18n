@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "同一天多项活动的值应如何在健康度图表上组合",
   "custom_item_copied": "{n} 已被复制",
   "custom_streams_blurb": "Intervals.icu 可以根据拟合文件中的记录创建自定义活动数据流。这些可以单独绘制，也可以添加到自定义活动图表中。需要重新处理活动以提取新流的数据。",
+  "custom_zones_blurb": "为任何活动流（不仅限于功率、心率和配速）创建区域，使用任意值作为锚点，用于锻炼处方和区域时间",
   "Cut": "切割",
   "CV%": "变异系数%",
   "Cycling Shoes": "骑行鞋",

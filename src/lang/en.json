@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "How values for multiple activities on the same day should be combined on fitness charts",
   "custom_item_copied": "{n} has been copied",
   "custom_streams_blurb": "Intervals.icu can create custom activity data streams from records in fit files. These can be plotted on their own as well as added to custom activity charts. Activities need to be re-processed to extract data for new streams.",
+  "custom_zones_blurb": "Create zones for any activity stream (not just power, HR and pace) with any values as anchors, for workout prescription and time in zones",
   "Cut": "Cut",
   "CV%": "CV%",
   "Cycling Shoes": "Cycling Shoes",

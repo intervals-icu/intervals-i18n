@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Kako naj se vrednosti za več dejavnosti na isti dan združijo na grafikonih telesne pripravljenosti",
   "custom_item_copied": "{n} je bil kopiran",
   "custom_streams_blurb": "Intervals.icu lahko ustvari tokove podatkov o dejavnosti po meri iz zapisov v datotekah fit. Te je mogoče izrisati samostojno ali dodati v grafikone dejavnosti po meri. Dejavnosti je treba znova obdelati, da se izvlečejo podatki za nove tokove.",
+  "custom_zones_blurb": "Ustvarite cone za kateri koli tok aktivnosti (ne samo moč, srčni utrip in tempo) z uporabo poljubnih vrednosti kot sidrnih točk, za predpisovanje vadbe in čas v conah",
   "Cut": "Rez",
   "CV%": "CV %",
   "Cycling Shoes": "Kolesarski čevlji",

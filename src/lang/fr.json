@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Comment les valeurs de plusieurs activités le même jour doivent être combinées sur les graphiques de condition physique",
   "custom_item_copied": "{n} a été copié",
   "custom_streams_blurb": "Intervals.icu peut créer des flux de données d'activité personnalisés à partir d'enregistrements dans des fichiers fit. Ceux-ci peuvent être tracés seuls ou ajoutés à des graphiques d'activité personnalisés. Les activités doivent être retraitées pour extraire les données des nouveaux flux.",
+  "custom_zones_blurb": "Créer des zones pour n'importe quel flux d'activité (pas seulement la puissance, la FC et l'allure) avec n'importe quelles valeurs comme points d'ancrage, pour la prescription d'entraînement et le temps passé dans les zones",
   "Cut": "Couper",
   "CV%": "%CV",
   "Cycling Shoes": "Chaussures de vélo",

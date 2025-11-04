@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Kies hoe meerdere activiteiten op één dag worden gecombineerd voor de conditiegrafieken",
   "custom_item_copied": "{n} is gekopieerd",
   "custom_streams_blurb": "Intervals.icu kan datareeksen voor activiteiten maken op basis van records in FIT-bestanden. Deze kunnen op zichzelf worden geplot en ook worden toegevoegd aan aangepaste activiteitengrafieken. Activiteiten moeten opnieuw worden verwerkt om gegevens voor nieuwe datareeksen te extraheren.",
+  "custom_zones_blurb": "Maak zones aan voor elke activiteitsstroom (niet alleen vermogen, hartslag en tempo) met willekeurige waarden als ankerpunten, voor trainingsvoorschriften en tijd in zones",
   "Cut": "Snijden",
   "CV%": "CV%",
   "Cycling Shoes": "Fietsschoenen",

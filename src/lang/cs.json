@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Jak by měly být kombinovány hodnoty pro více aktivit ve stejný den v grafech fitness",
   "custom_item_copied": "{n} bylo zkopírováno",
   "custom_streams_blurb": "Intervals.icu může vytvářet vlastní datové toky aktivit ze záznamů v souborech fit. Ty lze vykreslovat samostatně nebo je lze přidat do vlastních grafů aktivit. Činnosti je třeba znovu zpracovat, aby bylo možné extrahovat data pro nové toky.",
+  "custom_zones_blurb": "Vytvořte zóny pro jakýkoli proud aktivit (nejen výkon, tepová frekvence a tempo) s libovolnými hodnotami jako kotvami, pro předpis tréninku a čas v zónách",
   "Cut": "Řez",
   "CV%": "CV%",
   "Cycling Shoes": "Cyklistické boty",

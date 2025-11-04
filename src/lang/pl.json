@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Jak wartości dla wielu aktywności w tym samym dniu powinny być łączone na wykresach sprawności",
   "custom_item_copied": "{n} został skopiowany",
   "custom_streams_blurb": "Intervals.icu może tworzyć niestandardowe strumienie danych aktywności z zapisów w plikach dopasowania. Można je wykreślać samodzielnie, a także dodawać do niestandardowych wykresów aktywności. Działania muszą zostać ponownie przetworzone, aby wyodrębnić dane dla nowych strumieni.",
+  "custom_zones_blurb": "Twórz strefy dla dowolnego strumienia aktywności (nie tylko mocy, tętna i tempa) z dowolnymi wartościami jako punktami odniesienia, do przepisywania treningu i czasu w strefach",
   "Cut": "Cięcie",
   "CV%": "CV%",
   "Cycling Shoes": "Buty rowerowe",

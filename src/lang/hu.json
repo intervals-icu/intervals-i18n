@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Hogyan kell kombinálni az ugyanazon a napon végzett több tevékenység értékeit a fitneszdiagramokon",
   "custom_item_copied": "{n} átmásolva",
   "custom_streams_blurb": "Az Intervals.icu egyéni tevékenységi adatfolyamokat hozhat létre az illeszkedő fájlok rekordjaiból. Ezek önmagukban is ábrázolhatók, valamint hozzáadhatók egyéni tevékenységi diagramokhoz. A tevékenységeket újra fel kell dolgozni, hogy új adatfolyamokhoz kinyerhessük az adatokat.",
+  "custom_zones_blurb": "Hozzon létre zónákat bármilyen aktivitásfolyamhoz (nem csak teljesítmény, pulzus és tempó), bármilyen értékekkel horgonyként, edzés előírásához és zónákban töltött idő méréséhez",
   "Cut": "Vágás",
   "CV%": "CV%",
   "Cycling Shoes": "Kerékpáros cipők",

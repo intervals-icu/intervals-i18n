@@ -746,6 +746,7 @@
   "custom_field_aggregate_blurb": "Cum ar trebui combinate valorile pentru mai multe activități în aceeași zi pe diagramele de fitness",
   "custom_item_copied": "{n} a fost copiat",
   "custom_streams_blurb": "Intervals.icu poate crea fluxuri de date de activitate personalizate din înregistrări din fișierele de fit. Acestea pot fi trasate pe cont propriu, precum și adăugate la diagrame de activitate personalizate. Activitățile trebuie reprocesate pentru a extrage date pentru noile fluxuri.",
+  "custom_zones_blurb": "Creează zone pentru orice flux de activitate (nu doar putere, FC și ritm) cu orice valori ca ancore, pentru prescrierea antrenamentului și timpul petrecut în zone",
   "Cut": "Tăiere",
   "CV%": "CV%",
   "Cycling Shoes": "Pantofi de ciclism",
