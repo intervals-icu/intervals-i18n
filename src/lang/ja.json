@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "Rolling ramp rate",
   "Rollout": "稼働する",
   "Rotor": "ローター",
+  "round_zones_down": "計算されたゾーンの開始と終了を整数に丸める。",
   "Route": "ルート",
   "Route ID": "ルート ID",
   "route_add_tags_to_activities": "アクティビティに追加するタグ",

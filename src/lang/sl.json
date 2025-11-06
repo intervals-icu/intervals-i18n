@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "Postopna stopnja rasti",
   "Rollout": "Uvedba",
   "Rotor": "Rotor",
+  "round_zones_down": "Zaokrožite začetek in konec izračunane cone navzdol na celo število",
   "Route": "Pot",
   "Route ID": "ID poti",
   "route_add_tags_to_activities": "Oznake za dodajanje v dejavnosti",

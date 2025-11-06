@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "Tempo zvyšovania záťaže",
   "Rollout": "Zavedenie",
   "Rotor": "Rotor",
+  "round_zones_down": "Zaokrúhli začiatok a koniec vypočítanej zóny nadol na celé číslo",
   "Route": "Trasa",
   "Route ID": "ID trasy",
   "route_add_tags_to_activities": "Značky na pridanie k aktivitám",

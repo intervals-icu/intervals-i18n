@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "Rollierende Steigerungsrate",
   "Rollout": "Verteilung",
   "Rotor": "Rotor",
+  "round_zones_down": "Bereichsbeginn und -ende auf eine ganze Zahl abrunden",
   "Route": "Route",
   "Route ID": "Routen-ID",
   "route_add_tags_to_activities": "Zu Aktivitäten hinzuzufügende Tags",

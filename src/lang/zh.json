@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "滚动变化率",
   "Rollout": "展开",
   "Rotor": "电机",
+  "round_zones_down": "将计算出的区域起始和结束值向下取整为整数",
   "Route": "路线",
   "Route ID": "路线 ID",
   "route_add_tags_to_activities": "要添加到活动的标记",

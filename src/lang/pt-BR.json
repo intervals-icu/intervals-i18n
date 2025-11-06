@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "Taxa de Aumento Progressiva",
   "Rollout": "Rolagem",
   "Rotor": "Rotor",
+  "round_zones_down": "Arredonde o início e o fim da zona calculada para baixo até um número inteiro",
   "Route": "Rota",
   "Route ID": "ID da Rota",
   "route_add_tags_to_activities": "Tags para adicionar às atividades",

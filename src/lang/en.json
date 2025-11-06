@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "Rolling ramp rate",
   "Rollout": "Rollout",
   "Rotor": "Rotor",
+  "round_zones_down": "Round computed zone start and end down to an integer",
   "Route": "Route",
   "Route ID": "Route ID",
   "route_add_tags_to_activities": "Tags to add to activities",

@@ -2149,6 +2149,7 @@
   "Rolling ramp rate": "Tasa de rampa rodante",
   "Rollout": "despliegue",
   "Rotor": "Rotor",
+  "round_zones_down": "Redondear hacia abajo el inicio y el final de la zona calculada a un número entero",
   "Route": "Ruta",
   "Route ID": "ID de ruta",
   "route_add_tags_to_activities": "Etiquetas para agregar a las actividades",
