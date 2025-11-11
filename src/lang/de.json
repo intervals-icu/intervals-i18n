@@ -3002,6 +3002,7 @@
   "Zone Range": "Zonenbereich",
   "zone_end": "Zonenende",
   "zone_factor_blurb": "Verwende einen Faktor eines Ankerwerts oder eine absolute Zahl",
+  "zone_factor_blurb2": "Bitte beachten Sie, dass die Faktoren keine Prozentsätze sind, verwenden Sie 0.9 anstelle von 90.0",
   "zone_start": "Zonenbeginn",
   "zone_start_end_blurb": "Der Beginn jeder Zone ist inklusive, das Ende ist exklusiv",
   "Zones": "Zonen",

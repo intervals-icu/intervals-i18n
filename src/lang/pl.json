@@ -3002,6 +3002,7 @@
   "Zone Range": "Zakres strefy",
   "zone_end": "Koniec strefy",
   "zone_factor_blurb": "Użyj współczynnika wartości kotwicy lub liczby bezwzględnej",
+  "zone_factor_blurb2": "Proszę zauważyć, że czynniki nie są procentami, używaj 0.9 zamiast 90.0",
   "zone_start": "Początek strefy",
   "zone_start_end_blurb": "Początek każdej strefy jest włączny, koniec wyłączny",
   "Zones": "Strefy",

@@ -3002,6 +3002,7 @@
   "Zone Range": "Zóna tartomány",
   "zone_end": "Zóna vége",
   "zone_factor_blurb": "Használjon egy horgonyérték tényezőt vagy egy abszolút számot",
+  "zone_factor_blurb2": "Kérjük, vegye figyelembe, hogy a tényezők nem százalékok, használjon 0.9-et a 90.0 helyett",
   "zone_start": "Zóna kezdete",
   "zone_start_end_blurb": "Minden zóna kezdete beleértendő, a vége kizárt",
   "Zones": "Zónák",

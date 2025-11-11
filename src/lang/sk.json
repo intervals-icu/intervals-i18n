@@ -3002,6 +3002,7 @@
   "Zone Range": "Rozsah zóny",
   "zone_end": "Koniec zóny",
   "zone_factor_blurb": "Použite faktor kotviacej hodnoty alebo absolútne číslo",
+  "zone_factor_blurb2": "Upozorňujeme, že faktory nie sú percentá, použite 0.9 namiesto 90.0",
   "zone_start": "Začiatok zóny",
   "zone_start_end_blurb": "Začiatok každej zóny je vrátane, koniec je vylúčený",
   "Zones": "Zóny",

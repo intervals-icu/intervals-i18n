@@ -3002,6 +3002,7 @@
   "Zone Range": "ゾーンのレンジ",
   "zone_end": "ゾーンエンド",
   "zone_factor_blurb": "アンカー値の係数または絶対数を使用する",
+  "zone_factor_blurb2": "ファクターはパーセンテージではないことに注意してください。",
   "zone_start": "ゾーンスタート",
   "zone_start_end_blurb": "各ゾーンの始まりは包括的で、終わりは排他的である。",
   "Zones": "ゾーン",

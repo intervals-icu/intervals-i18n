@@ -3002,6 +3002,7 @@
   "Zone Range": "Zone interval",
   "zone_end": "Zoneslut",
   "zone_factor_blurb": "Brug en faktor af en anker værdi eller et absolut tal",
+  "zone_factor_blurb2": "Bemærk venligst, at faktorerne ikke er procenter, brug 0.9 i stedet for 90.0",
   "zone_start": "Zonesstart",
   "zone_start_end_blurb": "Starten af hver zone er inklusiv, slutningen er eksklusiv",
   "Zones": "Zoner",
