@@ -3002,6 +3002,7 @@
   "Zone Range": "Zonebereik",
   "zone_end": "Zone Einde",
   "zone_factor_blurb": "Gebruik een factor van een ankerwaarde of een absoluut getal",
+  "zone_factor_blurb2": "Houd er rekening mee dat de factoren geen percentages zijn, gebruik 0.9 in plaats van 90.0",
   "zone_start": "Zone Begin",
   "zone_start_end_blurb": "Het begin van elke zone is inclusief, het einde is exclusief",
   "Zones": "Zones",

@@ -3002,6 +3002,7 @@
   "Zone Range": "Intervalo de Zona",
   "zone_end": "Fim da Zona",
   "zone_factor_blurb": "Utilize um fator de um valor âncora ou um número absoluto",
+  "zone_factor_blurb2": "Por favor, note que os fatores não são percentagens, use 0.9 em vez de 90.0",
   "zone_start": "Início da Zona",
   "zone_start_end_blurb": "O início de cada zona é inclusivo, o fim é exclusivo",
   "Zones": "Zonas",

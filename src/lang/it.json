@@ -3002,6 +3002,7 @@
   "Zone Range": "Intervallo di zona",
   "zone_end": "Fine Zona",
   "zone_factor_blurb": "Usa un fattore di un valore di ancoraggio o un numero assoluto",
+  "zone_factor_blurb2": "Si prega di notare che i fattori non sono percentuali, utilizzare 0.9 invece di 90.0",
   "zone_start": "Inizio Zona",
   "zone_start_end_blurb": "L'inizio di ogni zona è incluso, la fine è esclusa",
   "Zones": "Zone",

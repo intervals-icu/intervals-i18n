@@ -3002,6 +3002,7 @@
   "Zone Range": "区域范围",
   "zone_end": "区域结束",
   "zone_factor_blurb": "使用锚值的因子或绝对数值",
+  "zone_factor_blurb2": "请注意，这些因素不是百分比，使用0.9而不是90.0",
   "zone_start": "区域开始",
   "zone_start_end_blurb": "每个区间的起始值包含在内，结束值不包含在内",
   "Zones": "区域",

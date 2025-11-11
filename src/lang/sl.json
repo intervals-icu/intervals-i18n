@@ -3002,6 +3002,7 @@
   "Zone Range": "Območje cone",
   "zone_end": "Konec cone",
   "zone_factor_blurb": "Uporabite faktor sidrne vrednosti ali absolutno število",
+  "zone_factor_blurb2": "Upoštevajte, da dejavniki niso odstotki, uporabite 0.9 namesto 90.0",
   "zone_start": "Začetek cone",
   "zone_start_end_blurb": "Začetek vsake cone je vključen, konec pa izključen",
   "Zones": "Cone",

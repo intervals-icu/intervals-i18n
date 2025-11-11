@@ -3002,6 +3002,7 @@
   "Zone Range": "Rentang Zona",
   "zone_end": "Akhir Zona",
   "zone_factor_blurb": "Gunakan faktor dari nilai jangkar atau angka absolut",
+  "zone_factor_blurb2": "Harap dicatat bahwa faktor-faktor tersebut bukan persentase, gunakan 0.9 bukan 90.0",
   "zone_start": "Awal Zona",
   "zone_start_end_blurb": "Awal setiap zona termasuk, akhir tidak termasuk",
   "Zones": "Zona",

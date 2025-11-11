@@ -3002,6 +3002,7 @@
   "Zone Range": "Plage de zones",
   "zone_end": "Fin de zone",
   "zone_factor_blurb": "Utilisez un facteur d'une valeur d'ancrage ou un nombre absolu",
+  "zone_factor_blurb2": "Veuillez noter que les facteurs ne sont pas des pourcentages, utilisez 0.9 au lieu de 90.0",
   "zone_start": "Début de zone",
   "zone_start_end_blurb": "Le début de chaque zone est inclusif, la fin est exclusive",
   "Zones": "Zones",
