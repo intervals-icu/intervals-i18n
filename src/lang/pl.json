@@ -469,6 +469,8 @@
   "Bucket size": "Rozmiar woaderka",
   "Bucket Size": "Rozmiar wiaderka",
   "Bulk Delete Activities": "Usuwanie zbiorcze aktywności",
+  "bulk_athlete_setup": "Konfiguracja Zawodnika Masowego",
+  "bulk_athlete_setup_blurb": "Łatwe konfigurowanie wielu zawodników jednocześnie, z niestandardowymi polami, strefami i innymi funkcjami",
   "Buy Coins": "Kup monety",
   "C Race": "Zawody C",
   "Cable": "Kabel",

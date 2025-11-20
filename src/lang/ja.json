@@ -469,6 +469,8 @@
   "Bucket size": "バケットサイズ",
   "Bucket Size": "バケットサイズ",
   "Bulk Delete Activities": "アクティビティの一括削除",
+  "bulk_athlete_setup": "一括アスリート設定",
+  "bulk_athlete_setup_blurb": "カスタムフィールド、ゾーン、その他の機能を使って、複数のアスリートを一度に簡単に設定できます。",
   "Buy Coins": "コインを買う",
   "C Race": "Cレース",
   "Cable": "ケーブル",
