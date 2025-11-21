@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Aktualizujte zóny, aby zodpovedali aktuálnym nastaveniam",
   "update_email_settings": "Aktualizujte svoje e-mailové preferencie Intervals.icu",
   "Update_n": "Aktualizovať {n}",
+  "Update_n_failed": "Aktualizácia {n} zlyhala",
   "update_specific_activities_blurb": "Ak potrebujete aktualizovať konkrétne aktivity alebo aktivity zodpovedajúce časovému obdobiu, použite <a href='https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3' target='_blank'>zobrazenie zoznamu aktivít</a>",
   "update_strava_name": "Aktualizujte názov a popis služby Strava",
   "Updated": "Aktualizované {n}",

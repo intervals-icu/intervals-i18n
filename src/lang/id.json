@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Perbarui zona agar sesuai dengan pengaturan saat ini",
   "update_email_settings": "Perbarui preferensi email Intervals.icu",
   "Update_n": "Perbarui {n}",
+  "Update_n_failed": "Pembaruan {n} gagal",
   "update_specific_activities_blurb": "Jika Anda perlu memperbarui aktivitas tertentu atau aktivitas yang cocok dengan rentang tanggal, gunakan <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">tampilan daftar aktivitas</a>.",
   "update_strava_name": "Perbarui nama dan deskripsi Strava",
   "Updated": "Diperbarui {n}",

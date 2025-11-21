@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Zones bijwerken volgens de huidige instellingen",
   "update_email_settings": "Intervals.icu e-mail voorkeuren bijwerken",
   "Update_n": "Bijwerken {n}",
+  "Update_n_failed": "Bijwerken van {n} mislukt",
   "update_specific_activities_blurb": "Als je specifieke activiteiten of activiteiten die overeenkomen met een bepaalde periode wilt bijwerken, gebruik je de <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">activiteitenlijstweergave</a>.",
   "update_strava_name": "Update Strava-naam en -beschrijving",
   "Updated": "Bijgewerkt {n}",

@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "更新区间以符合当前设置",
   "update_email_settings": "更新Intervals.icu电子邮件首选项",
   "Update_n": "更新 {n}",
+  "Update_n_failed": "更新 {n} 失败",
   "update_specific_activities_blurb": "如果您需要更新特定活动或与日期范围匹配的活动，请使用 <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">活动列表视图</a>。",
   "update_strava_name": "更新 Strava 名称和描述",
   "Updated": "已更新 {n}",

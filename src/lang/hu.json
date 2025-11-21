@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Zónák frissítése az aktuális beállításoknak megfelelően",
   "update_email_settings": "Frissítsd az Intervals.icu e-mail beállításaid",
   "Update_n": "Frissítés {n}",
+  "Update_n_failed": "A(z) {n} frissítése sikertelen",
   "update_specific_activities_blurb": "Ha frissítenie kell bizonyos tevékenységeket vagy egy dátumtartományhoz tartozó tevékenységeket, használja a <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">tevékenységlista nézetet</a>.",
   "update_strava_name": "Frissítse a Strava nevét és leírását",
   "Updated": "Frissítve {n}",

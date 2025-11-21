@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "今の設定に合うようにゾーンを更新する",
   "update_email_settings": "Intervals.icuのメール設定を更新する",
   "Update_n": "アップデート {n}",
+  "Update_n_failed": "アップデート {n} 失敗しました",
   "update_specific_activities_blurb": "特定のアクティビティ、または日付範囲に一致するアクティビティを更新する必要がある場合は、 <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">アクティビティ リスト ビュー</a>を使用してください。",
   "update_strava_name": "Stravaの名前と説明を更新する",
   "Updated": "更新 {n}",

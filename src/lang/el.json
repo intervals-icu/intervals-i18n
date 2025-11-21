@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Ενημέρωση των ζωνών για να ταιριάζουν με τις τρέχουσες ρυθμίσεις",
   "update_email_settings": "Ενημέρωση προτιμήσεων ηλεκτρονικού ταχυδρομείου Intervals.icu",
   "Update_n": "Ενημέρωση {n}",
+  "Update_n_failed": "Η ενημέρωση {n} απέτυχε",
   "update_specific_activities_blurb": "Εάν πρέπει να ενημερώσετε συγκεκριμένες δραστηριότητες ή δραστηριότητες που αντιστοιχούν σε ένα εύρος ημερομηνιών, χρησιμοποιήστε την προβολή <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">της λίστας δραστηριοτήτων</a>.",
   "update_strava_name": "Ενημερώστε το όνομα και την περιγραφή του Strava",
   "Updated": "Updated {n}",

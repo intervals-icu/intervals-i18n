@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Update zones to match current settings",
   "update_email_settings": "Update Intervals.icu email preferences",
   "Update_n": "Update {n}",
+  "Update_n_failed": "Update {n} failed",
   "update_specific_activities_blurb": "If you need to update specific activities or activities matching a date range please use the <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3\" target=\"_blank\">activity list view</a>.",
   "update_strava_name": "Update Strava name and description",
   "Updated": "Updated {n}",

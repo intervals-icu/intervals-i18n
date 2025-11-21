@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Opdater zoner, så de matcher de aktuelle indstillinger",
   "update_email_settings": "Opdater Intervals.icu-e-mail-præferencer",
   "Update_n": "Opdater {n}",
+  "Update_n_failed": "Opdatering af {n} mislykkedes",
   "update_specific_activities_blurb": "Hvis du har brug for at opdatere specifikke aktiviteter eller aktiviteter, der matcher et datointerval, skal du bruge <a href=\"https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3 \" target=\"_blank\">visning af aktivitetsliste</a>.",
   "update_strava_name": "Opdater Strava navn og beskrivelse",
   "Updated": "Opdateret {n}",

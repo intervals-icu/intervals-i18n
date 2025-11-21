@@ -2701,6 +2701,7 @@
   "Update zones to match current settings": "Atualizar zonas para corresponder às configurações atuais",
   "update_email_settings": "Atualizar preferências de email do Intervals.icu",
   "Update_n": "Atualizar {n}",
+  "Update_n_failed": "Atualização de {n} falhou",
   "update_specific_activities_blurb": "Se precisar atualizar atividades específicas ou atividades correspondentes a um intervalo de datas, por favor, use a <a href='https://forum.intervals.icu/t/activities-page-a-guide-to-getting-started/17698/3' target='_blank'>visualização da lista de atividades</a>.",
   "update_strava_name": "Atualizar nome e descrição do Strava",
   "Updated": "Atualizado {n}",
