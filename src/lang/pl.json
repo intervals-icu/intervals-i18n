@@ -201,6 +201,8 @@
   "add_weather": "Kliknij, aby pokazać analizę wiatru",
   "add_weather_to_strava_blurb": "Dodaj informacje o pogodzie do opisu swoich aktywności Strava",
   "add_weather_to_strava_prompt": "Czy chcesz dodać podsumowanie pogody do opisów swoich aktywności Strava?",
+  "add_wellness_to_calendar": "Dodaj pola wellness do kalendarza",
+  "add_wellness_to_form": "Dodaj pola wellness do formularza rejestracji wellness",
   "added_to_coaching_group_msg": "Zostałeś dodany do grupy '{0}', która jest grupą szkoleniową. Wszyscy obecni i przyszli administratorzy oraz trenerzy w grupie będą mogli widzieć i aktualizować Twoje dane. Ułatwia to zarządzanie sportowcami dla zespołów i firm szkoleniowych. Czy zgadzasz się na to? Odpowiedz Tak, jeśli ufasz administratorom grupy.",
   "added_to_group_chat_msg_sub": "{0} dodał cię do '{1}'",
   "added_to_library": "{name} został dodany do twojej biblioteki",

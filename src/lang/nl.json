@@ -201,6 +201,8 @@
   "add_weather": "Klik om windanalyse te tonen",
   "add_weather_to_strava_blurb": "Voeg weerinformatie toe aan de beschrijving van je Strava-activiteiten",
   "add_weather_to_strava_prompt": "Wil je weersinformatie toevoegen aan de beschrijvingen van je Strava-activiteiten?",
+  "add_wellness_to_calendar": "Voeg welzijnsvelden toe aan de kalender",
+  "add_wellness_to_form": "Voeg welzijnsvelden toe aan het welzijnsregistratieformulier",
   "added_to_coaching_group_msg": "Je bent toegevoegd aan de groep '{0}', een coachingsgroep. Alle huidige en toekomstige beheerders en coaches in de groep kunnen jouw gegevens zien en bijwerken. Dit maakt het voor teams en coachingsbedrijven gemakkelijker om hun atleten te beheren. Ben je hier tevreden mee? Antwoord alleen met Ja als je de groepsbeheerders vertrouwt.",
   "added_to_group_chat_msg_sub": "{0} heeft je toegevoegd aan '{1}'",
   "added_to_library": "{name} is toegevoegd aan je bibliotheek",

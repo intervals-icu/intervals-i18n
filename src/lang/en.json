@@ -201,6 +201,8 @@
   "add_weather": "Click to show wind analysis",
   "add_weather_to_strava_blurb": "Add weather information to the description of your Strava activities",
   "add_weather_to_strava_prompt": "Would you like to add weather summary information to the descriptions of your Strava activities?",
+  "add_wellness_to_calendar": "Add wellness fields to calendar",
+  "add_wellness_to_form": "Add wellness fields to wellness capture form",
   "added_to_coaching_group_msg": "You have been added to the group '{0}' which is a coaching group. All current and future admins and coaches in the group will be able to see and update your data. This makes it easier for teams and coaching businesses to manage their athletes. Are you happy with this? Only answer Yes if you trust the group admins.",
   "added_to_group_chat_msg_sub": "{0} has added you to '{1}'",
   "added_to_library": "{name} has been added to your library",

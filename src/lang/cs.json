@@ -201,6 +201,8 @@
   "add_weather": "Klikněte pro zobrazení analýzy větru",
   "add_weather_to_strava_blurb": "Přidat informace o počasí do popisu vašich aktivit na Stravě",
   "add_weather_to_strava_prompt": "Chtěli byste přidat shrnutí počasí do popisů vašich aktivit na Stravě?",
+  "add_wellness_to_calendar": "Přidat pole wellness do kalendáře",
+  "add_wellness_to_form": "Přidat pole wellness do formuláře pro zaznamenávání wellness",
   "added_to_coaching_group_msg": "Byli jste přidáni do skupiny '{0}', což je koučovací skupina. Všichni současní a budoucí správci a trenéři ve skupině budou moci vidět a upravovat vaše údaje. To usnadňuje týmům a koučovacím podnikům správu jejich sportovců. Jste s tímto spokojeni? Odpovězte pouze Ano, pokud důvěřujete správcům skupiny.",
   "added_to_group_chat_msg_sub": "{0} vás přidal do „{1}“",
   "added_to_library": " Uživatel{name} byl přidán do vaší knihovny",

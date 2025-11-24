@@ -201,6 +201,8 @@
   "add_weather": "Klik untuk menampilkan analisis angin",
   "add_weather_to_strava_blurb": "Tambahkan informasi cuaca ke deskripsi aktivitas Strava Anda",
   "add_weather_to_strava_prompt": "Apakah Anda ingin menambahkan informasi ringkasan cuaca ke deskripsi aktivitas Strava Anda?",
+  "add_wellness_to_calendar": "Tambahkan bidang kebugaran ke kalender",
+  "add_wellness_to_form": "Tambahkan bidang kebugaran ke formulir pencatatan kebugaran",
   "added_to_coaching_group_msg": "Anda telah ditambahkan ke grup '{0}' yang merupakan grup pelatihan. Semua admin dan pelatih saat ini dan di masa depan dalam grup akan dapat melihat dan memperbarui data Anda. Ini memudahkan tim dan bisnis pelatihan dalam mengelola atlet mereka. Apakah Anda setuju dengan ini? Jawab Ya hanya jika Anda mempercayai admin grup.",
   "added_to_group_chat_msg_sub": "{0} telah menambahkan Anda ke '{1}'",
   "added_to_library": "{name} telah ditambahkan ke perpustakaan Anda",

@@ -201,6 +201,8 @@
   "add_weather": "Faceți clic pentru a arăta analiza vântului",
   "add_weather_to_strava_blurb": "Adaugă informații despre vreme în descrierea activităților tale Strava",
   "add_weather_to_strava_prompt": "Ai dori să adaugi informații sumare despre vreme în descrierile activităților tale Strava?",
+  "add_wellness_to_calendar": "Adaugă câmpuri de wellness în calendar",
+  "add_wellness_to_form": "Adaugă câmpuri de wellness în formularul de captare a stării de bine",
   "added_to_coaching_group_msg": "Ai fost adăugat în grupul '{0}', care este un grup de antrenament. Toți administratorii și antrenorii actuali și viitori din grup vor putea vedea și actualiza datele tale. Acest lucru face mai ușor pentru echipe și afaceri de coaching să gestioneze sportivii lor. Ești de acord cu acest lucru? Răspunde doar cu Da dacă ai încredere în administratorii grupului.",
   "added_to_group_chat_msg_sub": "{0} te-a adăugat la '{1}'",
   "added_to_library": "{name} a fost adăugat în bibliotecă",

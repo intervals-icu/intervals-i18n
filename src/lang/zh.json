@@ -201,6 +201,8 @@
   "add_weather": "点击以显示风分析",
   "add_weather_to_strava_blurb": "将天气信息添加到您 Strava 活动的描述中",
   "add_weather_to_strava_prompt": "您想将天气摘要信息添加到您 Strava 活动的描述中吗？",
+  "add_wellness_to_calendar": "将健康字段添加到日历",
+  "add_wellness_to_form": "将健康字段添加到健康采集表单",
   "added_to_coaching_group_msg": "你已被添加到群组 '{0}'，这是一个教练群组。该群组中的所有现任和未来的管理员及教练都可以查看和更新你的数据。这使得团队和教练业务更容易管理他们的运动员。你对此满意吗？只有在你信任群组管理员的情况下才回答“是”。",
   "added_to_group_chat_msg_sub": "{0}已将您添加到'{1}'中",
   "added_to_library": "{name}已被添加到您的资料库中",

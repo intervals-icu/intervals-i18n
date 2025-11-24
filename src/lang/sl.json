@@ -201,6 +201,8 @@
   "add_weather": "Kliknite za prikaz analize vetra",
   "add_weather_to_strava_blurb": "Dodaj informacije o vremenu v opis svojih Strava aktivnosti",
   "add_weather_to_strava_prompt": "Ali želite dodati povzetek vremenskih informacij v opise svojih Strava aktivnosti?",
+  "add_wellness_to_calendar": "Dodaj polja za dobro počutje v koledar",
+  "add_wellness_to_form": "Dodaj polja za dobro počutje v obrazec za zajemanje podatkov o dobrem počutju",
   "added_to_coaching_group_msg": "Bili ste dodani v skupino '{0}', ki je skupina za trening. Vsi trenutni in prihodnji skrbniki in trenerji v skupini bodo lahko videli in posodobili vaše podatke. To olajša upravljanje športnikov za ekipe in trenerje. Ali ste s tem zadovoljni? Odgovorite samo Da, če zaupate skrbnikom skupine.",
   "added_to_group_chat_msg_sub": " Oseba{0} vas je dodala v »{1}«",
   "added_to_library": "{name} je bil dodan v vašo knjižnico",

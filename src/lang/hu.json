@@ -201,6 +201,8 @@
   "add_weather": "Kattintson a szélanalízis megjelenítéséhez",
   "add_weather_to_strava_blurb": "Időjárási információ hozzáadása a Strava tevékenységeid leírásához",
   "add_weather_to_strava_prompt": "Szeretnél időjárási összefoglaló információt hozzáadni a Strava tevékenységeid leírásához?",
+  "add_wellness_to_calendar": "Jóléti mezők hozzáadása a naptárhoz",
+  "add_wellness_to_form": "Jóléti mezők hozzáadása a jóléti rögzítő űrlaphoz",
   "added_to_coaching_group_msg": "Hozzáadtak a(z) '{0}' csoporthoz, amely egy edzői csoport. A csoport összes jelenlegi és jövőbeli adminisztrátora és edzője láthatja és frissítheti az adataidat. Ez megkönnyíti a csapatok és az edzői vállalkozások számára az atléták kezelését. Egyetértesz ezzel? Csak akkor válaszolj Igen-t, ha bízhatsz a csoport adminjaiban.",
   "added_to_group_chat_msg_sub": "{0} felvett téged a(z) '{1}' csoportba",
   "added_to_library": "{name} hozzáadva a könyvtárhoz",
