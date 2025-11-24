@@ -604,6 +604,7 @@
   "coach_request_sent": "Wniosek o trenera wysłany!",
   "coach_tick_blurb": "Jak dobrze poradził sobie zawodnik?",
   "coached_athletes_from": "Sportowcy, których trenujesz z {n}",
+  "coached_athletes_tagged": "Zawodnicy trenowani oznaczeni {n}",
   "Coaching": "Szkolenie",
   "Coaching Group": "Grupa szkoleniowa",
   "coaching_group_warning": "To jest grupa szkoleniowa. Jeśli do niej dołączysz, wszyscy obecni i przyszli administratorzy oraz trenerzy w grupie będą mogli zobaczyć i zaktualizować Twoje dane. Dołączaj do grupy tylko wtedy, gdy ufasz administratorom.",

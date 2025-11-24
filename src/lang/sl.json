@@ -604,6 +604,7 @@
   "coach_request_sent": "Zahteva za trenerja poslana!",
   "coach_tick_blurb": "Kako dobro je športnik nastopil?",
   "coached_athletes_from": "Športniki, ki jih trenirate iz {n}",
+  "coached_athletes_tagged": "Trenirani športniki označeni s {n}",
   "Coaching": "Usposabljanje",
   "Coaching Group": "Skupina za trenerstvo",
   "coaching_group_warning": "To je skupina za trenerje. Če se ji pridružite, bodo vsi trenutni in prihodnji skrbniki ter trenerji v skupini lahko videli in posodabljali vaše podatke. Pridružite se skupini le, če zaupate skrbnikom.",

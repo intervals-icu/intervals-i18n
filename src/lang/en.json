@@ -604,6 +604,7 @@
   "coach_request_sent": "Coach request sent!",
   "coach_tick_blurb": "How well did the athlete perform?",
   "coached_athletes_from": "Athletes you coach from {n}",
+  "coached_athletes_tagged": "Coached athletes tagged {n}",
   "Coaching": "Coaching",
   "Coaching Group": "Coaching Group",
   "coaching_group_warning": "This is a coaching group. If you join it, all the current and future admins and coaches in the group will be able to see and update your data. Only join the group if you trust the admins.",

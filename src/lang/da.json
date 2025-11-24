@@ -604,6 +604,7 @@
   "coach_request_sent": "Træneranmodning sendt!",
   "coach_tick_blurb": "Hvor godt præsterede atleten?",
   "coached_athletes_from": "Atleter du træner fra {n}",
+  "coached_athletes_tagged": "Trænede atleter markeret {n}",
   "Coaching": "Coaching",
   "Coaching Group": "Coaching Group",
   "coaching_group_warning": "Dette er en coachinggruppe. Hvis du tilmelder dig den, vil alle nuværende og fremtidige administratorer og trænere i gruppen kunne se og opdatere dine data. Tilmeld dig kun gruppen, hvis du har tillid til administratorerne.",

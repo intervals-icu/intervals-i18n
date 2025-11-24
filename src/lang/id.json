@@ -604,6 +604,7 @@
   "coach_request_sent": "Permintaan pelatih dikirim!",
   "coach_tick_blurb": "Seberapa baik atlet tersebut tampil?",
   "coached_athletes_from": "Atlet yang Anda latih dari {n}",
+  "coached_athletes_tagged": "Atlet yang dilatih diberi tag {n}",
   "Coaching": "Pelatihan",
   "Coaching Group": "Kelompok Pelatihan",
   "coaching_group_warning": "Ini adalah grup pelatihan. Jika Anda bergabung, semua admin dan pelatih saat ini dan di masa depan dalam grup akan dapat melihat dan memperbarui data Anda. Bergabunglah hanya jika Anda mempercayai admin.",

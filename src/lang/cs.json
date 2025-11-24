@@ -604,6 +604,7 @@
   "coach_request_sent": "Žádost o trenérskou službu odeslána!",
   "coach_tick_blurb": "Jak dobře si sportovec vedl?",
   "coached_athletes_from": "Sportovci, které trénujete od {n}",
+  "coached_athletes_tagged": "Trenéři označili {n} sportovců",
   "Coaching": "Koučování",
   "Coaching Group": "Skupina koučinku",
   "coaching_group_warning": "Toto je koučovací skupina. Pokud se do ní připojíte, všichni současní a budoucí správci a trenéři ve skupině budou moci vidět a aktualizovat vaše údaje. Připojte se ke skupině pouze v případě, že důvěřujete správcům.",

@@ -604,6 +604,7 @@
   "coach_request_sent": "教练请求已发送！",
   "coach_tick_blurb": "运动员表现如何？",
   "coached_athletes_from": "您指导的运动员来自 {n}",
+  "coached_athletes_tagged": "被教练指导的运动员标记为 {n}",
   "Coaching": "教练",
   "Coaching Group": "教练组",
   "coaching_group_warning": "这是一个教练团队。如果你加入，团队中的所有当前和未来的管理员和教练都将能够查看和更新你的数据。只有在你信任管理员的情况下才加入该团队。",

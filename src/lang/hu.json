@@ -604,6 +604,7 @@
   "coach_request_sent": "Edzői kérés elküldve!",
   "coach_tick_blurb": "Milyen jól teljesített az atlétája?",
   "coached_athletes_from": "Az általad edzett sportolók száma: {n}",
+  "coached_athletes_tagged": "Edzett sportolók száma: {n}",
   "Coaching": "Edzés",
   "Coaching Group": "Edzőcsoport",
   "coaching_group_warning": "Ez egy edzőcsoport. Ha csatlakozol hozzá, a csoport összes jelenlegi és jövőbeli adminisztrátora és edzője láthatja és frissítheti az adataidat. Csak akkor csatlakozz a csoporthoz, ha megbízol az adminokban.",

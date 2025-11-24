@@ -604,6 +604,7 @@
   "coach_request_sent": "Pedido de treinador enviado!",
   "coach_tick_blurb": "Quão bem se saiu o atleta?",
   "coached_athletes_from": "Atletas que treina de {n}",
+  "coached_athletes_tagged": "Atletas treinados etiquetados {n}",
   "Coaching": "A treinar",
   "Coaching Group": "Grupo de Treino",
   "coaching_group_warning": "Este é um grupo de treino. Se você ingressar nele, todos os administradores e treinadores atuais e futuros do grupo poderão ver e atualizar seus dados. Junte-se ao grupo apenas se confiar nos administradores.",
