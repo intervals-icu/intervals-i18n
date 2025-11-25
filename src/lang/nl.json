@@ -1222,6 +1222,7 @@
   "Group URL": "Groep-URL",
   "group_admins_blurb": "Groepsbeheerders kunnen groepsinstellingen wijzigen en atleten toevoegen en verwijderen",
   "group_drag_and_drop": "Slepen en neerzetten van mappen, plannen en individuele workouts naar je bibliotheek",
+  "group_link_share_blurb": "Kopieer deze link en deel deze met mensen die lid moeten worden van de groep, zij moeten nog steeds een van de beheerders vragen om lid te worden",
   "group_no_plans_shared": "Er zijn geen mappen of plannen met deze groep gedeeld",
   "group_role_admin_help": "Kan groepsinstellingen aanpassen en atleten toevoegen en verwijderen",
   "group_role_coach_help": "Heeft coach-toegang tot alle groepsleden (coachinggroepen alleen)",

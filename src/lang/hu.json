@@ -1222,6 +1222,7 @@
   "Group URL": "Csoport URL",
   "group_admins_blurb": "A csoportadminisztrátorok módosíthatják a csoportbeállításokat, valamint hozzáadhatnak és eltávolíthatnak sportolókat",
   "group_drag_and_drop": "Húzd-és-ejtsd módszerrel mappákat, terveket és egyéni edzéseket adhatsz könyvtáradhoz",
+  "group_link_share_blurb": "Másold ki ezt a linket, és oszd meg azokkal, akiknek csatlakozniuk kell a csoporthoz, de még mindig meg kell kérniük az egyik adminisztrátort a csatlakozásra.",
   "group_no_plans_shared": "Ezzel a csoporttal nem osztottak meg mappákat és edzésterveket",
   "group_role_admin_help": "Csoportbeállítások módosítása és sportolók hozzáadása vagy eltávolítása",
   "group_role_coach_help": "Edzői hozzáféréssel rendelkezik az összes csoporttaghoz (csak edzőcsoportok esetén)",

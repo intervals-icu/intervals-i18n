@@ -1222,6 +1222,7 @@
   "Group URL": "URL Skupine",
   "group_admins_blurb": "Skrbniki skupine lahko spreminjajo nastavitve skupine ter dodajajo in odstranijo športnike",
   "group_drag_and_drop": "Povlecite in spustite mape, načrte in posamezne treninge v svojo knjižnico",
+  "group_link_share_blurb": "Kopirajte to povezavo in jo delite z ljudmi, ki se morajo pridružiti skupini, vendar bodo še vedno morali prositi enega od skrbnikov za pridružitev",
   "group_no_plans_shared": "S to skupino ni bila deljena nobena mapa in načrt treniranja",
   "group_role_admin_help": "Lahko spreminja nastavitve skupine in dodaja ter odstranjuje športnike",
   "group_role_coach_help": "Ima dostop do vseh članov skupine kot trener (samo za trenerjske skupine)",

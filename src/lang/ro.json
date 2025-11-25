@@ -1222,6 +1222,7 @@
   "Group URL": "URL de grup",
   "group_admins_blurb": "Administratorii de grup pot modifica setările grupului și pot adăuga sau elimina sportivi",
   "group_drag_and_drop": "Trage și plasează folderele, planurile și antrenamentele individuale în biblioteca ta.",
+  "group_link_share_blurb": "Copiază acest link și distribuie-l persoanelor care trebuie să se alăture grupului, acestea vor trebui totuși să ceară unuia dintre administratori să li se alăture",
   "group_no_plans_shared": "Niciun dosar și plan de instruire nu a fost partajat cu acest grup",
   "group_role_admin_help": "Poate modifica setările grupului și adăuga sau elimina sportivi",
   "group_role_coach_help": "Are acces ca antrenor la toți membrii grupului (doar pentru grupurile de antrenament)",

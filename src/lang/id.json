@@ -1222,6 +1222,7 @@
   "Group URL": "URL Grup",
   "group_admins_blurb": "Admin grup dapat mengubah pengaturan grup serta menambah dan menghapus atlet",
   "group_drag_and_drop": "Seret dan letakkan folder, paket, dan latihan individual ke perpustakaan Anda",
+  "group_link_share_blurb": "Salin tautan ini dan bagikan dengan orang yang perlu bergabung dengan grup, mereka masih perlu meminta salah satu admin untuk bergabung",
   "group_no_plans_shared": "Tidak ada folder dan rencana pelatihan yang dibagikan dengan grup ini",
   "group_role_admin_help": "Dapat mengubah pengaturan grup dan menambah serta menghapus atlet",
   "group_role_coach_help": "Memiliki akses pelatih ke semua anggota grup (hanya untuk grup pelatihan)",

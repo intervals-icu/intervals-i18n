@@ -1222,6 +1222,7 @@
   "Group URL": "群组网址",
   "group_admins_blurb": "群组管理员可以改变群组设置并添加和删除运动员",
   "group_drag_and_drop": "将文件夹、计划和单个训练拖放到资料库中",
+  "group_link_share_blurb": "复制此链接并分享给需要加入群组的人，他们仍需请求管理员之一批准加入",
   "group_no_plans_shared": "没有文件夹和培训计划分享到该群组",
   "group_role_admin_help": "可以更改组设置并添加或删除运动员",
   "group_role_coach_help": "拥有所有组员的教练权限（仅限训练组）",

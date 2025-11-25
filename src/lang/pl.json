@@ -1222,6 +1222,7 @@
   "Group URL": "Adres URL grupy",
   "group_admins_blurb": "Administratorzy grup mogą zmieniać ustawienia grupy oraz dodawać i usuwać sportowców.",
   "group_drag_and_drop": "Przeciągaj i upuszczaj foldery, plany i pojedyncze treningi do swojej biblioteki",
+  "group_link_share_blurb": "Skopiuj ten link i udostępnij go osobom, które muszą dołączyć do grupy, będą one musiały poprosić jednego z administratorów o dołączenie",
   "group_no_plans_shared": "Teczki i plany szkoleniowe nie zostały udostępnione tej grupie.",
   "group_role_admin_help": "Może zmieniać ustawienia grupy oraz dodawać i usuwać sportowców",
   "group_role_coach_help": "Ma dostęp trenera do wszystkich członków grupy (tylko grupy treningowe)",

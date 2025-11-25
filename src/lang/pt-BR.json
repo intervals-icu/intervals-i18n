@@ -1222,6 +1222,7 @@
   "Group URL": "URL do Grupo",
   "group_admins_blurb": "Os administradores do grupo podem alterar as configurações do grupo e adicionar ou remover atletas",
   "group_drag_and_drop": "Arraste e solte pastas, planos e treinos individuais na sua biblioteca",
+  "group_link_share_blurb": "Copie este link e compartilhe com as pessoas que precisam entrar no grupo, elas ainda precisarão pedir a um dos administradores para participar",
   "group_no_plans_shared": "Nenhuma pasta ou plano de treino foi compartilhado com este grupo",
   "group_role_admin_help": "Pode alterar configurações do grupo e adicionar ou remover atletas",
   "group_role_coach_help": "Tem acesso de treinador a todos os membros do grupo (apenas grupos de treinamento)",

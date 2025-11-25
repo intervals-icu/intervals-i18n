@@ -1222,6 +1222,7 @@
   "Group URL": "Skupina URL",
   "group_admins_blurb": "Správci skupiny mohou měnit nastavení skupiny a přidávat a odebírat sportovce",
   "group_drag_and_drop": "Přetáhněte složky, plány a jednotlivá cvičení do své knihovny",
+  "group_link_share_blurb": "Zkopírujte tento odkaz a sdílejte ho s lidmi, kteří se potřebují připojit ke skupině, stále však budou muset požádat jednoho z administrátorů o připojení",
   "group_no_plans_shared": "S touto skupinou nebyly sdíleny žádné složky a tréninkové plány",
   "group_role_admin_help": "Může měnit nastavení skupiny a přidávat či odstraňovat sportovce",
   "group_role_coach_help": "Má přístup ke všem členům skupiny jako trenér (pouze tréninkové skupiny)",

@@ -1222,6 +1222,7 @@
   "Group URL": "Gruppe-URL",
   "group_admins_blurb": "Gruppeadministratorer kan ændre gruppeindstillinger og tilføje og fjerne atleter",
   "group_drag_and_drop": "Træk og slip mapper, planer og individuelle træningsprogrammer til dit bibliotek",
+  "group_link_share_blurb": "Kopier dette link og del det med personer, der skal tilslutte sig gruppen, de skal stadig bede en af administratorerne om at blive medlem",
   "group_no_plans_shared": "Ingen mapper og træningsplaner er blevet delt med denne gruppe",
   "group_role_admin_help": "Kan ændre gruppens indstillinger og tilføje og fjerne atleter",
   "group_role_coach_help": "Har træneradgang til alle gruppemedlemmer (kun træningsgrupper)",

@@ -1222,6 +1222,7 @@
   "Group URL": "Group URL",
   "group_admins_blurb": "Group admins can change group settings and add and remove athletes",
   "group_drag_and_drop": "Drag and drop folders, plans and individual workouts to your library",
+  "group_link_share_blurb": "Copy this link and share it with people who need to join the group, they will still need to ask one of the admins to join",
   "group_no_plans_shared": "No folders and training plans have been shared with this group",
   "group_role_admin_help": "Can change group settings and add and remove athletes",
   "group_role_coach_help": "Has coach access to all group members (coaching groups only)",
