@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Średnie zmęczenie",
   "Fatigue Days": "Dni Zmęczenia",
   "Fatigue Load": "Obciążenie treningowe",
+  "fatigued_curve_ranking_note": "Proszę zauważyć, że rankingi dla krzywych mocy zmęczonych ({list}) są względne względem świeżych sportowców, a nie innych o podobnym poziomie zmęczenia",
   "Fatness": "Tkanka tłuszczowa",
   "Features": "Funkcje",
   "features_only_for_subscribers": "Funkcje dostępne tylko dla subskrybentów:",

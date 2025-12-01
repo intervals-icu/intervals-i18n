@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Træthedsgennemsnit",
   "Fatigue Days": "Trætheds dage",
   "Fatigue Load": "Træthedsbelastning",
+  "fatigued_curve_ranking_note": "Bemærk venligst, at ranglisterne for udmattede effektkurver ({list}) er relative i forhold til friske atleter og ikke andre med et lignende træthedsniveau",
   "Fatness": "Fedme",
   "Features": "Funktioner",
   "features_only_for_subscribers": "Funktioner, der kun er tilgængelige for abonnenter:",

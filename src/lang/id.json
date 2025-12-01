@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Rata-rata Kelelahan",
   "Fatigue Days": "Hari-hari Kelelahan",
   "Fatigue Load": "Beban Kelelahan",
+  "fatigued_curve_ranking_note": "Harap dicatat bahwa peringkat untuk kurva daya kelelahan ({list}) bersifat relatif terhadap atlet yang segar dan bukan terhadap yang lain dengan tingkat kelelahan serupa",
   "Fatness": "Kegemukan",
   "Features": "Fitur",
   "features_only_for_subscribers": "Fitur hanya tersedia untuk pelanggan:",

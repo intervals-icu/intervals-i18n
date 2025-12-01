@@ -1059,6 +1059,7 @@
   "Fatigue Average": "平均疲劳度",
   "Fatigue Days": "疲劳度天数",
   "Fatigue Load": "疲劳度负荷",
+  "fatigued_curve_ranking_note": "请注意，疲劳功率曲线（{list}）的排名是相对于状态良好的运动员而言的，而不是相对于其他具有相似疲劳水平的运动员。",
   "Fatness": "脂肪",
   "Features": "特征",
   "features_only_for_subscribers": "仅对订阅者可用的功能：",

@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Ermüdung Durchschnitt",
   "Fatigue Days": "Ermüdungstage",
   "Fatigue Load": "Ermüdungsbelastung",
+  "fatigued_curve_ranking_note": "Bitte beachten Sie, dass die Ranglisten für ermüdete Leistungskurven ({list}) relativ zu frischen Athleten und nicht zu anderen mit einem ähnlichen Ermüdungsgrad sind",
   "Fatness": "Fettheit",
   "Features": "Funktionen",
   "features_only_for_subscribers": "Funktionen, die nur Abonnenten zur Verfügung stehen:",

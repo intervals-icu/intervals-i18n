@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Fatigue moyenne",
   "Fatigue Days": "Jours de fatigue",
   "Fatigue Load": "Charge de fatigue",
+  "fatigued_curve_ranking_note": "Veuillez noter que les classements des courbes de puissance en état de fatigue ({list}) sont relatifs aux athlètes frais et non à d'autres avec un niveau de fatigue similaire",
   "Fatness": "Corpulence",
   "Features": "Fonctionnalités",
   "features_only_for_subscribers": "Fonctionnalités réservées aux abonnés :",

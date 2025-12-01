@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Väsymyksen keskiarvo",
   "Fatigue Days": "Väsymyspäivät",
   "Fatigue Load": "Väsymyskuorma",
+  "fatigued_curve_ranking_note": "Huomioithan, että väsymystilassa olevien tehosyklien ({list}) sijoitukset ovat suhteellisia tuoreisiin urheilijoihin eivätkä muihin saman väsymystason omaaviin.",
   "Fatness": "Lihavuus",
   "Features": "Ominaisuudet",
   "features_only_for_subscribers": "Ominaisuudet, jotka ovat saatavilla vain tilaajille:",

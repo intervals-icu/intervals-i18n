@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Vermoeidheidsgemiddelde",
   "Fatigue Days": "Vermoeidheidsdagen",
   "Fatigue Load": "Vermoeidheidsbelasting",
+  "fatigued_curve_ranking_note": "Houd er rekening mee dat de ranglijsten voor vermoeide vermogenscurves ({list}) relatief zijn ten opzichte van frisse atleten en niet ten opzichte van anderen met een vergelijkbaar vermoeidheidsniveau",
   "Fatness": "Vetgehalte",
   "Features": "Kenmerken",
   "features_only_for_subscribers": "Functies alleen beschikbaar voor steunende leden:",

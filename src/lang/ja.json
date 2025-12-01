@@ -1059,6 +1059,7 @@
   "Fatigue Average": "平均ファティーグ",
   "Fatigue Days": "ファティーグの集計期間",
   "Fatigue Load": "ファティーグ加重",
+  "fatigued_curve_ranking_note": "疲労したパワーカーブ（{list}）のランキングは、フレッシュなアスリートに対する相対的なものであり、同程度の疲労を持つ他のアスリートに対するものではないことに注意してください。",
   "Fatness": "アスリートの重量",
   "Features": "特徴",
   "features_only_for_subscribers": "サブスクライブすると利用できる機能:",

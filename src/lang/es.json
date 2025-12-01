@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Fatiga Media",
   "Fatigue Days": "Días de fatiga",
   "Fatigue Load": "Carga de fatiga",
+  "fatigued_curve_ranking_note": "Tenga en cuenta que las clasificaciones para las curvas de potencia fatigadas ({list}) son relativas a atletas frescos y no a otros con un nivel similar de fatiga",
   "Fatness": "Grasa",
   "Features": "Características",
   "features_only_for_subscribers": "Funciones solo disponibles para suscriptores:",

@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Povprečje Utrujenosti",
   "Fatigue Days": "Dnevi Utrujenosti",
   "Fatigue Load": "Utrujenost Obremenitev",
+  "fatigued_curve_ranking_note": "Upoštevajte, da so uvrstitve za krivulje moči v utrujenem stanju ({list}) relativne glede na sveže športnike in ne glede na druge z podobno stopnjo utrujenosti",
   "Fatness": "Debelost",
   "Features": "Značilnosti",
   "features_only_for_subscribers": "Funkcije, ki so na voljo samo naročnikom:",

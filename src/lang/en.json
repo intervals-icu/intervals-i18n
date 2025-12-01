@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Fatigue Average",
   "Fatigue Days": "Fatigue Days",
   "Fatigue Load": "Fatigue Load",
+  "fatigued_curve_ranking_note": "Please note that the rankings for fatigued power curves ({list}) are relative to fresh athletes and not others with a similar level of fatigue",
   "Fatness": "Fatness",
   "Features": "Features",
   "features_only_for_subscribers": "Features only available to subscribers:",

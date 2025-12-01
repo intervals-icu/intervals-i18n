@@ -1059,6 +1059,7 @@
   "Fatigue Average": "Průměrná únava",
   "Fatigue Days": "Dny únavy",
   "Fatigue Load": "Únavové zatížení",
+  "fatigued_curve_ranking_note": "Vezměte prosím na vědomí, že žebříčky pro křivky výkonu při únavě ({list}) jsou relativní k čerstvým sportovcům a nikoli k ostatním se stejnou úrovní únavy",
   "Fatness": "Tloušťka",
   "Features": "Vlastnosti",
   "features_only_for_subscribers": "Funkce dostupné pouze předplatitelům:",
