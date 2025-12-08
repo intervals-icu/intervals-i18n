@@ -82,6 +82,7 @@
   "account_is_dormant": "Denne konto er blevet gjort inaktiv på grund af inaktivitet",
   "account_status_dialog_title": "{status} konto",
   "Accurate Elevation": "Præcis Højde",
+  "accurate_device_elevation_help": "Hvis du ved, om {n} har en barometrisk højdemåler eller ej, så svar venligst ja eller nej. Bemærk venligst, at enheder med kun GPS til højde ikke er nøjagtige.",
   "Achievements": "Resultater",
   "Actions": "Handlinger",
   "Active": "Aktiv",

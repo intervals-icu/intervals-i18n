@@ -82,6 +82,7 @@
   "account_is_dormant": "このアカウントは使用されていないため、休眠状態になっています。",
   "account_status_dialog_title": "{status} アカウント",
   "Accurate Elevation": "正確な標高",
+  "accurate_device_elevation_help": "もし {n} に気圧計があるかどうか分かっているなら、はいかいいえで答えてください。GPSのみの標高測定機器は正確ではないことに注意してください。",
   "Achievements": "実績",
   "Actions": "アクション",
   "Active": "アクティブ",

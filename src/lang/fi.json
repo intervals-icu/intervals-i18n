@@ -82,6 +82,7 @@
   "account_is_dormant": "Tämä tili on tehty passiiviseksi käyttämättömyyden vuoksi",
   "account_status_dialog_title": "{status} tili",
   "Accurate Elevation": "Tarkka korkeus",
+  "accurate_device_elevation_help": "Jos tiedät, onko {n}:ssä barometrinen korkeusmittari vai ei, vastaa kyllä tai ei. Huomaa, että laitteet, joissa on vain GPS-korkeusmittaus, eivät ole tarkkoja.",
   "Achievements": "Saavutukset",
   "Actions": "Toiminnot",
   "Active": "Aktiivinen",

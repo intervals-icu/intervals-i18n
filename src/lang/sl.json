@@ -82,6 +82,7 @@
   "account_is_dormant": "Ta račun je bil zaradi neaktivnosti označen kot neaktiven",
   "account_status_dialog_title": "{status} račun",
   "Accurate Elevation": "Natančna Višina",
+  "accurate_device_elevation_help": "Če veste, ali ima {n} barometrični višinomerni senzor ali ne, prosim odgovorite z da ali ne. Upoštevajte, da naprave, ki uporabljajo samo GPS za merjenje nadmorske višine, niso natančne.",
   "Achievements": "Dosežki",
   "Actions": "Dejanja",
   "Active": "Aktivno",

@@ -82,6 +82,7 @@
   "account_is_dormant": "Acest cont a fost pus în stare de inactivitate din cauza inactivității",
   "account_status_dialog_title": "Cont {status}",
   "Accurate Elevation": "Elevație precisă",
+  "accurate_device_elevation_help": "Dacă știți dacă {n} are un altimetru barometric sau nu, vă rugăm să răspundeți cu da sau nu. Vă rugăm să rețineți că dispozitivele care utilizează doar GPS pentru altitudine nu sunt precise.",
   "Achievements": "Realizări",
   "Actions": "Acţiuni",
   "Active": "Activ",

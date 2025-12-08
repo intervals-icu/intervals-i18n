@@ -82,6 +82,7 @@
   "account_is_dormant": "Dieses Konto wurde aufgrund von Inaktivität inaktiv gesetzt",
   "account_status_dialog_title": "{status} Konto",
   "Accurate Elevation": "Genaue Höhe",
+  "accurate_device_elevation_help": "Wenn Sie wissen, ob das {n} einen barometrischen Höhenmesser hat oder nicht, antworten Sie bitte mit Ja oder Nein. Bitte beachten Sie, dass Geräte, die nur GPS für die Höhenmessung verwenden, nicht genau sind.",
   "Achievements": "Erfolge",
   "Actions": "Aktionen",
   "Active": "Aktiv",

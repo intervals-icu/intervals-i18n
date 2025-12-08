@@ -82,6 +82,7 @@
   "account_is_dormant": "Dit account is inactief gemaakt vanwege inactiviteit",
   "account_status_dialog_title": "{status} Account",
   "Accurate Elevation": "Nauwkeurige hoogte",
+  "accurate_device_elevation_help": "Als u weet of de {n} een barometrische hoogtemeter heeft of niet, beantwoord dan alstublieft met ja of nee. Houd er rekening mee dat apparaten die alleen GPS gebruiken voor hoogte niet nauwkeurig zijn.",
   "Achievements": "Prestaties",
   "Actions": "Acties",
   "Active": "Actief",

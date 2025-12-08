@@ -82,6 +82,7 @@
   "account_is_dormant": "To konto zostało uśpione z powodu braku aktywności",
   "account_status_dialog_title": "Konto {status}",
   "Accurate Elevation": "Dokładna wysokość",
+  "accurate_device_elevation_help": "Jeśli wiesz, czy {n} ma barometryczny wysokościomierz, odpowiedz proszę tak lub nie. Należy zauważyć, że urządzenia korzystające wyłącznie z GPS do pomiaru wysokości nie są dokładne.",
   "Achievements": "Osiągnięcia",
   "Actions": "Akcje",
   "Active": "Aktywny",

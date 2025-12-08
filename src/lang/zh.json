@@ -82,6 +82,7 @@
   "account_is_dormant": "由于不活跃，该账户已被设为休眠状态",
   "account_status_dialog_title": "{status} 账户",
   "Accurate Elevation": "精确爬升",
+  "accurate_device_elevation_help": "如果您知道{n}是否配备有气压高度计，请回答是或否。请注意，仅使用GPS测量海拔的设备不够准确。",
   "Achievements": "成就成就",
   "Actions": "操作",
   "Active": "活跃",

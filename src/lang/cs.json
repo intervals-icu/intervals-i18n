@@ -82,6 +82,7 @@
   "account_is_dormant": "Tento účet byl z důvodu neaktivity označen jako neaktivní",
   "account_status_dialog_title": "{status} účet",
   "Accurate Elevation": "Přesná nadmořská výška",
+  "accurate_device_elevation_help": "Pokud víte, zda má {n} barometrický výškoměr, odpovězte prosím ano nebo ne. Upozorňujeme, že zařízení s pouze GPS pro měření nadmořské výšky nejsou přesná.",
   "Achievements": "Úspěchy",
   "Actions": "Akce",
   "Active": "Aktivní",

@@ -82,6 +82,7 @@
   "account_is_dormant": "Akun ini telah dibuat tidak aktif karena tidak ada aktivitas",
   "account_status_dialog_title": "Akun {status}",
   "Accurate Elevation": "Elevasi yang Akurat",
+  "accurate_device_elevation_help": "Jika Anda tahu apakah {n} memiliki altimeter barometrik atau tidak, mohon jawab ya atau tidak. Harap dicatat bahwa perangkat yang hanya menggunakan GPS untuk elevasi tidak akurat.",
   "Achievements": "Pencapaian",
   "Actions": "Tindakan",
   "Active": "Aktif",

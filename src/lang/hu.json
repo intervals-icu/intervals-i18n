@@ -82,6 +82,7 @@
   "account_is_dormant": "Ez a fiók inaktivitás miatt szunnyadó állapotba került",
   "account_status_dialog_title": "{status} fiók",
   "Accurate Elevation": "Pontos magasság",
+  "accurate_device_elevation_help": "Ha tudja, hogy a {n} rendelkezik-e barometrikus magasságmérővel, kérjük, válaszoljon igennel vagy nemmel. Kérjük, vegye figyelembe, hogy az emelkedés mérésére kizárólag GPS-t használó eszközök nem pontosak.",
   "Achievements": "Eredmények",
   "Actions": "Műveletek",
   "Active": "Aktív",

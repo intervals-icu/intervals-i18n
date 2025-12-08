@@ -82,6 +82,7 @@
   "account_is_dormant": "Esta conta foi tornada inativa devido à inatividade",
   "account_status_dialog_title": "Conta {status}",
   "Accurate Elevation": "Elevação precisa",
+  "accurate_device_elevation_help": "Se você sabe se o {n} possui um altímetro barométrico ou não, por favor responda sim ou não. Observe que dispositivos que usam apenas GPS para elevação não são precisos.",
   "Achievements": "Conquistas",
   "Actions": "Ações",
   "Active": "Ativo",
