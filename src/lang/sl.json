@@ -836,6 +836,7 @@
   "delete_account_info": "Če Intervals.icu ne želite več uporabljati, lahko svoj račun izbrišete na dnu strani z nastavitvami",
   "Deleted": "Izbrisano",
   "Deleted selected intervals": "Izbrisani izbrani intervali",
+  "Deleted_n": "Izbrisano {n}",
   "Deleting": "Brisanje",
   "Demote Self": "Znižajte Sebe",
   "Derailleur": "Menjalnik",

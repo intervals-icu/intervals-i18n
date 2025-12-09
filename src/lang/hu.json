@@ -836,6 +836,7 @@
   "delete_account_info": "Ha már nem szeretnéd használni az Intervals.icu-t, törölheted a fiókodat a beállítások oldal alján.",
   "Deleted": "Törölve",
   "Deleted selected intervals": "A kiválasztott intervallumok törölve",
+  "Deleted_n": "Törölve: {n}",
   "Deleting": "Törlés",
   "Demote Self": "Lefokozod magad",
   "Derailleur": "Láncváltó",

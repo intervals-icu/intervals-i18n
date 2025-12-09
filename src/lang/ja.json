@@ -836,6 +836,7 @@
   "delete_account_info": "Intervals.icuを使用したくない場合は、設定ページの下部にあるアカウントを削除することができます。",
   "Deleted": "削除済み",
   "Deleted selected intervals": "選択したインターバルを削除しました",
+  "Deleted_n": "削除 {n}されました。",
   "Deleting": "削除中",
   "Demote Self": "へこむ",
   "Derailleur": "ディレーラー",

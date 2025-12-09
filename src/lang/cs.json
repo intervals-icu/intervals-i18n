@@ -836,6 +836,7 @@
   "delete_account_info": "Pokud již nechcete používat Intervals.icu, můžete svůj účet smazat na spodní části stránky nastavení",
   "Deleted": "Smazáno",
   "Deleted selected intervals": "Vybrané intervaly byly odstraněny",
+  "Deleted_n": "Smazáno {n}",
   "Deleting": "Mazání",
   "Demote Self": "Snížit úroveň sebe sama",
   "Derailleur": "Přehazovačka",

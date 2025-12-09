@@ -836,6 +836,7 @@
   "delete_account_info": "如果您不再希望使用 Intervals.icu，您可以在设置页面底部删除您的账户",
   "Deleted": "已删除",
   "Deleted selected intervals": "删除选定的分段",
+  "Deleted_n": "已删除 {n}",
   "Deleting": "正在删除",
   "Demote Self": "降级",
   "Derailleur": "变速器",

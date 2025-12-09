@@ -836,6 +836,7 @@
   "delete_account_info": "Jika Anda tidak lagi ingin menggunakan Intervals.icu, Anda dapat menghapus akun Anda di bagian bawah halaman pengaturan",
   "Deleted": "Terhapus",
   "Deleted selected intervals": "Interval yang dipilih telah dihapus",
+  "Deleted_n": "Dihapus {n}",
   "Deleting": "Sedang Menghapus",
   "Demote Self": "Turunkan Diri",
   "Derailleur": "Derailleur",

@@ -836,6 +836,7 @@
   "delete_account_info": "Jos et enää halua käyttää Intervals.icu-palvelua, voit poistaa tilisi asetussivun alareunasta",
   "Deleted": "Poistettu",
   "Deleted selected intervals": "Poistetut valitut intervallit",
+  "Deleted_n": "Poistettu {n}",
   "Deleting": "Poistetaan",
   "Demote Self": "Alenna itseä",
   "Derailleur": "Vaihtaja",

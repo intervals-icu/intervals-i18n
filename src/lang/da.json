@@ -836,6 +836,7 @@
   "delete_account_info": "Hvis du ikke længere ønsker at bruge Intervals.icu, kan du slette din konto nederst på indstillingssiden",
   "Deleted": "Slettet",
   "Deleted selected intervals": "Slettede valgte intervaller",
+  "Deleted_n": "Slettet {n}",
   "Deleting": "Sletter",
   "Demote Self": "Degrader selv",
   "Derailleur": "Derailleur",

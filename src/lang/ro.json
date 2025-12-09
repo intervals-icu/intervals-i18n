@@ -836,6 +836,7 @@
   "delete_account_info": "Dacă nu mai doriți să utilizați Intervals.icu, vă puteți șterge contul în partea de jos a paginii de setări",
   "Deleted": "Șters",
   "Deleted selected intervals": "Intervalele selectate au fost șterse",
+  "Deleted_n": "Șters {n}",
   "Deleting": "Ștergere",
   "Demote Self": "Diminuează sinele",
   "Derailleur": "Deraiorator",

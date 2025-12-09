@@ -836,6 +836,7 @@
   "delete_account_info": "Jeśli nie chcesz już korzystać z Intervals.icu, możesz usunąć swoje konto na dole strony ustawień",
   "Deleted": "Usunięty",
   "Deleted selected intervals": "Usuń wybrane interwały",
+  "Deleted_n": "Usunięto {n}",
   "Deleting": "Usuwanie",
   "Demote Self": "Obiniż rangę",
   "Derailleur": "Przerzutka",
