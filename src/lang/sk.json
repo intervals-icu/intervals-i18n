@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (viac alebo menej FTP) a W' sa vypočítajú pomocou Monodovho a Scherrerovho 2-parametrového modelu kritického výkonu. Algoritmus vyžaduje 2 maximálne výkony, jeden 3 - 5 minút a druhý 10 - 30 minút",
   "MTB": "MTB",
   "Must be numeric": "Musí byť číselné",
+  "Must be unique": "Musí byť jedinečné",
+  "Must use CamelCase": "Musí sa použiť CamelCase",
   "must_crop_on_strava": "Aktivity zo služby Strava sa musia na službe Strava znížiť",
   "Mute": "Stlmiť",
   "mute_this_chat": "Tento chat ignorujte",

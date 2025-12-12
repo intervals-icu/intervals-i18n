@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP(FTP多少)和W'是用Monod & Scherrer的2参数临界功率模型计算的该算法需要2次最大努力，一次是3-5分钟，另一次是10-30分钟之间",
   "MTB": "山地车",
   "Must be numeric": "必须是数字",
+  "Must be unique": "必须是唯一的",
+  "Must use CamelCase": "必须使用驼峰命名法",
   "must_crop_on_strava": "来自Strava的活动必须在Strava上进行剪裁",
   "Mute": "静音",
   "mute_this_chat": "将此聊天静音",

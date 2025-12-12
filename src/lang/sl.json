@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP bolj ali manj) in W' sta izračunana z uporabo Monod & Scherrerjevega 2 parameterskega modela kritične moči. Algoritem zahteva 2 največja napora, enega od 3-5 minut in drugega od 10 do 30 minut.",
   "MTB": "MTB",
   "Must be numeric": "Mora biti številčno",
+  "Must be unique": "Mora biti edinstven",
+  "Must use CamelCase": "Mora uporabljati CamelCase",
   "must_crop_on_strava": "aktivnosti iz Strave je treba obrezati na Stravi",
   "Mute": "Utišajte",
   "mute_this_chat": "Utišajte ta klepet",

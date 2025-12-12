@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP mere eller mindre) og W' beregnes ved hjælp af Monod & Scherrers 2 parameter kritiske effektmodel. Algoritmen kræver 2 maksimale indsatser, en på 3-5 minutter og en anden på mellem 10 og 30 minutter.",
   "MTB": "MTB",
   "Must be numeric": "Skal være numerisk",
+  "Must be unique": "Skal være unik",
+  "Must use CamelCase": "Skal bruge CamelCase",
   "must_crop_on_strava": "Aktiviteter fra Strava skal beskæres på Strava",
   "Mute": "Mute",
   "mute_this_chat": "Slå lyden fra for denne chat",

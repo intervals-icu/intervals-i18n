@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP mai mult sau mai puțin) și W 'sunt calculate utilizând modelul de putere critică cu 2 parametri Monod & Scherrer. Algoritmul necesită 2 eforturi maxime, unul de 3-5 minute și altul între 10 și 30 de minute.",
   "MTB": "MTB",
   "Must be numeric": "Trebuie să fie numeric",
+  "Must be unique": "Trebuie să fie unic",
+  "Must use CamelCase": "Trebuie să folosiți CamelCase",
   "must_crop_on_strava": "Activitățile din Strava trebuie tăiate pe Strava",
   "Mute": "Inactiv",
   "mute_this_chat": "Dezactivați acest chat",

@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP enemmän tai vähemmän) ja W' lasketaan Monod & Scherrerin kahden parametrin kriittisen tehon mallilla. Algoritmi vaatii kaksi maksimaalista suoritusta, yhden 3-5 minuutin ja toisen 10-30 minuutin välillä.",
   "MTB": "Maastopyöräily",
   "Must be numeric": "Täytyy olla numeerinen",
+  "Must be unique": "Täytyy olla ainutlaatuinen",
+  "Must use CamelCase": "On käytettävä CamelCase-muotoa",
   "must_crop_on_strava": "Stravasta tuodut aktiviteetit on rajattava Stravassa",
   "Mute": "Mykistä",
   "mute_this_chat": "Mykistä tämä keskustelu",

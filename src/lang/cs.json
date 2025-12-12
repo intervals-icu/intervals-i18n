@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP více nebo méně) a W 'jsou vypočítány pomocí 2 parametrového modelu kritického výkonu Monod & Scherrer. Algoritmus vyžaduje 2 maximální úsilí, jedno 3-5 minut a druhé 10 až 30 minut.",
   "MTB": "MTB",
   "Must be numeric": "Musí být číselné",
+  "Must be unique": "Musí být jedinečné",
+  "Must use CamelCase": "Musí používat CamelCase",
   "must_crop_on_strava": "Aktivity ze Stravy musí být na Stravě oříznuty",
   "Mute": "Ztlumit",
   "mute_this_chat": "Ignorovat tento chat",

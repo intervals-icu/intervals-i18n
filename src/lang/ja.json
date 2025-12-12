@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTPに近似) と W'を、Monod & Scherrer の 2 要素クリティカルパワーモデルを使用して算出します。 このアルゴリズムでは、3～5分と10～30分の2つの最大強度の運動データが必要になります。",
   "MTB": "MTB",
   "Must be numeric": "数値のみ",
+  "Must be unique": "ユニークであること",
+  "Must use CamelCase": "キャメルケースを使用すること",
   "must_crop_on_strava": "Stravaから取り込んだアクティビティはStravaでトリミングする必要があります。",
   "Mute": "ミュートする",
   "mute_this_chat": "このチャットをみゅーとする",

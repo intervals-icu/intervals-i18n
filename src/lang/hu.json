@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "A CP (FTP körüli érték) és a W 'kiszámítása a Monod & Scherrer 2 paraméteres kritikus teljesítménymodelljével történik. Az algoritmus 2 maximális erőfeszítéssel végrehajtott sporttevékenységet igényel: egy 3-5 perc közöttit és egy 10-30 perc közöttit.",
   "MTB": "MTB",
   "Must be numeric": "Számnak kell lennie",
+  "Must be unique": "Egyedinek kell lennie",
+  "Must use CamelCase": "Kötelező a CamelCase használata",
   "must_crop_on_strava": "A Strava rendszerben rögzített tevékenységeit a Strava-n kell módosítani (levágni)",
   "Mute": "Némít",
   "mute_this_chat": "Csevegés némítása",

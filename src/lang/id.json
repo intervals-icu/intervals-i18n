@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP kurang lebih) dan W' dihitung dengan menggunakan model daya kritis 2 parameter dari Monod & Scherrer. Algoritme ini membutuhkan 2 upaya maksimal, satu dari 3-5 menit dan satu lagi antara 10 dan 30 menit.",
   "MTB": "MTB",
   "Must be numeric": "Harus berupa angka",
+  "Must be unique": "Harus Unik",
+  "Must use CamelCase": "HarusMenggunakanCamelCase",
   "must_crop_on_strava": "Aktivitas dari Strava harus dipotong di Strava",
   "Mute": "Heningkan",
   "mute_this_chat": "Heningkan obrolan ini",

@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP mehr oder weniger) und W' werden anhand des 2-Parameter-Modells der kritischen Leistung von Monod & Scherrer berechnet. Der Algorithmus erfordert zwei maximale Anstrengungen, eine von 3-5 Minuten und eine weitere zwischen 10 und 30 Minuten.",
   "MTB": "MTB",
   "Must be numeric": "Muss numerisch sein",
+  "Must be unique": "Muss eindeutig sein",
+  "Must use CamelCase": "Muss CamelCase verwenden",
   "must_crop_on_strava": "Aktivitäten von Strava müssen auf Strava beschnitten werden",
   "Mute": "Stummschalten",
   "mute_this_chat": "Diesen Chat stummschalten",

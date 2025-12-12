@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP więcej lub mniej) i W' są obliczane przy użyciu 2-parametrowego modelu mocy krytycznej Monoda i Scherrera. Algorytm wymaga 2 maksymalnych wysiłków, jednego trwającego 3-5 minut i drugiego trwającego od 10 do 30 minut.",
   "MTB": "Kolarstwo górskie (MTB)",
   "Must be numeric": "Musi być numeryczny",
+  "Must be unique": "Musi być unikalne",
+  "Must use CamelCase": "Należy używać CamelCase",
   "must_crop_on_strava": "Aktywności z serwisu Strava muszą być przycięte w serwisie Strava.",
   "Mute": "Wycisz",
   "mute_this_chat": "Wycisz ten czat",

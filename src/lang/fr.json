@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (FTP plus ou moins) et W' sont calculés en utilisant le modèle de puissance critique à 2 paramètres de Monod & Scherrer. L'algorithme requiert 2 efforts maximaux, l'un de 3 à 5 minutes et l'autre de 10 à 30 minutes.",
   "MTB": "VTT",
   "Must be numeric": "Doit être numérique",
+  "Must be unique": "Doit être unique",
+  "Must use CamelCase": "Doit utiliser CamelCase",
   "must_crop_on_strava": "Les activités provenant de Strava doivent être rognées sur Strava",
   "Mute": "Silencieux",
   "mute_this_chat": "Mettre cette discussion en sourdine",

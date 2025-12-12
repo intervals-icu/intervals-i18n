@@ -1749,6 +1749,8 @@
   "ms_2p_blurb": "CP (vergelijkbaar met FTP) en W' worden berekend met behulp van het 2-parameter model voor kritisch vermogen van Monod & Scherrer. Het algoritme vereist 2 maximale inspanningen, één van 3-5 minuten en één van 10 tot 30 minuten.",
   "MTB": "MTB",
   "Must be numeric": "Moet numeriek zijn",
+  "Must be unique": "Moet uniek zijn",
+  "Must use CamelCase": "MoetCamelCaseGebruiken",
   "must_crop_on_strava": "Activiteiten van Strava moeten op Strava worden bijgesneden",
   "Mute": "Dempen",
   "mute_this_chat": "Deze chat dempen",
