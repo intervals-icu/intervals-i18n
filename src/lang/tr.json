@@ -1148,7 +1148,7 @@
   "Form Average %": "Form Ortalama %",
   "Form chart": "Form grafiği",
   "form_as_percent": "Form, fitness’in yorgunluktan çıkarılmasıdır. Bu, mutlak sayı (örn. -10) veya mevcut fitness’in yüzdesi (örn. -20%) olarak gösterilebilir. Yüzde seçeneği xone'ları (örn. optimal antrenman) mevcut fitness’ine göre ölçekler ve muhtemelen daha iyi bir seçimdir.",
-  "form_blurb": "Daha fit olmak için antrenman yükünü artırarak stres yaratmalısın, yani mor çizgiyi mavi çizginin üzerinde tutmalısın. Formun fitness’in yorgunluktan çıkarılmasıdır. Formun <b class=\"optimal\">optimal antrenman bölgesinde</b> olduğunda fitness kazanıyorsun. Formun <b class=\"fresh\">taze</b> olduğunda ve fit olduğunda yarışmaya hazırsın. <b class=\"highRisk\">yüksek risk bölgesinde</b> uzun süre kalmaktan kaçın, aksi halde aşırı antrenmanlı hale gelebilirsin. Yorgunluktan toparlanmak ve hedef yarışlarda en iyi durumda olmak için periyodik dinlenme haftaları eklemelisin.",
+  "form_blurb": "Daha fit olmak için antrenman yükünü artırarak stres yaratmalısın, yani mor çizgiyi mavi çizginin üzerinde tutmalısın. Formun fitness’in yorgunluktan çıkarılmasıdır. Formun <b class=\"optimal\">optimal antrenman bölgesinde</b> olduğunda fitness kazanıyorsun. Formun <b class=\"fresh\">taze</b> olduğunda ve fit olduğunda yarışmaya hazırsın. <b class=\"highRisk\">Yüksek risk bölgesinde</b> uzun süre kalmaktan kaçın, aksi halde aşırı antrenmanlı hale gelebilirsin. Yorgunluktan toparlanmak ve hedef yarışlarda en iyi durumda olmak için periyodik dinlenme haftaları eklemelisin.",
   "Format": "Format",
   "Forum": "Forum",
   "Frame": "Kadro",
