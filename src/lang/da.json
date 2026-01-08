@@ -871,6 +871,7 @@
   "Disconnect from Garmin Connect": "Afbryd forbindelsen til Garmin Connect",
   "disconnected_from": "Afbrudt fra",
   "disconnected_from_activities_blurb": "Intervals.icu er blevet afbrudt fra {0}. Hvis du vil fortsætte med at downloade aktiviteter fra {0}, skal du oprette forbindelse igen i <a href=\"https://intervals.icu/settings\">indstillinger</a>.",
+  "disconnected_from_message": "Intervals.icu er blevet afbrudt fra {0}. Venligst genopret forbindelsen i <a href=\"https://intervals.icu/settings/connections\">indstillinger</a>.",
   "disconnected_from_training_blurb": "Intervals.icu er blevet afbrudt fra {0}. Hvis du vil fortsætte med at uploade planlagte træningspas til {0}, skal du oprette forbindelse igen i <a href=\"https://intervals.icu/settings\">indstillinger</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu er blevet afbrudt fra {0}. Hvis du vil fortsætte med at downloade wellness-data fra {0}, skal du oprette forbindelse igen i <a href=\"https://intervals.icu/settings\">indstillinger</a>.",
   "Display": "Vise",

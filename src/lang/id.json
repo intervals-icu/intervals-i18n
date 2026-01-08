@@ -871,6 +871,7 @@
   "Disconnect from Garmin Connect": "Putuskan sambungan dari Garmin Connect",
   "disconnected_from": "Terputus dari",
   "disconnected_from_activities_blurb": "Intervals.icu telah terputus dari {0}. Jika Anda ingin melanjutkan aktivitas pengunduhan dari {0} , hubungkan kembali di pengaturan <a href=\"https://intervals.icu/settings\"></a>.",
+  "disconnected_from_message": "Intervals.icu telah terputus dari {0}. Silakan sambungkan kembali di <a href=\"https://intervals.icu/settings/connections\">pengaturan</a>.",
   "disconnected_from_training_blurb": "Intervals.icu telah terputus dari {0}. Jika Anda ingin melanjutkan mengunggah latihan yang direncanakan ke {0} , hubungkan kembali di pengaturan <a href=\"https://intervals.icu/settings\"></a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu telah terputus dari {0}. Jika Anda ingin melanjutkan mengunduh data kebugaran dari {0} , hubungkan kembali di pengaturan <a href=\"https://intervals.icu/settings\"></a>.",
   "Display": "Tampilan",

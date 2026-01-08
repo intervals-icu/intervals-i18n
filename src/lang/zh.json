@@ -871,6 +871,7 @@
   "Disconnect from Garmin Connect": "与Garmin Connect断开连接",
   "disconnected_from": "断开了",
   "disconnected_from_activities_blurb": "Intervals.icu 已与 {0}断开连接。如果您想继续从 {0} 下载活动，请在 <a href=\"https://intervals.icu/settings\">设置</a>中重新连接。",
+  "disconnected_from_message": "Intervals.icu 已与 {0} 断开连接。请在 <a href=\"https://intervals.icu/settings/connections\">设置</a> 中重新连接。",
   "disconnected_from_training_blurb": "Intervals.icu已经从 {0} 断开连接，如果想继续向 {0} 上传计划训练，请在 <a href=\"https://intervals.icu/settings\">设置</a>中重新连接",
   "disconnected_from_wellness_blurb": "Intervals.icu已经从 {0} 断开连接。如果想继续从 {0} 下载健康数据，请在 <a href=\"https://intervals.icu/settings\">设置</a>重新连接",
   "Display": "显示",

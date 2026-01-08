@@ -871,6 +871,7 @@
   "Disconnect from Garmin Connect": "Garmin Connectから切断する",
   "disconnected_from": "連携解除する",
   "disconnected_from_activities_blurb": "Intervals.icuは{0}から切断されました。引続き{0}からアクティビティをダウンロードしたい場合は、<a href=\"https://intervals.icu/settings\">設定</a>から再接続してください。",
+  "disconnected_from_message": "Intervals.icu は {0}から切断されています。 <a href=\"https://intervals.icu/settings/connections\">設定で再接続してください</a>。",
   "disconnected_from_training_blurb": "Intervals.icuは{0}と連携解除しました。{0}にワークアウトの予定をアップロードしたい場合は、<a href=\"https://intervals.icu/settings\">設定</a>から再接続してください。",
   "disconnected_from_wellness_blurb": "Intervals.icuは{0}と連携解除しました。{0}からウェルネスデータをダウンロードしたい場合は、<a href=\"https://intervals.icu/settings\">設定</a>から再接続してください。",
   "Display": "ディスプレイ",
