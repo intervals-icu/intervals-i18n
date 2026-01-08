@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Odłącz od Garmin Connect",
   "disconnected_from": "Odłączony od",
   "disconnected_from_activities_blurb": "Intervals.icu zostało odłączone od {0}. Jeśli chcesz kontynuować pobieranie aktywności z {0} , połącz się ponownie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
-  "disconnected_from_message": "Intervals.icu zostało odłączone od {0}. Proszę ponownie połączyć w https://intervals.icu/settings/connections",
+  "disconnected_from_message": "Intervals.icu zostało odłączone od {0}, proszę ponownie połączyć za {1}",
   "disconnected_from_training_blurb": "Intervals.icu został odłączony od {0}. Jeśli chcesz kontynuować wgrywanie zaplanowanych treningów do {0} połącz się ponownie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu został odłączony z {0}. Jeśli chcą Państwo kontynuować pobieranie danych dotyczących odnowy biologicznej z {0} , prosimy o ponowne połączenie w <a href=\"https://intervals.icu/settings\">ustawieniach</a>.",
   "Display": "Pokaż",

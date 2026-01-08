@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Від’єднатися від Garmin Connect",
   "disconnected_from": "Відключено від",
   "disconnected_from_activities_blurb": "Intervals.icu було відключено від {0}. Якщо ви бажаєте продовжити завантаження активності з {0} , підключіться повторно в налаштуваннях <a href=\"https://intervals.icu/settings\"></a>.",
-  "disconnected_from_message": "Intervals.icu було від'єднано від {0}. Будь ласка, перепідключіться до https://intervals.icu/settings/connections",
+  "disconnected_from_message": "Intervals.icu було відключено з {0}, будь ласка, підключіться знову в {1} .",
   "disconnected_from_training_blurb": "Intervals.icu було відключено від {0}. Якщо ви бажаєте продовжити завантаження запланованих тренувань на {0}, повторно підключіться в <a href=\"https://intervals.icu/settings\">налаштуваннях</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu було відключено від {0}. Якщо ви бажаєте продовжити завантаження даних про стан здоров’я з {0}, повторно підключіться в <a href=\"https://intervals.icu/settings\">налаштуваннях</a>.",
   "Display": "Відобразити",

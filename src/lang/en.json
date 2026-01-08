@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Disconnect from Garmin Connect",
   "disconnected_from": "Disconnected from",
   "disconnected_from_activities_blurb": "Intervals.icu has been disconnected from {0}. If you would like to continue downloading activities from {0} please reconnect in <a href=\"https://intervals.icu/settings\">settings</a>.",
-  "disconnected_from_message": "Intervals.icu has been disconnected from {0}. Please reconnect in https://intervals.icu/settings/connections",
+  "disconnected_from_message": "Intervals.icu has been disconnected from {0}, please reconnect in {1} ",
   "disconnected_from_training_blurb": "Intervals.icu has been disconnected from {0}. If you would like to continue uploading planned workouts to {0} please reconnect in <a href=\"https://intervals.icu/settings\">settings</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu has been disconnected from {0}. If you would like to continue downloading wellness data from {0} please reconnect in <a href=\"https://intervals.icu/settings\">settings</a>.",
   "Display": "Display",
