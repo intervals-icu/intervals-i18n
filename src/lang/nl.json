@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Garmin Connect ontkoppelen",
   "disconnected_from": "Losgekoppeld van",
   "disconnected_from_activities_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het downloaden van activiteiten van {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
-  "disconnected_from_message": "Intervals.icu is losgekoppeld van {0}. Verbind opnieuw via <a href=\"https://intervals.icu/settings/connections\">instellingen</a>.",
+  "disconnected_from_message": "Intervals.icu is losgekoppeld van {0}. Verbind opnieuw via https://intervals.icu/settings/connections",
   "disconnected_from_training_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het uploaden van geplande workouts naar {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu is losgekoppeld van {0}. Als je wil doorgaan met het downloaden van gezondheidsgegevens van {0} , maak dan opnieuw verbinding in <a href=\"https://intervals.icu/settings\">instellingen</a>.",
   "Display": "Tonen",

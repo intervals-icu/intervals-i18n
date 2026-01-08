@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Katkaise yhteys Garmin Connectista",
   "disconnected_from": "Yhteys katkaistu kohteesta",
   "disconnected_from_activities_blurb": "Intervals.icu on katkaissut yhteyden {0}:sta. Jos haluat jatkaa aktiviteettien lataamista {0}:sta, yhdistä uudelleen <a href=\"https://intervals.icu/settings\">asetuksissa</a>.",
-  "disconnected_from_message": "Intervals.icu on katkaistu yhteys kohteeseen {0}. Ole hyvä ja yhdistä uudelleen <a href=\"https://intervals.icu/settings/connections\">asetuksissa</a>.",
+  "disconnected_from_message": "Intervals.icu on katkaistu yhteys kohteeseen {0}. Ole hyvä ja yhdistä uudelleen https://intervals.icu/settings/connections",
   "disconnected_from_training_blurb": "Intervals.icu on katkaistu yhteys palveluun {0}. Jos haluat jatkaa suunniteltujen harjoitusten lataamista palveluun {0}, yhdistä uudelleen <a href=\"https://intervals.icu/settings\">asetuksissa</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu on katkaistu yhteys palveluun {0}. Jos haluat jatkaa hyvinvointitietojen lataamista palvelusta {0}, yhdistä uudelleen <a href=\"https://intervals.icu/settings\">asetuksissa</a>.",
   "Display": "Näyttö",

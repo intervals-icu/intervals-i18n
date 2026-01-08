@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Αποσύνδεση από το Garmin Connect",
   "disconnected_from": "Αποσυνδεδεμένος από",
   "disconnected_from_activities_blurb": "Το Intervals.icu έχει αποσυνδεθεί από το {0}. Αν θέλετε να συνεχίσετε να κατεβάζετε δραστηριότητες από {0} παρακαλούμε επανασυνδεθείτε στις <a href=\"https://intervals.icu/settings\">ρυθμίσεις</a>.",
-  "disconnected_from_message": "Το Intervals.icu έχει αποσυνδεθεί από το {0}. Παρακαλούμε επανασυνδεθείτε στις <a href=\"https://intervals.icu/settings/connections\">ρυθμίσεις</a>.",
+  "disconnected_from_message": "Το Intervals.icu έχει αποσυνδεθεί από το {0}. Παρακαλούμε επανασυνδεθείτε στις https://intervals.icu/settings/connections",
   "disconnected_from_training_blurb": "Το Intervals.icu έχει αποσυνδεθεί από το {0}. Αν θέλετε να συνεχίσετε να ανεβάζετε προγραμματισμένες προπονήσεις στο {0} παρακαλούμε επανασυνδέστε το στις <a href=\"https://intervals.icu/settings\">ρυθμίσεις</a>.",
   "disconnected_from_wellness_blurb": "Το Intervals.icu έχει αποσυνδεθεί από το {0}. Αν θέλετε να συνεχίσετε να κατεβάζετε δεδομένα ευεξίας από {0} παρακαλούμε επανασυνδεθείτε στις <a href=\"https://intervals.icu/settings\">ρυθμίσεις</a>.",
   "Display": "Εμφάνιση του",

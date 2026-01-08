@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Verbindung zu Garmin Connect trennen",
   "disconnected_from": "Getrennt von",
   "disconnected_from_activities_blurb": "Intervals.icu wurde von {0} getrennt. Wenn du weiterhin Aktivitäten von {0} herunterladen möchtest, stelle bitte in den <a href=\"https://intervals.icu/settings\">Einstellungen</a> erneut eine Verbindung her.",
-  "disconnected_from_message": "Intervals.icu wurde von {0} getrennt. Bitte verbinden Sie es erneut in den <a href=\"https://intervals.icu/settings/connections\">Einstellungen</a>.",
+  "disconnected_from_message": "Intervals.icu wurde von {0} getrennt. Bitte verbinden Sie es erneut in den https://intervals.icu/settings/connections",
   "disconnected_from_training_blurb": "Die Verbindung von Intervals.icu wurde von {0} getrennt. Wenn du weiterhin geplante Trainingseinheiten auf {0} hochladen möchtest, stelle die Verbindung in den <a href=\"https://intervals.icu/settings\">Einstellungen</a> wieder her.",
   "disconnected_from_wellness_blurb": "Die Verbindung von Intervals.icu wurde von {0} getrennt. Wenn du weiterhin Wellnessdaten von {0} herunterladen möchtest, stelle die Verbindung in den <a href=\"https://intervals.icu/settings\">Einstellungen</a> wieder her.",
   "Display": "Anzeige",

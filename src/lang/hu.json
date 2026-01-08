@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Garmin Connect leválasztása ",
   "disconnected_from": "Leválasztva",
   "disconnected_from_activities_blurb": "Az Intervals.icu le lett választva a következőről: {0}. Ha folytatni szeretné a tevékenységek letöltését innen: {0} , kérjük, csatlakozzon újra a <a href=\"https://intervals.icu/settings\">beállításaiban</a>.",
-  "disconnected_from_message": "Az Intervals.icu lecsatlakozott a(z) {0} szolgáltatásról. Kérjük, csatlakozzon újra a <a href=\"https://intervals.icu/settings/connections\">beállítások</a> menüpontban.",
+  "disconnected_from_message": "Az Intervals.icu lecsatlakozott a(z) {0} szolgáltatásról. Kérjük, csatlakozzon újra a https://intervals.icu/settings/connections menüpontban.",
   "disconnected_from_training_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretnéd feltölteni a tervezett edzéseket {0} , csatlakozz újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
   "disconnected_from_wellness_blurb": "Az Intervals.icu leválasztva a (z) {0}webhelyről. Ha továbbra is szeretnéd letölteni a wellness-adatokat {0} , csatlakozz újra a <a href=\"https://intervals.icu/settings\">beállításokban</a>.",
   "Display": "Kijelző",

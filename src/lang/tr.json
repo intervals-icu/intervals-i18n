@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Garmin Connect’ten bağlantıyı kes",
   "disconnected_from": "Bağlantı kesildi",
   "disconnected_from_activities_blurb": "Intervals.icu'nun {0} ile bağlantısı kesildi. {0} uygulamasından aktivite indirmeye devam etmek istiyorsan <a href=\"https://intervals.icu/settings\">ayarlar</a>’dan yeniden bağlan.",
-  "disconnected_from_message": "Intervals.icu, {0} ile bağlantısı kesildi. Lütfen <a href=\"https://intervals.icu/settings/connections\">ayarlar</a> bölümünden yeniden bağlanın.",
+  "disconnected_from_message": "Intervals.icu, {0} ile bağlantısı kesildi. Lütfen https://intervals.icu/settings/connections bölümünden yeniden bağlanın.",
   "disconnected_from_training_blurb": "Intervals.icu'nun {0} ile bağlantısı kesildi. {0} uygulamasına planlı antrenman yüklemeye devam etmek istiyorsan <a href=\"https://intervals.icu/settings\">ayarlar</a>’dan yeniden bağlan.",
   "disconnected_from_wellness_blurb": "Intervals.icu'nun {0} ile bağlantısı kesildi. {0} uygulamasından iyilik hali verisi indirmeye devam etmek istiyorsan <a href=\"https://intervals.icu/settings\">ayarlar</a>’dan yeniden bağlan.",
   "Display": "Görüntüle",

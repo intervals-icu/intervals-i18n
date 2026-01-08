@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Deconectare de la Garmin Connect",
   "disconnected_from": "Deconectat de la",
   "disconnected_from_activities_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă doriți să continuați să descărcați activități de la {0} , vă rugăm să vă reconectați în <a href=\"https://intervals.icu/settings\">setări</a>.",
-  "disconnected_from_message": "Intervals.icu a fost deconectat de la {0}. Vă rugăm să vă reconectați în <a href=\"https://intervals.icu/settings/connections\">setări</a>.",
+  "disconnected_from_message": "Intervals.icu a fost deconectat de la {0}. Vă rugăm să vă reconectați în https://intervals.icu/settings/connections",
   "disconnected_from_training_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă dorești să încarci în continuare antrenamentele planificate în {0} reconectează-te din pagina de <a href=\"https://intervals.icu/settings\">setări</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu a fost deconectat de la {0}. Dacă doriți să continuați să descărcați date de wellness din {0} reconectați-vă din <a href=\"https://intervals.icu/settings\">setări</a>.",
   "Display": "Afişaj",

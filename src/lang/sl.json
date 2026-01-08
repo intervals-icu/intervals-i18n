@@ -871,7 +871,7 @@
   "Disconnect from Garmin Connect": "Prekinite povezavo z Garmin Connect",
   "disconnected_from": "Prekinjena povezava z",
   "disconnected_from_activities_blurb": "Intervals.icu je bil prekinjen z {0}. Če želite nadaljevati s prenosom dejavnosti iz {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
-  "disconnected_from_message": "Intervals.icu je bil odklopljen od {0}. Prosimo, ponovno se povežite v <a href=\"https://intervals.icu/settings/connections\">nastavitvah</a>.",
+  "disconnected_from_message": "Intervals.icu je bil odklopljen od {0}. Prosimo, ponovno se povežite v https://intervals.icu/settings/connections",
   "disconnected_from_training_blurb": "Intervals.icu je bila prekinjena z {0}. Če želite še naprej nalagati načrtovane treninge v {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
   "disconnected_from_wellness_blurb": "Intervals.icu je bila prekinjena z {0}. Če želite še naprej prenašati podatke o dobrem počutju iz {0} , se znova povežite v <a href=\"https://intervals.icu/settings\">nastavitvah</a>.",
   "Display": "Zaslon",
