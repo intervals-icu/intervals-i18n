@@ -80,6 +80,7 @@
   "Accessories": "Accesorios",
   "account_is_archived": "Esta cuenta ha sido archivada debido a inactividad",
   "account_is_dormant": "Esta cuenta ha sido puesta en estado inactivo debido a inactividad",
+  "account_made_dormant": "Su cuenta ha sido inactivada debido a la falta de actividad. No se procesarán nuevas actividades. Puede reactivar su cuenta visitando Intervals.icu e iniciando sesión. Puede restaurar actividades perdidas desde muchas fuentes en la configuración.",
   "account_status_dialog_title": "Cuenta {status}",
   "Accurate Elevation": "Elevación precisa",
   "accurate_device_elevation_help": "Si sabes si el {n} tiene un altímetro barométrico o no, por favor responde sí o no. Ten en cuenta que los dispositivos que solo tienen GPS para la elevación no son precisos.",

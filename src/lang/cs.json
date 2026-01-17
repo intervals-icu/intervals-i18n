@@ -80,6 +80,7 @@
   "Accessories": "Příslušenství",
   "account_is_archived": "Tento účet byl archivován z důvodu neaktivity",
   "account_is_dormant": "Tento účet byl z důvodu neaktivity označen jako neaktivní",
+  "account_made_dormant": "Váš účet byl zneaktivněn kvůli nečinnosti. Nové aktivity nebudou zpracovávány. Účet můžete znovu aktivovat návštěvou Intervals.icu a přihlášením. Zmeškané aktivity lze obnovit z mnoha zdrojů v nastavení.",
   "account_status_dialog_title": "{status} účet",
   "Accurate Elevation": "Přesná nadmořská výška",
   "accurate_device_elevation_help": "Pokud víte, zda má {n} barometrický výškoměr, odpovězte prosím ano nebo ne. Upozorňujeme, že zařízení s pouze GPS pro měření nadmořské výšky nejsou přesná.",

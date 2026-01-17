@@ -80,6 +80,7 @@
   "Accessories": "Tilbehør",
   "account_is_archived": "Denne konto er blevet arkiveret på grund af inaktivitet",
   "account_is_dormant": "Denne konto er blevet gjort inaktiv på grund af inaktivitet",
+  "account_made_dormant": "Din konto er blevet sat i dvale på grund af inaktivitet. Nye aktiviteter vil ikke blive behandlet. Du kan genaktivere din konto ved at besøge Intervals.icu og logge ind. Du kan gendanne mistede aktiviteter fra mange kilder i indstillinger.",
   "account_status_dialog_title": "{status} konto",
   "Accurate Elevation": "Præcis Højde",
   "accurate_device_elevation_help": "Hvis du ved, om {n} har en barometrisk højdemåler eller ej, så svar venligst ja eller nej. Bemærk venligst, at enheder med kun GPS til højde ikke er nøjagtige.",

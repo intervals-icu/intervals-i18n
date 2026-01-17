@@ -80,6 +80,7 @@
   "Accessories": "Dodatki",
   "account_is_archived": "Ta račun je bil arhiviran zaradi neaktivnosti",
   "account_is_dormant": "Ta račun je bil zaradi neaktivnosti označen kot neaktiven",
+  "account_made_dormant": "Vaš račun je bil zaradi neaktivnosti označen kot neaktiven. Nove aktivnosti ne bodo obdelane. Račun lahko ponovno aktivirate tako, da obiščete Intervals.icu in se prijavite. Zamujene aktivnosti lahko obnovite iz številnih virov v nastavitvah.",
   "account_status_dialog_title": "{status} račun",
   "Accurate Elevation": "Natančna Višina",
   "accurate_device_elevation_help": "Če veste, ali ima {n} barometrični višinomerni senzor ali ne, prosim odgovorite z da ali ne. Upoštevajte, da naprave, ki uporabljajo samo GPS za merjenje nadmorske višine, niso natančne.",

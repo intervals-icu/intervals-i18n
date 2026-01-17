@@ -80,6 +80,7 @@
   "Accessories": "Accessoires",
   "account_is_archived": "Ce compte a été archivé en raison d'une inactivité",
   "account_is_dormant": "Ce compte a été mis en veille en raison d'une inactivité",
+  "account_made_dormant": "Votre compte a été mis en veille en raison d'une inactivité. Les nouvelles activités ne seront pas traitées. Vous pouvez réactiver votre compte en visitant Intervals.icu et en vous connectant. Vous pouvez restaurer les activités manquées à partir de nombreuses sources dans les paramètres.",
   "account_status_dialog_title": "Compte {status}",
   "Accurate Elevation": "Altitude précise",
   "accurate_device_elevation_help": "Si vous savez si le {n} possède un altimètre barométrique ou non, veuillez répondre par oui ou non. Veuillez noter que les appareils utilisant uniquement le GPS pour l'altitude ne sont pas précis.",

@@ -80,6 +80,7 @@
   "Accessories": "Aksesoris",
   "account_is_archived": "Akun ini telah diarsipkan karena tidak aktif",
   "account_is_dormant": "Akun ini telah dibuat tidak aktif karena tidak ada aktivitas",
+  "account_made_dormant": "Akun Anda telah dibuat tidak aktif karena tidak ada aktivitas. Aktivitas baru tidak akan diproses. Anda dapat mengaktifkan kembali akun Anda dengan mengunjungi Intervals.icu dan masuk. Anda dapat memulihkan aktivitas yang terlewat dari berbagai sumber di pengaturan.",
   "account_status_dialog_title": "Akun {status}",
   "Accurate Elevation": "Elevasi yang Akurat",
   "accurate_device_elevation_help": "Jika Anda tahu apakah {n} memiliki altimeter barometrik atau tidak, mohon jawab ya atau tidak. Harap dicatat bahwa perangkat yang hanya menggunakan GPS untuk elevasi tidak akurat.",

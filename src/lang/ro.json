@@ -80,6 +80,7 @@
   "Accessories": "Accesorii",
   "account_is_archived": "Acest cont a fost arhivat din cauza inactivității",
   "account_is_dormant": "Acest cont a fost pus în stare de inactivitate din cauza inactivității",
+  "account_made_dormant": "Contul tău a fost pus în stare inactivă din cauza lipsei de activitate. Noile activități nu vor fi procesate. Poți reactiva contul accesând Intervals.icu și autentificându-te. Poți restaura activitățile pierdute din mai multe surse în setări.",
   "account_status_dialog_title": "Cont {status}",
   "Accurate Elevation": "Elevație precisă",
   "accurate_device_elevation_help": "Dacă știți dacă {n} are un altimetru barometric sau nu, vă rugăm să răspundeți cu da sau nu. Vă rugăm să rețineți că dispozitivele care utilizează doar GPS pentru altitudine nu sunt precise.",
