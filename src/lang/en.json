@@ -82,7 +82,7 @@
   "account_is_dormant": "This account has been made dormant due to inactivity",
   "account_made_dormant": "Your account has been made dormant due to inactivity. New activities will not be processed. You can re-activate your account by visiting Intervals.icu and logging in. You can restore missed activities from many sources in settings.",
   "account_status_dialog_title": "{status} Account",
-  "account_will_be_made_dormant": "Your account will soon be made dormant due to inactivity and new activities will no longer be processed. You avoid this by visiting Intervals.icu and logging in within the next {0} days.",
+  "account_will_be_made_dormant": "Your account will soon be made dormant due to inactivity and new activities will no longer be processed. You can avoid this by visiting Intervals.icu and logging in within the next {0} days.",
   "Accurate Elevation": "Accurate Elevation",
   "accurate_device_elevation_help": "If you know if the {n} has a barometric altimeter or not then please answer yes or no. Please note that devices with only GPS for elevation are not accurate.",
   "Achievements": "Achievements",
