@@ -82,6 +82,7 @@
   "account_is_dormant": "このアカウントは使用されていないため、休眠状態になっています。",
   "account_made_dormant": "あなたのアカウントは活動停止のため休止状態になりました。新しいアクティビティは処理されません。あなたはIntervals.icuを訪問し、ログインしてアカウントを再アクティブ化することができます。あなたは設定で多くのソースから逃した活動を復元することができます。",
   "account_status_dialog_title": "{status} アカウント",
+  "account_will_be_made_dormant": "あなたのアカウントはすぐに非アクティブのために休眠状態にされ、新しい活動は、もはや処理されません。あなたはIntervals.icuを訪問し、次の {0} 日以内にログインすることにより、これを避けることができます。",
   "Accurate Elevation": "正確な標高",
   "accurate_device_elevation_help": "もし {n} に気圧計があるかどうか分かっているなら、はいかいいえで答えてください。GPSのみの標高測定機器は正確ではないことに注意してください。",
   "Achievements": "実績",

@@ -82,6 +82,7 @@
   "account_is_dormant": "To konto zostało uśpione z powodu braku aktywności",
   "account_made_dormant": "Twoje konto zostało uśpione z powodu braku aktywności. Nowe aktywności nie będą przetwarzane. Możesz ponownie aktywować swoje konto, odwiedzając Intervals.icu i logując się. Możesz przywrócić utracone aktywności z wielu źródeł w ustawieniach.",
   "account_status_dialog_title": "Konto {status}",
+  "account_will_be_made_dormant": "Twoje konto wkrótce zostanie uśpione z powodu braku aktywności i nowe działania nie będą już przetwarzane. Możesz tego uniknąć, odwiedzając Intervals.icu i logując się w ciągu najbliższych {0} dni.",
   "Accurate Elevation": "Dokładna wysokość",
   "accurate_device_elevation_help": "Jeśli wiesz, czy {n} ma barometryczny wysokościomierz, odpowiedz proszę tak lub nie. Należy zauważyć, że urządzenia korzystające wyłącznie z GPS do pomiaru wysokości nie są dokładne.",
   "Achievements": "Osiągnięcia",

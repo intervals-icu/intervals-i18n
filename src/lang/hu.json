@@ -82,6 +82,7 @@
   "account_is_dormant": "Ez a fiók inaktivitás miatt szunnyadó állapotba került",
   "account_made_dormant": "Fiókja inaktivitás miatt szunnyadó állapotba került. Az új tevékenységek feldolgozása nem történik meg. Fiókját az Intervals.icu oldalra látogatva és bejelentkezve újra aktiválhatja. A beállításokban számos forrásból visszaállíthatja az elmaradt tevékenységeket.",
   "account_status_dialog_title": "{status} fiók",
+  "account_will_be_made_dormant": "A fiókod hamarosan inaktívvá válik a tevékenység hiánya miatt, és új tevékenységek már nem kerülnek feldolgozásra. Ezt elkerülheted, ha az Intervals.icu oldalra látogatsz és bejelentkezel a következő {0} napon belül.",
   "Accurate Elevation": "Pontos magasság",
   "accurate_device_elevation_help": "Ha tudja, hogy a {n} rendelkezik-e barometrikus magasságmérővel, kérjük, válaszoljon igennel vagy nemmel. Kérjük, vegye figyelembe, hogy az emelkedés mérésére kizárólag GPS-t használó eszközök nem pontosak.",
   "Achievements": "Eredmények",

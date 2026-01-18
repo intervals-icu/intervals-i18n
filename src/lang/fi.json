@@ -82,6 +82,7 @@
   "account_is_dormant": "Tämä tili on tehty passiiviseksi käyttämättömyyden vuoksi",
   "account_made_dormant": "Tilisi on asetettu passiiviseksi käyttämättömyyden vuoksi. Uusia aktiviteetteja ei käsitellä. Voit aktivoida tilisi uudelleen vierailemalla Intervals.icu-sivustolla ja kirjautumalla sisään. Voit palauttaa menetetyt aktiviteetit monista lähteistä asetuksissa.",
   "account_status_dialog_title": "{status} tili",
+  "account_will_be_made_dormant": "Tilisi siirtyy pian lepotilaan käyttämättömyyden vuoksi, eikä uusia toimintoja enää käsitellä. Voit välttää tämän käymällä Intervals.icu-sivustolla ja kirjautumalla sisään seuraavan {0} päivän aikana.",
   "Accurate Elevation": "Tarkka korkeus",
   "accurate_device_elevation_help": "Jos tiedät, onko {n}:ssä barometrinen korkeusmittari vai ei, vastaa kyllä tai ei. Huomaa, että laitteet, joissa on vain GPS-korkeusmittaus, eivät ole tarkkoja.",
   "Achievements": "Saavutukset",

@@ -82,6 +82,7 @@
   "account_is_dormant": "Bu hesap uzun süredir kullanılmadığı için pasife alınmıştır",
   "account_made_dormant": "Hesabınız hareketsizlik nedeniyle pasif duruma getirilmiştir. Yeni aktiviteler işlenmeyecektir. Hesabınızı yeniden etkinleştirmek için Intervals.icu sitesini ziyaret edip giriş yapabilirsiniz. Ayarlardan birçok kaynaktan kaçırılan aktiviteleri geri yükleyebilirsiniz.",
   "account_status_dialog_title": "{status} Hesap",
+  "account_will_be_made_dormant": "Hesabınız, hareketsizlik nedeniyle yakında pasif duruma getirilecek ve yeni aktiviteler işlenmeyecektir. Bunu önlemek için Intervals.icu sitesini ziyaret edip önümüzdeki {0} gün içinde giriş yapmalısınız.",
   "Accurate Elevation": "Doğru Yükseklik",
   "accurate_device_elevation_help": "{n} cihazının barometrik altimetreye sahip olup olmadığını biliyorsanız lütfen evet veya hayır olarak cevaplayın. Yükseklik ölçümü için yalnızca GPS kullanan cihazların doğru olmayabileceğini lütfen unutmayın.",
   "Achievements": "Başarılar",

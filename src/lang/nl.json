@@ -82,6 +82,7 @@
   "account_is_dormant": "Dit account is inactief gemaakt vanwege inactiviteit",
   "account_made_dormant": "Uw account is inactief gemaakt vanwege inactiviteit. Nieuwe activiteiten worden niet verwerkt. U kunt uw account opnieuw activeren door naar Intervals.icu te gaan en in te loggen. U kunt gemiste activiteiten vanuit verschillende bronnen herstellen in de instellingen.",
   "account_status_dialog_title": "{status} Account",
+  "account_will_be_made_dormant": "Je account wordt binnenkort inactief gemaakt vanwege inactiviteit en nieuwe activiteiten worden niet langer verwerkt. Je voorkomt dit door Intervals.icu te bezoeken en binnen de komende {0} dagen in te loggen.",
   "Accurate Elevation": "Nauwkeurige hoogte",
   "accurate_device_elevation_help": "Als u weet of de {n} een barometrische hoogtemeter heeft of niet, beantwoord dan alstublieft met ja of nee. Houd er rekening mee dat apparaten die alleen GPS gebruiken voor hoogte niet nauwkeurig zijn.",
   "Achievements": "Prestaties",

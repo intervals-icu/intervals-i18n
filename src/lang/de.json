@@ -82,6 +82,7 @@
   "account_is_dormant": "Dieses Konto wurde aufgrund von Inaktivität inaktiv gesetzt",
   "account_made_dormant": "Ihr Konto wurde aufgrund von Inaktivität inaktiv geschaltet. Neue Aktivitäten werden nicht verarbeitet. Sie können Ihr Konto reaktivieren, indem Sie Intervals.icu besuchen und sich anmelden. Verpasste Aktivitäten können in den Einstellungen aus vielen Quellen wiederhergestellt werden.",
   "account_status_dialog_title": "{status} Konto",
+  "account_will_be_made_dormant": "Ihr Konto wird aufgrund von Inaktivität bald inaktiv geschaltet und neue Aktivitäten werden nicht mehr verarbeitet. Dies können Sie vermeiden, indem Sie Intervals.icu besuchen und sich innerhalb der nächsten {0} Tage anmelden.",
   "Accurate Elevation": "Genaue Höhe",
   "accurate_device_elevation_help": "Wenn Sie wissen, ob das {n} einen barometrischen Höhenmesser hat oder nicht, antworten Sie bitte mit Ja oder Nein. Bitte beachten Sie, dass Geräte, die nur GPS für die Höhenmessung verwenden, nicht genau sind.",
   "Achievements": "Erfolge",

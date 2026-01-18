@@ -82,6 +82,7 @@
   "account_is_dormant": "Ta račun je bil zaradi neaktivnosti označen kot neaktiven",
   "account_made_dormant": "Vaš račun je bil zaradi neaktivnosti označen kot neaktiven. Nove aktivnosti ne bodo obdelane. Račun lahko ponovno aktivirate tako, da obiščete Intervals.icu in se prijavite. Zamujene aktivnosti lahko obnovite iz številnih virov v nastavitvah.",
   "account_status_dialog_title": "{status} račun",
+  "account_will_be_made_dormant": "Vaš račun bo kmalu zaradi neaktivnosti prešel v stanje mirovanja in nove aktivnosti ne bodo več obdelane. Temu se izognete tako, da obiščete Intervals.icu in se v naslednjih {0} dneh prijavite.",
   "Accurate Elevation": "Natančna Višina",
   "accurate_device_elevation_help": "Če veste, ali ima {n} barometrični višinomerni senzor ali ne, prosim odgovorite z da ali ne. Upoštevajte, da naprave, ki uporabljajo samo GPS za merjenje nadmorske višine, niso natančne.",
   "Achievements": "Dosežki",
