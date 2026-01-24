@@ -28,6 +28,7 @@ to see what has actually changed.
 - Shingo Kitayama (ja)
 - Frederik (da)
 - Rodrigo Chogri Galli (pt-BR)
+- Tomáš Vančo (sk)
 
 (Your name here! Send me a PR!)
 
