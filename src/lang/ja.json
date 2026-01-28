@@ -77,6 +77,7 @@
   "Above": "上",
   "Absolute value": "整数値",
   "absolute_pace_workout_step_help": "距離({du})あたりの時間(mm:ss)の絶対ペースを使用します(例:6:30/ km)。デフォルトの距離単位は、各アスリートの /settings でスポーツに対して定義されます ({def})",
+  "Accept": "受け入れる",
   "access_prompt": "どのIntervals.icuデータアクセスを{name}へ許可しますか？",
   "Accessories": "アクセサリー",
   "account_is_archived": "このアカウントはアクティブでないためアーカイブされました。",

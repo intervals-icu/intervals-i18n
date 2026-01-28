@@ -77,6 +77,7 @@
   "Above": "Felett",
   "Absolute value": "Abszolút érték",
   "absolute_pace_workout_step_help": "Használja az abszolút tempót időben (pp:mm) távolságonként ({du}), pl. 6:30/km. Az alapértelmezett távolságegység a sportághoz van beállítva a /beállítások menüben minden sportoló esetében ({def})",
+  "Accept": "Elfogad",
   "access_prompt": "Milyen hozzáféréssel kell rendelkeznie {name} az Intervals.icu adataihoz?",
   "Accessories": "Tartozékok",
   "account_is_archived": "Ez a fiók inaktivitás miatt archiválva lett",

@@ -77,6 +77,7 @@
   "Above": "Üstünde",
   "Absolute value": "Tam değer",
   "absolute_pace_workout_step_help": "Mesafe başına mutlak hızı zaman (dd:sn) cinsinden kullanın ({du}), örneğin 6:30/km. Varsayılan mesafe birimi, her spor için /settings kısmında tanımlanmıştır ({def}).",
+  "Accept": "Kabul et",
   "access_prompt": "{name} , Intervals.icu verilerinizden hangilerine erişebilmelidir?",
   "Accessories": "Aksesuarlar",
   "account_is_archived": "Bu hesap uzun süredir kullanılmadığı için arşivlenmiştir",

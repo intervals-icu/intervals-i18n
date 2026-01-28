@@ -77,6 +77,7 @@
   "Above": "Above",
   "Absolute value": "Absolute value",
   "absolute_pace_workout_step_help": "Use absolute pace in time (mm:ss) per distance ({du}) e.g. 6:30/km. The default distance unit is defined for the sport in /settings for each athlete ({def})",
+  "Accept": "Accept",
   "access_prompt": "What access should {name} have to your Intervals.icu data?",
   "Accessories": "Accessories",
   "account_is_archived": "This account has been archived due to inactivity",

@@ -77,6 +77,7 @@
   "Above": "高于",
   "Absolute value": "绝对值",
   "absolute_pace_workout_step_help": "使用绝对配速，时间以每距离单位（{du}）的分钟:秒（mm:ss）表示，例如 6:30/km。默认距离单位在每个运动员的设置中为该运动定义（{def}）",
+  "Accept": "接受",
   "access_prompt": " {name} 应该对你的Intervals.icu数据有什么访问权？",
   "Accessories": "配件",
   "account_is_archived": "由于不活跃，该账户已被存档",
