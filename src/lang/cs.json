@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "Změny plánu aplikovány na {n} sportovců",
   "plan_end_race": "Plán skončí tímto závodem",
   "plan_for_week_sent": "Plán na týden byl odeslán e-mailem",
+  "plan_moved_successfully": "Plán {n} byl úspěšně přesunut",
   "plan_not_shared_with_athletes": "Tento plán není sdílen s žádnými sportovci",
   "Plans": "Plány",
   "Platform": "Platforma",

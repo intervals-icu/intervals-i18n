@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "Зміни в плані, що стосуються {n} спортсменів",
   "plan_end_race": "План закінчиться на цій гонці",
   "plan_for_week_sent": "План на тиждень надіслано",
+  "plan_moved_successfully": "План {n} успішно виконано",
   "plan_not_shared_with_athletes": "Цей план не надано жодному спортсмену",
   "Plans": "Плани",
   "Platform": "Платформа",

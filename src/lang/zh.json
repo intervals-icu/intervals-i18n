@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "对 {n} 名运动员应用的计划更改",
   "plan_end_race": "计划将在此比赛结束",
   "plan_for_week_sent": "发送电子邮件的一周计划",
+  "plan_moved_successfully": "计划 {n} 移动成功",
   "plan_not_shared_with_athletes": "此计划未与任何运动员共享",
   "Plans": "计划",
   "Platform": "平台",

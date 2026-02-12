@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "Planændringer anvendt på {n} atleter",
   "plan_end_race": "Planen slutter ved dette løb",
   "plan_for_week_sent": "Plan for ugen sendt af e-mail",
+  "plan_moved_successfully": "Plan {n} flyttet med succes",
   "plan_not_shared_with_athletes": "Denne plan deles ikke med nogen atleter",
   "Plans": "Planer",
   "Platform": "Platform",

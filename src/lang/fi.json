@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "Suunnitelman muutokset sovellettu {n} urheilijalle",
   "plan_end_race": "Suunnitelma päättyy tähän kilpailuun",
   "plan_for_week_sent": "Viikon suunnitelman sähköposti lähetetty",
+  "plan_moved_successfully": "Suunnitelma {n} siirrettiin onnistuneesti",
   "plan_not_shared_with_athletes": "Tätä suunnitelmaa ei ole jaettu millekään urheilijalle",
   "Plans": "Suunnitelmat",
   "Platform": "Alusta",

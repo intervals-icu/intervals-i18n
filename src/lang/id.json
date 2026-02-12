@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "Perubahan rencana diterapkan pada {n} atlet",
   "plan_end_race": "Rencana akan berakhir pada lomba ini",
   "plan_for_week_sent": "Rencana untuk minggu ini telah dikirim melalui email",
+  "plan_moved_successfully": "Rencana {n} berhasil dipindahkan",
   "plan_not_shared_with_athletes": "Rencana ini tidak dibagikan kepada atlet mana pun",
   "Plans": "Rencana",
   "Platform": "Platform",

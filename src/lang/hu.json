@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "A tervváltozások {n} sportolóra vonatkoznak",
   "plan_end_race": "A terv ezen a versenyen ér véget",
   "plan_for_week_sent": "A heti edzésterv e-mailt kiküldtük",
+  "plan_moved_successfully": "A(z) {n} terv sikeresen áthelyezve",
   "plan_not_shared_with_athletes": "Ezt a tervet egyetlen sportoló sem osztja meg",
   "Plans": "Edzéstervek",
   "Platform": "Platform",

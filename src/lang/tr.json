@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "Plan değişiklikleri {n} sporcuya uygulandı",
   "plan_end_race": "Plan bu yarışta sona erecek",
   "plan_for_week_sent": "Haftalık plan e-postası gönderildi",
+  "plan_moved_successfully": "Plan {n} başarıyla taşındı",
   "plan_not_shared_with_athletes": "Bu plan hiçbir sporcu ile paylaşılmadı",
   "Plans": "Planlar",
   "Platform": "Platform",

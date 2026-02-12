@@ -2038,6 +2038,7 @@
   "plan_changes_applied_to_athletes": "Cambios de plan aplicados a {n} atletas",
   "plan_end_race": "El plan terminará en esta carrera",
   "plan_for_week_sent": "Correo electrónico con el plan para la semana enviado",
+  "plan_moved_successfully": "Plan {n} movido con éxito",
   "plan_not_shared_with_athletes": "Este plan no se comparte con ningún atleta",
   "Plans": "Planes",
   "Platform": "Plataforma",
