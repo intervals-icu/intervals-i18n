@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Obciążenie treningowe",
   "fatigued_curve_ranking_note": "Proszę zauważyć, że rankingi dla krzywych mocy zmęczonych ({list}) są względne względem świeżych sportowców, a nie innych o podobnym poziomie zmęczenia",
   "Fatness": "Tkanka tłuszczowa",
+  "feature_not_on_mobile": "Niestety {link} nie jest obsługiwany na ekranach o rozmiarach mobilnych. Proszę użyć tabletu lub laptopa.",
   "Features": "Funkcje",
   "features_only_for_subscribers": "Funkcje dostępne tylko dla subskrybentów:",
   "feel": "Samopoczucie",

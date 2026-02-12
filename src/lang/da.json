@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Træthedsbelastning",
   "fatigued_curve_ranking_note": "Bemærk venligst, at ranglisterne for udmattede effektkurver ({list}) er relative i forhold til friske atleter og ikke andre med et lignende træthedsniveau",
   "Fatness": "Fedme",
+  "feature_not_on_mobile": "Desværre understøttes {link} ikke på mobile skærmstørrelser. Brug venligst en tablet eller bærbar computer.",
   "Features": "Funktioner",
   "features_only_for_subscribers": "Funktioner, der kun er tilgængelige for abonnenter:",
   "feel": "Hvordan havde du det?",

@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Ermüdungsbelastung",
   "fatigued_curve_ranking_note": "Bitte beachten Sie, dass die Ranglisten für ermüdete Leistungskurven ({list}) relativ zu frischen Athleten und nicht zu anderen mit einem ähnlichen Ermüdungsgrad sind",
   "Fatness": "Fettheit",
+  "feature_not_on_mobile": "Leider wird der {link} auf mobilen Bildschirmgrößen nicht unterstützt. Bitte verwenden Sie ein Tablet oder einen Laptop.",
   "Features": "Funktionen",
   "features_only_for_subscribers": "Funktionen, die nur Abonnenten zur Verfügung stehen:",
   "feel": "Wie hast du dich gefühlt?",

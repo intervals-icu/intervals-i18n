@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Fáradtsági terhelés",
   "fatigued_curve_ranking_note": "Kérjük, vegye figyelembe, hogy a fáradt teljesítménygörbék ({list}) rangsorolása az éppen friss sportolókhoz viszonyítva történik, és nem más, hasonló fáradtsági szintű sportolókhoz.",
   "Fatness": "Kövérség",
+  "feature_not_on_mobile": "Sajnos a {link} nem támogatott mobil képernyőméreteken. Kérjük, használjon táblagépet vagy laptopot.",
   "Features": "Jellemzők",
   "features_only_for_subscribers": "Csak előfizetők számára elérhető funkciók:",
   "feel": "Hogy érezted magad?",

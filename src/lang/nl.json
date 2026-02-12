@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Vermoeidheidsbelasting",
   "fatigued_curve_ranking_note": "Houd er rekening mee dat de ranglijsten voor vermoeide vermogenscurves ({list}) relatief zijn ten opzichte van frisse atleten en niet ten opzichte van anderen met een vergelijkbaar vermoeidheidsniveau",
   "Fatness": "Vetgehalte",
+  "feature_not_on_mobile": "Helaas wordt de {link} niet ondersteund op mobiele schermformaten. Gebruik alstublieft een tablet of laptop.",
   "Features": "Kenmerken",
   "features_only_for_subscribers": "Functies alleen beschikbaar voor steunende leden:",
   "feel": "Wat was je gevoel?",

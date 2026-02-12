@@ -1095,6 +1095,7 @@
   "Fatigue Load": "疲劳度负荷",
   "fatigued_curve_ranking_note": "请注意，疲劳功率曲线（{list}）的排名是相对于状态良好的运动员而言的，而不是相对于其他具有相似疲劳水平的运动员。",
   "Fatness": "脂肪",
+  "feature_not_on_mobile": "很遗憾，{link} 在移动屏幕尺寸上不受支持。请使用平板电脑或笔记本电脑。",
   "Features": "特征",
   "features_only_for_subscribers": "仅对订阅者可用的功能：",
   "feel": "你的感觉如何？",

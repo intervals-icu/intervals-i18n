@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Yorgunluk Yükü",
   "fatigued_curve_ranking_note": "Lütfen yorgunluklu güç eğrileri ({list}) sıralamalarının taze sporculara göre olduğunu, benzer yorgunluk seviyesindeki diğer sporculara göre olmadığını unutma",
   "Fatness": "Şişmanlık",
+  "feature_not_on_mobile": "Maalesef {link} mobil ekran boyutlarında desteklenmemektedir. Lütfen bir tablet veya dizüstü bilgisayar kullanın.",
   "Features": "Özellikler",
   "features_only_for_subscribers": "Yalnızca abonelere açık özellikler:",
   "feel": "Nasıl hissettin?",

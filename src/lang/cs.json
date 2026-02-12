@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Únavové zatížení",
   "fatigued_curve_ranking_note": "Vezměte prosím na vědomí, že žebříčky pro křivky výkonu při únavě ({list}) jsou relativní k čerstvým sportovcům a nikoli k ostatním se stejnou úrovní únavy",
   "Fatness": "Tloušťka",
+  "feature_not_on_mobile": "Bohužel {link} není podporován na mobilních obrazovkách. Použijte prosím tablet nebo notebook.",
   "Features": "Vlastnosti",
   "features_only_for_subscribers": "Funkce dostupné pouze předplatitelům:",
   "feel": "Jak jste se cítil?",

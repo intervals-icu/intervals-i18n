@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Charge de fatigue",
   "fatigued_curve_ranking_note": "Veuillez noter que les classements des courbes de puissance en état de fatigue ({list}) sont relatifs aux athlètes frais (pas avec un niveau de fatigue similaire)",
   "Fatness": "Corpulence",
+  "feature_not_on_mobile": "Malheureusement, le {link} n'est pas pris en charge sur les tailles d'écran mobile. Veuillez utiliser une tablette ou un ordinateur portable.",
   "Features": "Fonctionnalités",
   "features_only_for_subscribers": "Fonctionnalités réservées aux abonnés :",
   "feel": "Comment vous êtes-vous senti(e) ?",

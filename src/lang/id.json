@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Beban Kelelahan",
   "fatigued_curve_ranking_note": "Harap dicatat bahwa peringkat untuk kurva daya kelelahan ({list}) bersifat relatif terhadap atlet yang segar dan bukan terhadap yang lain dengan tingkat kelelahan serupa",
   "Fatness": "Kegemukan",
+  "feature_not_on_mobile": "Sayangnya {link} tidak didukung pada ukuran layar ponsel. Silakan gunakan tablet atau laptop.",
   "Features": "Fitur",
   "features_only_for_subscribers": "Fitur hanya tersedia untuk pelanggan:",
   "feel": "Bagaimana perasaan Anda?",

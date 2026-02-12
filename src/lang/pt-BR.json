@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Carga de Fadiga",
   "fatigued_curve_ranking_note": "Por favor, note que os rankings para curvas de potência fatigadas ({list}) são relativos a atletas descansados e não a outros com um nível semelhante de fadiga",
   "Fatness": "Adiposidade",
+  "feature_not_on_mobile": "Infelizmente, o {link} não é suportado em tamanhos de tela móvel. Por favor, use um tablet ou laptop.",
   "Features": "Recursos",
   "features_only_for_subscribers": "Recursos disponíveis apenas para assinantes:",
   "feel": "Como você se sentiu?",

@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Väsymyskuorma",
   "fatigued_curve_ranking_note": "Huomioithan, että väsymystilassa olevien tehosyklien ({list}) sijoitukset ovat suhteellisia tuoreisiin urheilijoihin eivätkä muihin saman väsymystason omaaviin.",
   "Fatness": "Lihavuus",
+  "feature_not_on_mobile": "Valitettavasti {link} ei ole tuettu mobiilinäytön ko'oissa. Käytäthän tablettia tai kannettavaa tietokonetta.",
   "Features": "Ominaisuudet",
   "features_only_for_subscribers": "Ominaisuudet, jotka ovat saatavilla vain tilaajille:",
   "feel": "Miltä sinusta tuntui?",

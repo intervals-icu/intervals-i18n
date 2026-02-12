@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Únavové záťaženie",
   "fatigued_curve_ranking_note": "Upozorňujeme, že hodnotenia pre krivky výkonu pri únave ({list}) sú relatívne k čerstvým športovcom a nie k iným s podobnou úrovňou únavy",
   "Fatness": "Tučnota",
+  "feature_not_on_mobile": "Bohužiaľ, {link} nie je podporovaný na mobilných obrazovkách. Použite prosím tablet alebo notebook.",
   "Features": "Vlastnosti",
   "features_only_for_subscribers": "Funkcie dostupné len pre predplatiteľov",
   "feel": "Pocity",

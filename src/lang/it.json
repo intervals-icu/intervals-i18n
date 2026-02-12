@@ -1095,6 +1095,7 @@
   "Fatigue Load": "Carico di fatica",
   "fatigued_curve_ranking_note": "Si prega di notare che le classifiche per le curve di potenza affaticate ({list}) sono relative ad atleti freschi e non ad altri con un livello simile di affaticamento",
   "Fatness": "Percentuale di grasso",
+  "feature_not_on_mobile": "Sfortunatamente il {link} non è supportato su schermi di dimensioni mobili. Si prega di utilizzare un tablet o un laptop.",
   "Features": "Funzionalità",
   "features_only_for_subscribers": "Funzionalità disponibili solo per gli abbonati:",
   "feel": "Come ti sei sentito?",
