@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "Se você não quiser fazer isso agora, clique em 'Pular' para continuar para o Intervals.icu. Você pode vincular contas mais tarde nas configurações.",
   "signup_link_strava_blurb": "Conecte sua conta Strava para analisar suas atividades no Intervals.icu. Observe que, se você revogar o acesso ao Intervals.icu ou o Strava exigir que façamos isso, o Intervals.icu excluirá todos os dados originários do Strava.",
   "signup_promo_blurb": "Eleve seu treinamento com análises esportivas avançadas e planejamento do Intervals.icu!",
+  "signup_promo_congrats": "Parabéns, você agora é um membro premium do Intervals.icu até {until}!",
   "signup_promo_offer": "Três meses de assinatura premium estão incluídos, sem necessidade de informações de pagamento.",
   "signup_thank_you": "Obrigado por se inscrever, {name}!",
   "Similar intervals are grouped": "Intervalos semelhantes são agrupados",

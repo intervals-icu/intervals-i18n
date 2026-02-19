@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "Pokud to nyní nechcete udělat, pokračujte na Intervals.icu kliknutím na 'Přeskočit'. Účty můžete propojit později v nastavení.",
   "signup_link_strava_blurb": "Připojte svůj účet Strava k analýze svých aktivit na Intervals.icu. Všimněte si toho, že pokud zrušíte přístup k Intervals.icu nebo Strava to vyžaduje, Intervals.icu odstraní všechna data pocházející ze Stravy.",
   "signup_promo_blurb": "Vylepšete svůj trénink pomocí pokročilé sportovní analytiky a plánování od Intervals.icu!",
+  "signup_promo_congrats": "Gratulujeme, nyní jste prémiovým členem Intervals.icu až do {until}!",
   "signup_promo_offer": "Tři měsíce prémiového členství jsou zahrnuty, není potřeba zadávat platební údaje.",
   "signup_thank_you": "Děkujeme vám za registraci, {name}!",
   "Similar intervals are grouped": "Podobné intervaly jsou seskupeny",

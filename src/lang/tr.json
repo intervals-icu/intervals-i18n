@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "Bunu şimdi yapmak istemiyorsan ‘Atla’ seçeneğine tıkla ve Intervals.icu’ya devam et. Hesapları daha sonra ayarlardan bağlayabilirsin.",
   "signup_link_strava_blurb": "Strava hesabını bağla ve aktivitelerini Intervals.icu’da analiz et. Eğer Intervals.icu  erişimini iptal edersen veya Strava bunu zorunlu kılarsa, Intervals.icu  Strava’dan gelen tüm verileri silecektir.",
   "signup_promo_blurb": "Antrenmanınızı Intervals.icu'nun gelişmiş spor analitiği ve planlamasıyla bir üst seviyeye taşıyın!",
+  "signup_promo_congrats": "Tebrikler, artık {until} tarihine kadar Intervals.icu'nun premium üyesisiniz!",
   "signup_promo_offer": "Üç aylık premium üyelik dahildir, ödeme bilgisi gerekmemektedir.",
   "signup_thank_you": "Kayıt olduğun için teşekkürler, {name}!",
   "Similar intervals are grouped": "Benzer intervaller gruplandırıldı",

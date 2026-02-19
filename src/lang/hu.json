@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "Ha most nem akarod ezt megtenni, kattints az „Ugrás” gombra az Intervals.icu oldalra lépéshez. Később összekapcsolhatod a fiókokat a beállításokban.",
   "signup_link_strava_blurb": "Csatlakoztasd Strava-fiókodat az Intervals.icu webhelyen végzett tevékenységeinek elemzéséhez. Ne feledd, hogy ha visszavonod az Intervals.icu hozzáférést, vagy a Strava ezt megköveteli tőlünk, akkor az Intervals.icu törli a Strava-ból származó összes adatot.",
   "signup_promo_blurb": "Emeld új szintre az edzésed az Intervals.icu fejlett sportanalitikájával és tervezésével!",
+  "signup_promo_congrats": "Gratulálunk, mostantól az Intervals.icu prémium tagja vagy egészen {until} időpontig!",
   "signup_promo_offer": "Három hónap prémium tagságot tartalmaz, fizetési információ megadása nélkül.",
   "signup_thank_you": "Köszönjük, hogy feliratkoztál, {name}!",
   "Similar intervals are grouped": "Hasonló intervallumok csoportosítva vannak",

@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "Dacă nu doriți să faceți acest lucru acum, apasă pe „Omite” pentru a continua către Intervals.icu. Puteți conecta conturile mai târziu din setări.",
   "signup_link_strava_blurb": "Conectează-te la contul Strava pentru a analiza activitățile pe Intervals.icu. Reține că, dacă revoci accesul la Intervals.icu sau Strava ne cere să facem acest lucru, atunci Intervals.icu va șterge toate datele provenind de la Strava.",
   "signup_promo_blurb": "Îmbunătățește-ți antrenamentul cu analize sportive avansate și planificare de la Intervals.icu!",
+  "signup_promo_congrats": "Felicitări, acum ești membru premium al Intervals.icu până la {until}!",
   "signup_promo_offer": "Sunt incluse trei luni de abonament premium, fără a fi necesare informații de plată.",
   "signup_thank_you": "Îți mulțumim că te-ai înscris, {name}!",
   "Similar intervals are grouped": "Intervalele similare sunt grupate",

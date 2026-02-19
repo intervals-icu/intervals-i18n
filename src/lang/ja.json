@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "今この操作をしたくない場合は、「スキップ」をクリックしてIntervals.icuに進んでください。後で設定から各種アカウントをリンクすることができます。",
   "signup_link_strava_blurb": "Intervals.icuであなたの活動を分析するためにあなたのStravaアカウントを接続してください。あなたがIntervals.icuへのアクセスを取り消すか、またはStravaからアクセスが拒否された場合は、Intervals.icuではStravaから発信されたすべてのデータを削除されることに注意してください。",
   "signup_promo_blurb": "Intervals.icuから高度なスポーツ分析と計画であなたのトレーニングをレベルアップ！",
+  "signup_promo_congrats": "おめでとうございます、あなたは今、Intervals.icuのプレミアムメンバーです {until}まで！",
   "signup_promo_offer": "3ヶ月分のプレミアム会員費が含まれています。",
   "signup_thank_you": "ご登録ありがとうございます、{name}！",
   "Similar intervals are grouped": "似ているインターバルをグループ化する",

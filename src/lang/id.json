@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "Jika Anda tidak ingin melakukan ini sekarang, klik 'Lewati' untuk melanjutkan ke Intervals.icu. Anda dapat menautkan akun nanti di pengaturan.",
   "signup_link_strava_blurb": "Hubungkan akun Strava Anda untuk menganalisis aktivitas Anda di Intervals.icu. Perhatikan bahwa jika Anda mencabut akses Intervals.icu atau Strava meminta kami untuk melakukannya, maka Intervals.icu akan menghapus semua data yang berasal dari Strava.",
   "signup_promo_blurb": "Tingkatkan latihan Anda dengan analitik olahraga lanjutan dan perencanaan dari Intervals.icu!",
+  "signup_promo_congrats": "Selamat, Anda sekarang menjadi anggota premium Intervals.icu hingga {until}!",
   "signup_promo_offer": "Tiga bulan keanggotaan premium sudah termasuk, tanpa perlu informasi pembayaran.",
   "signup_thank_you": "Terima kasih telah mendaftar, {name}!",
   "Similar intervals are grouped": "Interval serupa dikelompokkan",

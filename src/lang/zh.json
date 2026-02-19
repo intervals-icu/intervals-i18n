@@ -2490,6 +2490,7 @@
   "signup_link_later_blurb": "如果你现在不想这样做，点击'跳过'继续进入Intervals.icu。你可以稍后在设置中链接账户",
   "signup_link_strava_blurb": "连接Strava账户，在Intervals.icu上分析活动。请注意，如果撤销了Intervals.icu的访问权或Strava要求这样做，Intervals.icu将删除所有Strava数据",
   "signup_promo_blurb": "通过 Intervals.icu 的高级运动分析和规划提升您的训练水平！",
+  "signup_promo_congrats": "恭喜，您现在是 Intervals.icu 的高级会员，会员有效期至 {until}！",
   "signup_promo_offer": "包含三个月的高级会员资格，无需支付信息。",
   "signup_thank_you": "谢谢注册，{name}!",
   "Similar intervals are grouped": "相似分段已被分组",
