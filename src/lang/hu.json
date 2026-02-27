@@ -2558,6 +2558,7 @@
   "Sport Settings": "Sport beállítások",
   "sport_settings_combined_time_in_zones": "Az Intervals.icu képes kimutatást készíteni a különböző zónák együttes használatával. Ez akkor működik a legjobban, ha azonos számú zóna van a teljesítmény, a HR és a tempó tekintetében, és a zónák összehasonlíthatók.",
   "sport_settings_fields_blurb": "Egyéni aktivitásmező értékek átmásolva az új tevékenységekre ehhez a sporthoz",
+  "Sports": "Sportok",
   "sports_settings_other_blurb": "Ezeket a beállításokat olyan tevékenységekhez használják, amelyek nem illeszkednek más sportágakhoz.",
   "Spreadsheet": "Táblázatkezelő",
   "Sprinter": "Sprinter",
