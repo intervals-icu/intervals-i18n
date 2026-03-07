@@ -2466,6 +2466,7 @@
   "Shared": "V skupni rabi",
   "shared_event_added": "{n} dodan v koledar",
   "shared_event_created": "{n} je ustvarjen, hvala!",
+  "shared_events_visible_on_www": "Skupni dogodki so vidni vsem na {link}",
   "shared_folder0": "Mapa v skupni rabi {0}",
   "shared_plan0": "Skupni načrt treniranja {0}",
   "sharpening": "izostritev",

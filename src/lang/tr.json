@@ -2466,6 +2466,7 @@
   "Shared": "Paylaşıldı",
   "shared_event_added": "{n} takvime eklendi",
   "shared_event_created": "{n} oluşturuldu, teşekkürler!",
+  "shared_events_visible_on_www": "Paylaşılan etkinlikler {link} üzerinde herkes tarafından görülebilir",
   "shared_folder0": "Paylaşılan klasör {0}",
   "shared_plan0": "Paylaşılan antrenman planı {0}",
   "sharpening": "keskinleştirme",

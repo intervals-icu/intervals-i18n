@@ -2466,6 +2466,7 @@
   "Shared": "Delt",
   "shared_event_added": "{n} tilføjet til kalenderen",
   "shared_event_created": "{n} er blevet oprettet, tak!",
+  "shared_events_visible_on_www": "Delte begivenheder er synlige for alle på {link}",
   "shared_folder0": "Delt mappe {0}",
   "shared_plan0": "Delt træningsplan {0}",
   "sharpening": "finpudsning",

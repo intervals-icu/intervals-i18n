@@ -2466,6 +2466,7 @@
   "Shared": "Gedeeld",
   "shared_event_added": "{n} is toegevoegd aan agenda",
   "shared_event_created": "{n} is gemaakt, bedankt!",
+  "shared_events_visible_on_www": "Gedeelde evenementen zijn zichtbaar voor iedereen op {link}",
   "shared_folder0": "Gedeelde map {0}",
   "shared_plan0": "Gedeeld plan {0}",
   "sharpening": "verscherping",

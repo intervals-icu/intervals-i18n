@@ -2466,6 +2466,7 @@
   "Shared": "Jaettu",
   "shared_event_added": "{n} lisätty kalenteriin",
   "shared_event_created": "{n} on luotu, kiitos!",
+  "shared_events_visible_on_www": "Jaetut tapahtumat ovat näkyvissä kaikille {link}",
   "shared_folder0": "Jaettu kansio {0}",
   "shared_plan0": "Jaettu harjoitussuunnitelma {0}",
   "sharpening": "terävöittäminen",

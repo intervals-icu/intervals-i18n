@@ -2466,6 +2466,7 @@
   "Shared": "Спільний",
   "shared_event_added": "{n} додано до календаря",
   "shared_event_created": "{n} створено, дякуємо!",
+  "shared_events_visible_on_www": "Спільні події видно всім на {link}",
   "shared_folder0": "Спільна папка {0}",
   "shared_plan0": "Спільний тренувальний план {0}",
   "sharpening": "заточування форми",

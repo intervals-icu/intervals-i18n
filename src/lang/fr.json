@@ -2466,6 +2466,7 @@
   "Shared": "Partagé",
   "shared_event_added": " {n} ajouté au calendrier",
   "shared_event_created": "{n} a été créé, merci !",
+  "shared_events_visible_on_www": "Les événements partagés sont visibles par tous sur {link}",
   "shared_folder0": "Dossier partagé {0}",
   "shared_plan0": "Plan d'entraînement partagé {0}",
   "sharpening": "affûtage",

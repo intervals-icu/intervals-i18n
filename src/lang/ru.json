@@ -2466,6 +2466,7 @@
   "Shared": "Общий",
   "shared_event_added": "{n} добавлен в календарь",
   "shared_event_created": "{n} создан, спасибо!",
+  "shared_events_visible_on_www": "Общие события видны всем на {link}",
   "shared_folder0": "Общая папка {0}",
   "shared_plan0": "Общий план тренировок {0}",
   "sharpening": "заточка",

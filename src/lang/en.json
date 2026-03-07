@@ -2466,6 +2466,7 @@
   "Shared": "Shared",
   "shared_event_added": "{n} added to calendar",
   "shared_event_created": "{n} has been created, thank you!",
+  "shared_events_visible_on_www": "Shared events are visible to everyone on {link}",
   "shared_folder0": "Shared folder {0}",
   "shared_plan0": "Shared training plan {0}",
   "sharpening": "sharpening",

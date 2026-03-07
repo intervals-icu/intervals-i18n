@@ -2466,6 +2466,7 @@
   "Shared": "Impartit",
   "shared_event_added": "{n} adăugat la calendar",
   "shared_event_created": "{n} a fost creat, vă mulțumesc!",
+  "shared_events_visible_on_www": "Evenimentele partajate sunt vizibile pentru toată lumea pe {link}",
   "shared_folder0": "Dosar partajat {0}",
   "shared_plan0": "Plan de instruire partajat {0}",
   "sharpening": "Finisare",

@@ -2466,6 +2466,7 @@
   "Shared": "Κοινή χρήση",
   "shared_event_added": "{n} προστέθηκε στο ημερολόγιο",
   "shared_event_created": "{n} έχει δημιουργηθεί, σας ευχαριστώ!",
+  "shared_events_visible_on_www": "Τα κοινά γεγονότα είναι ορατά σε όλους στο {link}",
   "shared_folder0": "Κοινόχρηστος φάκελος {0}",
   "shared_plan0": "Κοινό πλάνο προπόνησης {0}",
   "sharpening": "ακόνισμα",

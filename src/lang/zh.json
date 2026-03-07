@@ -2466,6 +2466,7 @@
   "Shared": "共享",
   "shared_event_added": "{n} 已添加到日历",
   "shared_event_created": "{n} 已创建，谢谢！",
+  "shared_events_visible_on_www": "共享的事件对所有人在{link}上可见",
   "shared_folder0": "共享文件夹 {0}",
   "shared_plan0": "共享训练计划 {0}",
   "sharpening": "调整锋芒",

@@ -2466,6 +2466,7 @@
   "Shared": "Zdieľané",
   "shared_event_added": "{n} pridané do kalendára",
   "shared_event_created": "{n} bol vytvorený, ďakujeme!",
+  "shared_events_visible_on_www": "Zdieľané udalosti sú viditeľné pre všetkých na {link}",
   "shared_folder0": "Zdieľaný priečinok {0}",
   "shared_plan0": "Spoločný tréningový plán {0}",
   "sharpening": "vylepšovanie",

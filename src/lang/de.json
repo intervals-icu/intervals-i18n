@@ -2466,6 +2466,7 @@
   "Shared": "Geteilt",
   "shared_event_added": "{n} zum Kalender hinzugefügt",
   "shared_event_created": "{n} wurde erstellt, vielen Dank!",
+  "shared_events_visible_on_www": "Geteilte Ereignisse sind für alle auf {link} sichtbar",
   "shared_folder0": "Gemeinsamer Ordner {0}",
   "shared_plan0": "Gemeinsamer Ausbildungsplan {0}",
   "sharpening": "Feinschliff",
