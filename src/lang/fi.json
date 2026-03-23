@@ -2447,6 +2447,7 @@
   "Send": "Lähetä",
   "Send failed, click to retry": "Lähetys epäonnistui, napsauta uudelleen yrittääksesi",
   "Send files in chat": "Lähetä tiedostoja chatissa",
+  "Send Test Webhook": "Lähetä testiverkkokoukku",
   "send_coach_tick": "Kun valmentaja rastittaa yhden aktiviteeteistani",
   "send_link_blurb": "Lähetä heille <a>linkki liittyä Intervals.icu-palveluun</a>",
   "send_link_long_blurb": "Kutsu ystäväsi liittymään Intervals.icu-palveluun lähettämällä heille tämä linkki. Saat viestin, kun he rekisteröityvät, ja he voivat pyytää seuraamaan sinua.",

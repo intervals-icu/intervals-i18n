@@ -2447,6 +2447,7 @@
   "Send": "Trimitere",
   "Send failed, click to retry": "Trimiterea a eșuat, apăsați pentru a încerca din nou",
   "Send files in chat": "Trimitere fișiere în chat",
+  "Send Test Webhook": "Trimite Webhook de Test",
   "send_coach_tick": "Când un antrenor bifează una dintre activitățile mele",
   "send_link_blurb": "Trimite-le <a>un link pentru a se alătura la</a> Intervals.icu",
   "send_link_long_blurb": "Invită-ți prietenii să se alăture pe Intervals.icu trimițându-le acest link. Vei primi un mesaj când se înscrie și vor putea solicita să te urmeze",

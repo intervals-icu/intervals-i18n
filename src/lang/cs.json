@@ -2447,6 +2447,7 @@
   "Send": "Poslat",
   "Send failed, click to retry": "Odeslání se nezdařilo, kliknutím to zkuste znovu",
   "Send files in chat": "Odesílejte soubory v chatu",
+  "Send Test Webhook": "Odeslat testovací webhook",
   "send_coach_tick": "Když trenér zaškrtne jednu z mých aktivit",
   "send_link_blurb": "Pošlete jim <a>odkaz na připojení k webu</a> Intervals.icu",
   "send_link_long_blurb": "Pozvěte své přátele, aby se k vám připojili na Intervals.icu, a pošlete jim tento odkaz. Jakmile se zaregistrujete, obdržíte zprávu a mohou požádat, aby vás sledovali",

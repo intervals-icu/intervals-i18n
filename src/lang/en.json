@@ -2447,6 +2447,7 @@
   "Send": "Send",
   "Send failed, click to retry": "Send failed, click to retry",
   "Send files in chat": "Send files in chat",
+  "Send Test Webhook": "Send Test Webhook",
   "send_coach_tick": "When a coach ticks one of my activities",
   "send_link_blurb": "Send them <a>a link to join</a> Intervals.icu",
   "send_link_long_blurb": "Invite your friends to join you on Intervals.icu by sending them this link. You will receive a message when they signup and they can request to follow you",

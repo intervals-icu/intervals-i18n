@@ -2447,6 +2447,7 @@
   "Send": "Kirim",
   "Send failed, click to retry": "Pengiriman gagal, klik untuk mencoba kembali",
   "Send files in chat": "Mengirim file dalam obrolan",
+  "Send Test Webhook": "Kirim Webhook Uji",
   "send_coach_tick": "Ketika seorang pelatih menandai salah satu dari kegiatan saya",
   "send_link_blurb": "Kirimkan mereka <a>tautan untuk bergabung dengan</a> Intervals.icu",
   "send_link_long_blurb": "Undang teman Anda untuk bergabung dengan Anda di Intervals.icu dengan mengirimkan tautan ini kepada mereka. Anda akan menerima pesan ketika mereka mendaftar dan mereka dapat meminta untuk mengikuti Anda",
