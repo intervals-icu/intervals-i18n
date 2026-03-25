@@ -1084,7 +1084,7 @@
   "endurance": "Uithoudingsvermogen",
   "ENE": "ENE",
   "enter_cal_url": "Geef een URL of link naar een agenda in het iCalendar (.ics) formaat",
-  "enter_dob": "Voer je geboortedatum in om vermogensprofielen te bekijken.",
+  "enter_dob": "Voer uw geboortedatum en lengte in om vermogensprofielen te bekijken",
   "enter_points_on_curve": "Voer ten minste 2 punten op de curve in",
   "Entered": "Ingevoerd",
   "ePmax_blurb": "Geschatte Pmax is een schatting van je beste 1s vermogen. Als je deze waarde tijdens een activiteit overschrijdt, zal deze stijgen. Het neemt langzaam af (zoals eFTP) als je de trainingsbelasting vermindert. Je moet af en toe een sprint op volle kracht doen om het model up-to-date te houden.",

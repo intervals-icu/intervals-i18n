@@ -1084,7 +1084,7 @@
   "endurance": "állóképesség",
   "ENE": "ÉNE",
   "enter_cal_url": "Adj meg egy URL-t vagy linket a naptárhoz iCalendar (.ics) formátumban",
-  "enter_dob": "Kérjük, add meg a születési idődet a teljesítmény profilok megtekintéséhez.",
+  "enter_dob": "Kérjük, adja meg születési dátumát és magasságát a teljesítményprofilok megtekintéséhez",
   "enter_points_on_curve": "Adjon meg legalább 2 pontot a görbén",
   "Entered": "Beírt",
   "ePmax_blurb": "A becsült Pmax az 1 másodperces legjobb teljesítményed becslése. Ha egy tevékenység során ezt az értéket meghaladod, akkor az növekedni fog. Lassú csökkenést mutat (mint az eFTP), ha csökkented az edzésmennyiséget. Időnként teljes erőbedobással kell sprintelned, hogy a modell naprakész maradjon.",

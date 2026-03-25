@@ -1084,7 +1084,7 @@
   "endurance": "Kestävyys",
   "ENE": "ENE",
   "enter_cal_url": "Syötä URL-osoite tai linkki iCalendar (.ics) -muotoiseen kalenteriin",
-  "enter_dob": "Syötä syntymäaikasi nähdäksesi tehoprofiilit.",
+  "enter_dob": "Anna syntymäaikasi ja pituutesi nähdäksesi tehoprofiilit",
   "enter_points_on_curve": "Syötä vähintään 2 pistettä käyrälle",
   "Entered": "Syötetty",
   "ePmax_blurb": "Arvioitu Pmax on arvio parhaasta 1 sekunnin tehostasi. Jos ylität tämän arvon harjoituksessa, se nousee. Se heikkenee hitaasti (kuten eFTP), jos harjoituskuormaa vähennetään. Sinun täytyy tehdä täysillä sprintti silloin tällöin, jotta malli pysyy ajan tasalla.",

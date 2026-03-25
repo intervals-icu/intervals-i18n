@@ -1084,7 +1084,7 @@
   "endurance": "Vytrvalost",
   "ENE": "ENE",
   "enter_cal_url": "Zadejte URL nebo odkaz na kalendář ve formátu iCalendar (.ics)",
-  "enter_dob": "Chcete -li zobrazit profily výkonu, zadejte své datum narození.",
+  "enter_dob": "Zadejte prosím své datum narození a výšku pro zobrazení profilů výkonu",
   "enter_points_on_curve": "Zadejte alespoň 2 body na křivce",
   "Entered": "Zadáno",
   "ePmax_blurb": "Odhadovaný Pmax je odhad vašeho nejlepšího výkonu na 1 sekundu. Pokud tuto hodnotu při aktivitě překročíte, zvýší se. Pomalu klesá (jako eFTP), pokud snížíte tréninkovou zátěž. Občas musíte udělat maximální sprint, aby byl model aktuální.",

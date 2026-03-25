@@ -1084,7 +1084,7 @@
   "endurance": "Wytrzymałość",
   "ENE": "ENE",
   "enter_cal_url": "Wprowadź adres URL lub łącze do kalendarza w formacie iCalendar (.ics)",
-  "enter_dob": "Proszę wprowadzić swoją datę urodzenia, aby zobaczyć profile mocy.",
+  "enter_dob": "Proszę podać datę urodzenia i wzrost, aby zobaczyć profile mocy",
   "enter_points_on_curve": "Wprowadź co najmniej 2 punkty na krzywej",
   "Entered": "Wprowadzono",
   "ePmax_blurb": "Szacowane Pmax to oszacowanie twojej najlepszej mocy na 1 sekundę. Jeśli przekroczysz tę wartość podczas aktywności, wzrośnie ona. Spada powoli (podobnie jak eFTP), jeśli zmniejszysz obciążenie treningowe. Od czasu do czasu musisz wykonać sprint na pełnej mocy, aby model był aktualny.",

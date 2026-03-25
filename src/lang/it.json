@@ -1084,7 +1084,7 @@
   "endurance": "Resistenza",
   "ENE": "ENE",
   "enter_cal_url": "Inserisci un URL o un link a un calendario in formato iCalendar (.ics)",
-  "enter_dob": "Inserisci la tua data di nascita per visualizzare i profili di potenza.",
+  "enter_dob": "Inserisci la tua data di nascita e altezza per visualizzare i profili di potenza",
   "enter_points_on_curve": "Inserisci almeno 2 punti sulla curva",
   "Entered": "Inserito",
   "ePmax_blurb": "Pmax stimato è una stima della tua potenza massima su 1 secondo. Se superi questo valore durante un'attività, esso aumenterà. Decresce lentamente (come l'eFTP) se riduci il carico di allenamento. Devi fare uno sprint a tutta velocità di tanto in tanto per mantenere il modello aggiornato.",

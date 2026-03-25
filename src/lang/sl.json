@@ -1084,7 +1084,7 @@
   "endurance": "Vzdržljivost",
   "ENE": "ENE",
   "enter_cal_url": "Vnesite URL ali povezavo do koledarja v obliki iCalendar (.ics).",
-  "enter_dob": "Prosimo, vnesite svoj datum rojstva, če si želite ogledati profile moči.",
+  "enter_dob": "Prosimo, vnesite svoj datum rojstva in višino, da si ogledate profile moči",
   "enter_points_on_curve": "Vnesite vsaj 2 točki na krivulji",
   "Entered": "Vneseno",
   "ePmax_blurb": "Ocenjena Pmax je ocena vaše najboljše moči za 1 sekundo. Če to vrednost presežete med aktivnostjo, se bo povečala. Počasi upada (kot eFTP), če zmanjšate obremenitev treninga. Občasno morate narediti maksimalni sprint, da bo model posodobljen.",

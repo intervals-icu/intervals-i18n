@@ -1084,7 +1084,7 @@
   "endurance": "Dayanıklılık",
   "ENE": "ENE",
   "enter_cal_url": "iCalendar (.ics) formatında bir takvim URL’si veya bağlantısı gir",
-  "enter_dob": "Güç profillerini görmek için lütfen doğum tarihini gir.",
+  "enter_dob": "Güç profillerini görüntülemek için lütfen doğum tarihinizi ve boyunuzu girin",
   "enter_points_on_curve": "Eğri üzerinde en az 2 nokta gir",
   "Entered": "Girildi",
   "ePmax_blurb": "Tahmini Pmax, en iyi 1 saniyelik gücünün tahminidir. Bir aktivitede bu değeri aşarsan yukarı çıkar. Antrenman yükünü azaltırsan yavaşça düşer (eFTP gibi). Modeli güncel tutmak için ara sıra tam sprint yapmalısın.",

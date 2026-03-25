@@ -1084,7 +1084,7 @@
   "endurance": "Ausdauer",
   "ENE": "ONO",
   "enter_cal_url": "Gib eine URL oder einen Link zu einem Kalender im iCalendar-Format (.ics) ein.",
-  "enter_dob": "Bitte gib dein Geburtsdatum ein, um die Leistungsprofile anzuzeigen.",
+  "enter_dob": "Bitte geben Sie Ihr Geburtsdatum und Ihre Körpergröße ein, um Leistungsprofile anzuzeigen",
   "enter_points_on_curve": "Gib mindestens 2 Punkte auf der Kurve ein",
   "Entered": "Eingetragen",
   "ePmax_blurb": "Geschätztes Pmax ist eine Schätzung deiner besten 1-Sekunden-Leistung. Wenn du diesen Wert bei einer Aktivität überschreitest, steigt er an. Er nimmt langsam ab (ähnlich wie eFTP), wenn du die Trainingsbelastung reduzierst. Du musst ab und zu einen Vollsprint machen, um das Modell aktuell zu halten.",

@@ -1084,7 +1084,7 @@
   "endurance": "udholdenhed",
   "ENE": "ENE",
   "enter_cal_url": "Indtast en URL eller et link til en kalender i iCalendar-format (.ics).",
-  "enter_dob": "Indtast venligst din fødselsdato for at se effekt-profiler.",
+  "enter_dob": "Indtast venligst din fødselsdato og højde for at se effektprofiler",
   "enter_points_on_curve": "Indtast mindst 2 punkter på kurven",
   "Entered": "Indtastet",
   "ePmax_blurb": "Estimeret Pmax er et skøn over din bedste 1-sekunds effekt. Hvis du overskrider denne værdi under en aktivitet, vil den stige. Den falder langsomt (ligesom eFTP), hvis du reducerer træningsbelastningen. Du skal af og til lave en fuld sprint for at holde modellen opdateret.",

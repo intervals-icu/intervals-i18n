@@ -1084,7 +1084,7 @@
   "endurance": "耐力",
   "ENE": "东东北",
   "enter_cal_url": "输入一个URL或iCalendar(.ics)格式的日历链接",
-  "enter_dob": "请输入你的生日来查看功率分布",
+  "enter_dob": "请输入您的出生日期和身高以查看力量曲线",
   "enter_points_on_curve": "在曲线上至少输入 2 个点",
   "Entered": "已输入",
   "ePmax_blurb": "估计的Pmax是您最佳1秒功率的估计值。如果您在某项活动中超过此值，则该值会提高。如果您减少训练负荷，它会缓慢衰减（类似于eFTP）。您需要不时进行全力冲刺以保持模型的最新状态。",

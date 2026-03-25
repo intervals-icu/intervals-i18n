@@ -1084,7 +1084,7 @@
   "endurance": "rezistență",
   "ENE": "ENE",
   "enter_cal_url": "Introdu o adresă URL sau un link către un calendar în format iCalendar (.ics)",
-  "enter_dob": "Te rugăm să introduci data nașterii pentru a vizualiza profilurile de putere.",
+  "enter_dob": "Vă rugăm să introduceți data nașterii și înălțimea pentru a vizualiza profilurile de putere",
   "enter_points_on_curve": "Introduceți cel puțin 2 puncte pe curbă",
   "Entered": "Intrat",
   "ePmax_blurb": "Pmax estimat este o estimare a celei mai bune puteri de 1s. Dacă depășești această valoare într-o activitate, aceasta va crește. Scade lent (ca eFTP) dacă reduci volumul de antrenament. Trebuie să faci un sprint total din când în când pentru a menține modelul actualizat.",
