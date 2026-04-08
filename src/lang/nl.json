@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Update van de zichtbaarheid van Strava-activiteiten",
   "strava_visibility_update2": "Update van de zichtbaarheid van Strava: Coaching is oké!",
   "Stream": "Datareeks",
+  "stream_formula_help": "Wiskundige uitdrukking met plotnamen als variabelen",
   "stream_script_blurb": "JavaScript-code om elk punt in de datareeks te berekenen",
   "Streams": "Stromen",
   "Streams CSV": "CSV datareeksen",

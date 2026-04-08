@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Strava 活动可见性更新",
   "strava_visibility_update2": "Strava 可见性更新：教练是可以的！",
   "Stream": "数据流",
+  "stream_formula_help": "使用绘图名称作为变量的数学表达式",
   "stream_script_blurb": "用于计算数据流中每个点的值的 JavaScript 代码",
   "Streams": "数据流",
   "Streams CSV": "数据流CSV",

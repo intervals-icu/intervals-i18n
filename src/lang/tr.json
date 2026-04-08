@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Strava aktivite görünürlük güncellemesi",
   "strava_visibility_update2": "Strava görünürlük güncellemesi: Antrenörlük tamam!",
   "Stream": "Akış",
+  "stream_formula_help": "Grafik isimlerini değişken olarak kullanan matematiksel ifade",
   "stream_script_blurb": "Akıştaki her nokta için değeri hesaplamak üzere JavaScript kodu",
   "Streams": "Akışlar",
   "Streams CSV": "Akışlar CSV",

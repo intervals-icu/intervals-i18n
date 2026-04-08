@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Strava activity visibility update",
   "strava_visibility_update2": "Strava visibility update: Coaching is ok!",
   "Stream": "ストリーム",
+  "stream_formula_help": "プロット名を変数として使用した数式",
   "stream_script_blurb": "ストリーム内の各ポイントの値を計算する JavaScript コード",
   "Streams": "ストリーム",
   "Streams CSV": "Streams CSV",

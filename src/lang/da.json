@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Opdatering af synlighed for Strava-aktiviteter",
   "strava_visibility_update2": "Opdatering af Strava-synlighed: Coaching er ok!",
   "Stream": "Strøm",
+  "stream_formula_help": "Matematisk udtryk ved brug af plottets navne som variable",
   "stream_script_blurb": "JavaScript-kode til at beregne værdien for hvert punkt i strømmen",
   "Streams": "Strømme",
   "Streams CSV": "Streamer CSV",

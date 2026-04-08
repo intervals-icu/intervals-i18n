@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Posodobitev vidnosti aktivnosti Strava",
   "strava_visibility_update2": "Posodobitev vidnosti Strava: Trening je v redu!",
   "Stream": "Tok",
+  "stream_formula_help": "Matematični izraz z uporabo imen grafov kot spremenljivk",
   "stream_script_blurb": "Koda JavaScript za izračun vrednosti za vsako točko v toku",
   "Streams": "Tokovi",
   "Streams CSV": "Pretočni CSV",

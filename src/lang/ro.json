@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Actualizare vizibilitate activitate Strava",
   "strava_visibility_update2": "Actualizare vizibilitate Strava: Antrenamentul este ok!",
   "Stream": "curent",
+  "stream_formula_help": "Expresie matematică folosind numele graficelor ca variabile",
   "stream_script_blurb": "Cod JavaScript pentru a calcula valoarea pentru fiecare punct din flux",
   "Streams": "Fluxuri",
   "Streams CSV": "Fluxuri CSV",

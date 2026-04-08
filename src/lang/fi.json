@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Strava-aktiviteetin näkyvyyden päivitys",
   "strava_visibility_update2": "Strava-näkyvyyden päivitys: Valmennus on kunnossa!",
   "Stream": "Datavirta",
+  "stream_formula_help": "Matemaattinen lauseke, jossa käytetään kuvaajien nimiä muuttujina",
   "stream_script_blurb": "JavaScript-koodi laskeaksesi arvon jokaiselle pisteelle datavirrassa",
   "Streams": "Datavirrat",
   "Streams CSV": "Datavirrat CSV-muodossa",

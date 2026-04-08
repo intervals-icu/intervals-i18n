@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Обновление видимости активности Strava",
   "strava_visibility_update2": "Обновление видимости Strava: Тренировка в порядке!",
   "Stream": "поток",
+  "stream_formula_help": "Математическое выражение с использованием названий графиков в качестве переменных",
   "stream_script_blurb": "Код JavaScript для вычисления значения для каждой точки в потоке",
   "Streams": "Потоки",
   "Streams CSV": "Потоки CSV",

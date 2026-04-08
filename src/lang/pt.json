@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Atualização de visibilidade da atividade do Strava",
   "strava_visibility_update2": "Atualização de visibilidade do Strava: Coaching está ok!",
   "Stream": "Fluxo",
+  "stream_formula_help": "Expressão matemática usando nomes de gráficos como variáveis",
   "stream_script_blurb": "Código JavaScript para calcular o valor de cada ponto no fluxo",
   "Streams": "Fluxos",
   "Streams CSV": "Download CSV",

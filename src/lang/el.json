@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Ενημέρωση ορατότητας δραστηριότητας Strava",
   "strava_visibility_update2": "Ενημέρωση ορατότητας Strava: Η προπόνηση είναι εντάξει!",
   "Stream": "Ρεύμα",
+  "stream_formula_help": "Μαθηματική έκφραση χρησιμοποιώντας ονόματα οικοπέδων ως μεταβλητές",
   "stream_script_blurb": "Κώδικας JavaScript για τον υπολογισμό της τιμής για κάθε σημείο της ροής",
   "Streams": "Ρεύματα",
   "Streams CSV": "Ροές CSV",

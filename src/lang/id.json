@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Pembaruan visibilitas aktivitas Strava",
   "strava_visibility_update2": "Pembaruan visibilitas Strava: Pelatihan diperbolehkan!",
   "Stream": "Stream",
+  "stream_formula_help": "Ekspresi matematika menggunakan nama plot sebagai variabel",
   "stream_script_blurb": "Kode JavaScript untuk menghitung nilai untuk setiap titik dalam aliran",
   "Streams": "Aliran",
   "Streams CSV": "CSV Stream",

@@ -2699,6 +2699,7 @@
   "strava_visibility_update": "Aktualizace viditelnosti aktivit Strava",
   "strava_visibility_update2": "Aktualizace viditelnosti Strava: Koučování je v pořádku!",
   "Stream": "Proud",
+  "stream_formula_help": "Matematický výraz používající názvy grafů jako proměnné",
   "stream_script_blurb": "JavaScript kód pro výpočet hodnoty pro každý bod ve streamu",
   "Streams": "Potoky",
   "Streams CSV": "Export CSV",
