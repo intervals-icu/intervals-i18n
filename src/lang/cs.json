@@ -2514,6 +2514,7 @@
   "Shared": "sdílené",
   "shared_event_added": "{n} přidáno do kalendáře",
   "shared_event_created": "{n} byl vytvořen, děkujeme!",
+  "shared_event_forecast_note": "Data předpovědi počasí se objevují mezi 7 a 14 dny před událostí",
   "shared_event_image_placeholder": "Obrázek události (ideální velikost 1200x630)",
   "shared_events_visible_on_www": "Sdílené události jsou viditelné pro všechny na {link}",
   "shared_folder0": "Sdílená složka {0}",

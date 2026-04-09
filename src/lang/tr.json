@@ -2514,6 +2514,7 @@
   "Shared": "Paylaşıldı",
   "shared_event_added": "{n} takvime eklendi",
   "shared_event_created": "{n} oluşturuldu, teşekkürler!",
+  "shared_event_forecast_note": "Hava durumu tahmin verileri etkinlikten 7 ila 14 gün önce görünür",
   "shared_event_image_placeholder": "Etkinlik Görseli (ideal boyut 1200x630)",
   "shared_events_visible_on_www": "Paylaşılan etkinlikler {link} üzerinde herkes tarafından görülebilir",
   "shared_folder0": "Paylaşılan klasör {0}",

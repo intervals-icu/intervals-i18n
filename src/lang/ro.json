@@ -2514,6 +2514,7 @@
   "Shared": "Impartit",
   "shared_event_added": "{n} adăugat la calendar",
   "shared_event_created": "{n} a fost creat, vă mulțumesc!",
+  "shared_event_forecast_note": "Datele prognozei meteo apar între 7 și 14 zile înainte de eveniment",
   "shared_event_image_placeholder": "Imaginea evenimentului (dimensiune ideală 1200x630)",
   "shared_events_visible_on_www": "Evenimentele partajate sunt vizibile pentru toată lumea pe {link}",
   "shared_folder0": "Dosar partajat {0}",

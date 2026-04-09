@@ -2514,6 +2514,7 @@
   "Shared": "megosztott",
   "shared_event_added": "{n} hozzáadva a naptárhoz",
   "shared_event_created": "{n} létrejött, köszönjük!",
+  "shared_event_forecast_note": "Az időjárás-előrejelzési adatok az esemény előtt 7 és 14 nap között jelennek meg",
   "shared_event_image_placeholder": "Esemény képe (ideális méret 1200x630)",
   "shared_events_visible_on_www": "A megosztott események mindenki számára láthatóak a {link} oldalon",
   "shared_folder0": "Megosztott mappa {0}",

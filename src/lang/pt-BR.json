@@ -2514,6 +2514,7 @@
   "Shared": "Compartilhado",
   "shared_event_added": "{n} adicionado ao calendário",
   "shared_event_created": "{n} foi criado, obrigado!",
+  "shared_event_forecast_note": "Os dados da previsão do tempo aparecem entre 7 e 14 dias antes do evento",
   "shared_event_image_placeholder": "Imagem do Evento (tamanho ideal 1200x630)",
   "shared_events_visible_on_www": "Eventos compartilhados são visíveis para todos em {link}",
   "shared_folder0": "Pasta compartilhada {0}",

@@ -2514,6 +2514,7 @@
   "Shared": "Gedeeld",
   "shared_event_added": "{n} is toegevoegd aan agenda",
   "shared_event_created": "{n} is gemaakt, bedankt!",
+  "shared_event_forecast_note": "Weersvoorspellingsgegevens verschijnen tussen 7 en 14 dagen voor het evenement",
   "shared_event_image_placeholder": "Evenementafbeelding (ideale grootte 1200x630)",
   "shared_events_visible_on_www": "Gedeelde evenementen zijn zichtbaar voor iedereen op {link}",
   "shared_folder0": "Gedeelde map {0}",

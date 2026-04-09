@@ -2514,6 +2514,7 @@
   "Shared": "udostępnione",
   "shared_event_added": "{n} dodano do kalendarza",
   "shared_event_created": " Utworzono{n} , dziękujemy!",
+  "shared_event_forecast_note": "Dane prognozy pogody pojawiają się między 7 a 14 dni przed wydarzeniem",
   "shared_event_image_placeholder": "Obraz wydarzenia (idealny rozmiar 1200x630)",
   "shared_events_visible_on_www": "Wspólne wydarzenia są widoczne dla wszystkich na {link}",
   "shared_folder0": "Folder współdzielony {0}",

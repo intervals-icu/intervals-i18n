@@ -2514,6 +2514,7 @@
   "Shared": "Delt",
   "shared_event_added": "{n} tilføjet til kalenderen",
   "shared_event_created": "{n} er blevet oprettet, tak!",
+  "shared_event_forecast_note": "Vejrudsigtsdata vises mellem 7 og 14 dage før begivenheden",
   "shared_event_image_placeholder": "Begivenhedsbillede (ideel størrelse 1200x630)",
   "shared_events_visible_on_www": "Delte begivenheder er synlige for alle på {link}",
   "shared_folder0": "Delt mappe {0}",

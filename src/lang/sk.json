@@ -2514,6 +2514,7 @@
   "Shared": "Zdieľané",
   "shared_event_added": "{n} pridané do kalendára",
   "shared_event_created": "{n} bol vytvorený, ďakujeme!",
+  "shared_event_forecast_note": "Dáta predpovede počasia sa zobrazujú medzi 7 a 14 dňami pred udalosťou",
   "shared_event_image_placeholder": "Obrázok udalosti (ideálna veľkosť 1200x630)",
   "shared_events_visible_on_www": "Zdieľané udalosti sú viditeľné pre všetkých na {link}",
   "shared_folder0": "Zdieľaný priečinok {0}",

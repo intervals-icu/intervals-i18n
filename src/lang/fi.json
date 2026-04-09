@@ -2514,6 +2514,7 @@
   "Shared": "Jaettu",
   "shared_event_added": "{n} lisätty kalenteriin",
   "shared_event_created": "{n} on luotu, kiitos!",
+  "shared_event_forecast_note": "Sääennustetiedot näkyvät 7–14 päivää ennen tapahtumaa",
   "shared_event_image_placeholder": "Tapahtumakuva (ihanteellinen koko 1200x630)",
   "shared_events_visible_on_www": "Jaetut tapahtumat ovat näkyvissä kaikille {link}",
   "shared_folder0": "Jaettu kansio {0}",

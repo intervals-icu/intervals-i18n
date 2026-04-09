@@ -2514,6 +2514,7 @@
   "Shared": "共有",
   "shared_event_added": "{n} をカレンダーに追加しました",
   "shared_event_created": "{n} が作成されました。ありがとうございます。",
+  "shared_event_forecast_note": "天気予報データは大会の7～14日前に表示される。",
   "shared_event_image_placeholder": "イベント画像（理想的なサイズ1200x630）",
   "shared_events_visible_on_www": "共有イベントは {link}で誰でも見ることができます。",
   "shared_folder0": "{0}フォルダを共有しました。",

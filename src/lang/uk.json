@@ -2514,6 +2514,7 @@
   "Shared": "Спільний",
   "shared_event_added": "{n} додано до календаря",
   "shared_event_created": "{n} створено, дякуємо!",
+  "shared_event_forecast_note": "Дані прогнозу погоди з'являються за 7-14 днів до події",
   "shared_event_image_placeholder": "Зображення події (ідеальний розмір 1200x630)",
   "shared_events_visible_on_www": "Спільні події видно всім на {link}",
   "shared_folder0": "Спільна папка {0}",
