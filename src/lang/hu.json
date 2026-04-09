@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Kézi tevékenység létrehozásával jelölje meg befejezettnek",
   "markdown_help": "Használja a {link} formázást",
   "Marker is locked, Esc to toggle": "A marker le van zárva, váltáshoz nyomd le az ESC billentyűt",
+  "marker_locked_msg": "A jelölő zárolva van, kattintson a feloldáshoz",
   "Max": "Max",
   "Max Altitude": "Max. magasság",
   "Max Cadence": "Max. frekvencia",

@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Marchează ca fiind completă prin crearea unei activități manuale",
   "markdown_help": "Utilizare {link} pentru formatare",
   "Marker is locked, Esc to toggle": "Markerul este blocat, apasă Esc pentru a schimba",
+  "marker_locked_msg": "Marcatorul este blocat, faceți clic pentru a debloca",
   "Max": "Max",
   "Max Altitude": "Altitudine maximă",
   "Max Cadence": "Max Cadență",

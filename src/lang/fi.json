@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Merkitse valmiiksi luomalla manuaalinen harjoitus",
   "markdown_help": "Käytä {link} muotoiluun",
   "Marker is locked, Esc to toggle": "Merkki on lukittu, Esc vaihtaa tilaa",
+  "marker_locked_msg": "Merkki on lukittu, napsauta avataksesi lukituksen",
   "Max": "Maksimi",
   "Max Altitude": "Maksimikorkeus",
   "Max Cadence": "Maksimikadenssi",

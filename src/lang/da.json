@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Markér som fuldført ved at oprette en manuel aktivitet",
   "markdown_help": "Brug {link} til formatering",
   "Marker is locked, Esc to toggle": "Markøren er låst, Esc for at skifte",
+  "marker_locked_msg": "Markør er låst, klik for at låse op",
   "Max": "Maks",
   "Max Altitude": "Maks højde",
   "Max Cadence": "Maks kadence",

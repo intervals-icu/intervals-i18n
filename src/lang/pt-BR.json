@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Marcar como completo criando uma atividade manual",
   "markdown_help": "Use {link} para formatação",
   "Marker is locked, Esc to toggle": "Marcador está bloqueado, Esc para alternar",
+  "marker_locked_msg": "Marcador está bloqueado, clique para desbloquear",
   "Max": "Máx",
   "Max Altitude": "Altitude Máxima",
   "Max Cadence": "Cadência Máxima",

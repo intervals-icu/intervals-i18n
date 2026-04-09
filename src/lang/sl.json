@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Označite kot dokončano tako, da ustvarite ročno aktivnost",
   "markdown_help": "Za oblikovanje uporabite {link} ",
   "Marker is locked, Esc to toggle": "Označevalnik je zaklenjen, Esc za preklop",
+  "marker_locked_msg": "Oznaka je zaklenjena, kliknite za odklep",
   "Max": "Maks",
   "Max Altitude": "Največja Nadmorska višina",
   "Max Cadence": "Največja Kadenca",

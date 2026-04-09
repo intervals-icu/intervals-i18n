@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Marquer l'entraînement comme terminé en créant une activité manuelle",
   "markdown_help": "Utilisez {link} pour le formatage",
   "Marker is locked, Esc to toggle": "Le repère est verrouillé, Echap pour basculer",
+  "marker_locked_msg": "Le marqueur est verrouillé, cliquez pour déverrouiller",
   "Max": "Max",
   "Max Altitude": "Altitude max",
   "Max Cadence": "Cadence max",

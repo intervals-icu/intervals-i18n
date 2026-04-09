@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Markeer als voltooid door een handmatige activiteit aan te maken",
   "markdown_help": "Gebruik {link} voor opmaak",
   "Marker is locked, Esc to toggle": "Cursor is vergrendeld, 'Esc' om vrij te geven",
+  "marker_locked_msg": "Marker is vergrendeld, klik om te ontgrendelen",
   "Max": "Max.",
   "Max Altitude": "Max. Hoogte",
   "Max Cadence": "Max. Cadans",

@@ -1736,6 +1736,7 @@
   "mark_complete_title": "通过创建一个手动活动标记为完成",
   "markdown_help": "使用 {link} 进行格式化",
   "Marker is locked, Esc to toggle": "标记已被锁定，按Esc切换",
+  "marker_locked_msg": "标记已锁定，点击解锁",
   "Max": "最大值",
   "Max Altitude": "最大海拔",
   "Max Cadence": "最大踏频",

@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Als abgeschlossen markieren, indem eine manuelle Aktivität erstellt wird",
   "markdown_help": "Verwende {link} zum Formatieren",
   "Marker is locked, Esc to toggle": "Marker ist gesperrt, Esc zum Umschalten",
+  "marker_locked_msg": "Marker ist gesperrt, klicken Sie, um zu entsperren",
   "Max": "Max.",
   "Max Altitude": "Max. Höhe",
   "Max Cadence": "Max. Kadenz",

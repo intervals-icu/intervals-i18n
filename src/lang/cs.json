@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Označit jako dokončenou vytvořením ruční aktivity",
   "markdown_help": "Pro formátování použijte {link} ",
   "Marker is locked, Esc to toggle": "Značka je uzamčena, Esc přepíná",
+  "marker_locked_msg": "Marker je zamčený, klikněte pro odemčení",
   "Max": "Max",
   "Max Altitude": "Maximální nadmořská výška",
   "Max Cadence": "Max. Kadence",

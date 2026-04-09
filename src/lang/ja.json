@@ -1736,6 +1736,7 @@
   "mark_complete_title": "手動アクティビティを追加して完了済みにする",
   "markdown_help": "書式に{link}を使用できます。",
   "Marker is locked, Esc to toggle": "マーカーはロックされています。Escキーで切り替え",
+  "marker_locked_msg": "マーカーはロックされています。",
   "Max": "Max",
   "Max Altitude": "最高標高",
   "Max Cadence": "最大ケイデンス",

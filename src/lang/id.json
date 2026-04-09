@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Tandai sebagai selesai dengan membuat aktivitas manual",
   "markdown_help": "Gunakan {link} untuk memformat",
   "Marker is locked, Esc to toggle": "Penanda terkunci, tekan tombol Esc untuk beralih",
+  "marker_locked_msg": "Penanda terkunci, klik untuk membuka kunci",
   "Max": "Maks",
   "Max Altitude": "Ketinggian Maksimum",
   "Max Cadence": "Cadence Maks",

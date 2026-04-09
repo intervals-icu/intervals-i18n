@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Oznacz jako zakończone poprzez utworzenie ręcznego działania",
   "markdown_help": "Użyj {link} do formatowania",
   "Marker is locked, Esc to toggle": "Znacznik jest zablokowany, Esc, aby przełączyć",
+  "marker_locked_msg": "Znacznik jest zablokowany, kliknij, aby odblokować",
   "Max": "Maks",
   "Max Altitude": "Maks wysokość",
   "Max Cadence": "Maks kadencja",

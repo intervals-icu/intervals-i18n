@@ -1736,6 +1736,7 @@
   "mark_complete_title": "Manuel aktivite oluşturarak tamamlandı olarak işaretle",
   "markdown_help": "Biçimlendirme için {link} kullan",
   "Marker is locked, Esc to toggle": "İşaretçi kilitli, Esc ile değiştir",
+  "marker_locked_msg": "İşaretçi kilitlendi, kilidini açmak için tıklayın",
   "Max": "Maks",
   "Max Altitude": "Maks Rakım",
   "Max Cadence": "Maks Kadans",
