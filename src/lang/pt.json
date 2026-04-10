@@ -1783,6 +1783,7 @@
   "Max value for the week": "Valor máximo para a semana",
   "Max w/kg": "Máximo w/kg",
   "Max Wbal depletion": "Max W'bal depletion",
+  "max_file_size_is_n": "O tamanho máximo do ficheiro é {n}",
   "max_wbal_depletion": "Usar a potência acima do limiar (FTP) esgota W' (W prime) e recupera quando a potência cai abaixo do limiar, como mostra o gráfico W'bal. Esta é a quantidade máxima que W' foi esgotada durante a viagem e corresponde ao ponto mais baixo do gráfico.",
   "MaxEffort": "MaxEffort",
   "maxHr": "O seu FC máximo é o ritmo cardíaco mais elevado que atingiu durante o treino. Se não tiver a certeza, utilize um número mais alto e use o gráfico de FC máximo na página de fitness (Opções -> Adicionar Gráfico) para ver qual é o número real. Os batimentos cardíacos sobre o seu FC máximo são assumidos como picos e cortados.",

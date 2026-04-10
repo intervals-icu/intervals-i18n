@@ -1783,6 +1783,7 @@
   "Max value for the week": "Max. érték a héten",
   "Max w/kg": "Max. w/kg",
   "Max Wbal depletion": "Max. W' e.súly kimerülése",
+  "max_file_size_is_n": "A maximális fájlméret {n}",
   "max_wbal_depletion": "Ha anaerob küszöb feletti teljesítményen (FTP) kerékpározol, bizonyos időn belül ki fog merülni a W' (W-prime, W-vessző) értéked, aminek az újratöltődése akkor kezdődik el, amikor a teljesítmény a W' e.súly diagramon látható küszöb alá esik. Ez az a maximális mennyiség, amellyel a W'-t ki tudod meríteni menet közben, és megegyezik a W' diagram legalacsonyabb pontjával.",
   "MaxEffort": "Max. erőbedobás",
   "maxHr": "A maximális HR a legmagasabb pulzusszám, amelyet edzés közben értél el. Ha bizonytalan vagy az értékben, használj magasabb számot, és használd a Fittség oldalon található maximális HR diagramot (Opciók -> Diagram hozzáadása), hogy megnézd, mi a valós szám. A maximális HR-t meghaladó pulzusszámot tüskéknek tekinti a rendszer.",

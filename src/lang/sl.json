@@ -1783,6 +1783,7 @@
   "Max value for the week": "Največja vrednost za teden",
   "Max w/kg": "Maks w/kg",
   "Max Wbal depletion": "Maks W'bal izčrpavanje",
+  "max_file_size_is_n": "Največja velikost datoteke je {n}",
   "max_wbal_depletion": "Vožnja z močjo nad pragom (FTP) izčrpa W' (W prime) in se povrne, ko izhodna moč pade pod prag, kot je prikazano na grafu W'bal. To je največja količina, ki ga je W' izčrpal med vožnjo in se ujema z najnižjo točko na grafu.",
   "MaxEffort": "Maksimalni Napor",
   "maxHr": "Vaš maksimalni srčni utrip je najvišji srčni utrip, ki ste ga dosegli med treningi. Če niste prepričani, uporabite višjo številko in uporabite tabelo najvišjega HR na strani s fitnesom (Možnosti -> Dodaj graf), da vidite, kakšna je prava številka. Domneva se, da so srčni utripi nad vašim maksimalnim srčnim utripom konice in so odrezani.",

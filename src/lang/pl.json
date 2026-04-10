@@ -1783,6 +1783,7 @@
   "Max value for the week": "Wartość maksymalna dla tygodnia",
   "Max w/kg": "Maks w/kg",
   "Max Wbal depletion": "Maks utrata W'bal",
+  "max_file_size_is_n": "Maksymalny rozmiar pliku to {n}",
   "max_wbal_depletion": "Jazda z mocą powyżej progu (FTP) wyczerpuje W' (W prime) i odbudowuje się, gdy moc wyjściowa spada poniżej progu, jak pokazano na wykresie W'bal. Jest to maksymalna ilość W', która została wyczerpana podczas jazdy i odpowiada najniższemu punktowi na wykresie.",
   "MaxEffort": "Maks wysiłek",
   "maxHr": "Twoje maksymalne HR to najwyższe tętno, które osiągnąłeś podczas ćwiczeń. Jeśli nie jesteś pewien, użyj wyższej liczby i użyj wykresu max HR na stronie wytrenowania (Opcje -> Dodaj wykres), aby zobaczyć, jaka jest prawdziwa liczba. Tętno powyżej Twojego maksymalnego HR jest uważane za spike'y i przycinane.",

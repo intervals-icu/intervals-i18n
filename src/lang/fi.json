@@ -1783,6 +1783,7 @@
   "Max value for the week": "Viikon maksimiarvo",
   "Max w/kg": "Maksimi w/kg",
   "Max Wbal depletion": "Maksimi W'bal tyhjenemä",
+  "max_file_size_is_n": "Suurin tiedostokoko on {n}",
   "max_wbal_depletion": "Tehon ylittäminen kynnysarvon (FTP) yläpuolella kuluttaa W' (W prime) -varantoa, joka palautuu, kun teho laskee kynnysarvon alapuolelle, kuten W'bal-kaaviossa näkyy. Tämä on suurin W'-varannon kulutus ajon aikana ja vastaa kaavion alinta pistettä.",
   "MaxEffort": "Maksimiponnistus",
   "maxHr": "Maksimisykkeesi on korkein syke, jonka olet saavuttanut harjoituksen aikana. Jos et ole varma, käytä korkeampaa lukua ja tarkista todellinen arvo kuntoilun sivun maksimisyke-kaaviosta (Asetukset -> Lisää kaavio). Sykearvot, jotka ylittävät maksimisykkeen, oletetaan piikeiksi ja ne rajataan.",

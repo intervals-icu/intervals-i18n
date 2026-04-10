@@ -1783,6 +1783,7 @@
   "Max value for the week": "Nilai maksimum untuk minggu ini",
   "Max w/kg": "Max w/kg",
   "Max Wbal depletion": "Penipisan Max W'bal",
+  "max_file_size_is_n": "Ukuran file maksimum adalah {n}",
   "max_wbal_depletion": "Mengendarai di daya di atas ambang batas (FTP) akan menghabiskan W' (W prime) dan akan pulih kembali ketika output daya turun di bawah ambang batas seperti yang ditunjukkan pada grafik W'bal. Ini adalah jumlah maksimum W' yang terkuras selama perjalanan dan sesuai dengan titik terendah pada grafik.",
   "MaxEffort": "UsahaMax",
   "maxHr": "HR maksimal Anda adalah denyut jantung tertinggi yang telah Anda capai selama berolahraga. Jika Anda tidak yakin, gunakan angka yang lebih tinggi dan gunakan bagan HR maksimal di halaman kebugaran (Opsi -> Tambah Bagan) untuk melihat berapa angka aktual. Denyut jantung di atas HR maksimal Anda diasumsikan sebagai lonjakan dan terpotong.",

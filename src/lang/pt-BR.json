@@ -1783,6 +1783,7 @@
   "Max value for the week": "Valor máximo da semana",
   "Max w/kg": "Máx w/kg",
   "Max Wbal depletion": "Máxima depleção de W'bal",
+  "max_file_size_is_n": "O tamanho máximo do arquivo é {n}",
   "max_wbal_depletion": "Pedalar com potência acima do limiar (FTP) depleta W' (W prime), que se recupera quando a potência cai abaixo do limiar, como mostrado no gráfico de W'bal. Esta é a quantidade máxima que W' foi depletada durante o passeio, correspondendo ao ponto mais baixo no gráfico.",
   "MaxEffort": "EsforçoMáx",
   "maxHr": "Sua FC máx é a frequência cardíaca mais alta que você atingiu durante o exercício. Se você não tiver certeza, use um número mais alto e use o gráfico de FC máx na página de condicionamento (Opções -> Adicionar Gráfico) para ver qual é o número real. Frequências cardíacas acima da sua FC máx são consideradas picos e são ajustadas.",

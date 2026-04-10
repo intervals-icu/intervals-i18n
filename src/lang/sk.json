@@ -1783,6 +1783,7 @@
   "Max value for the week": "Maximálna hodnota za týždeň",
   "Max w/kg": "Max hm/kg",
   "Max Wbal depletion": "Max. vyčerpanie Wbal",
+  "max_file_size_is_n": "Maximálna veľkosť súboru je {n}",
   "max_wbal_depletion": "Pri prevádzke s výkonom nad prahovou hodnotou (FTP) sa vyčerpá W '(W prime) a obnoví sa, keď výstupný výkon klesne pod prahovú hodnotu, ako ukazuje graf W'bal. Toto je maximálne množstvo W 'vyčerpané počas behu a zodpovedá najnižšiemu bodu v grafe",
   "MaxEffort": "MaxÚsilie",
   "maxHr": "Váš maximálny HR je najvyššia srdcová frekvencia, ktorú ste dosiahli počas cvičenia. Ak si nie ste istí, použite vyššie číslo a pomocou grafu max HR na stránke fitness (Možnosti -> Pridať graf) zistite, aké je skutočné číslo. Tepové frekvencie nad vašou maximálnou HR sa považujú za špičky a sú orezané.",

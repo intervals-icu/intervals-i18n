@@ -1783,6 +1783,7 @@
   "Max value for the week": "Hafta için maks değer",
   "Max w/kg": "Maks w/kg",
   "Max Wbal depletion": "Maks W'bal tükenmesi",
+  "max_file_size_is_n": "Maksimum dosya boyutu {n}",
   "max_wbal_depletion": "Eşik (FTP) üzerindeki güçte sürmek W' (W prime) tükenmesine yol açar ve güç çıktısı eşik altına düştüğünde W'bal grafiğinde gösterildiği gibi toparlanır. Bu, sürüş sırasında W'’nin en fazla tükenme miktarıdır ve grafikteki en düşük noktaya karşılık gelir.",
   "MaxEffort": "MaksEfor",
   "maxHr": "Maks nabzın, egzersiz sırasında ulaştığın en yüksek nabızdır. Emin değilsen daha yüksek bir sayı kullan ve fitness sayfasındaki maks nabız grafiğini (Seçenekler -> Grafik Ekle) kullanarak gerçek değeri gör. Maks nabzın üzerindeki nabızlar sıçrama kabul edilir ve kırpılır.",

@@ -1783,6 +1783,7 @@
   "Max value for the week": "Höchstwert dieser Woche",
   "Max w/kg": "Max. W/kg",
   "Max Wbal depletion": "Max. W'bal Ermüdung",
+  "max_file_size_is_n": "Maximale Dateigröße ist {n}",
   "max_wbal_depletion": "Wenn du mit einer Leistung oberhalb der Schwelle (FTP) fährst, verbraucht sich W' (W prime) und erholt sich, wenn die Leistung unter die Schwelle fällt, wie in dem W'bal-Diagramm dargestellt. Dies ist die maximale Menge an W', die während der Fahrt verbraucht wurde, und entspricht dem niedrigsten Punkt auf dem Diagramm.",
   "MaxEffort": "Max. Anstrengung",
   "maxHr": "Deine maximale Herzfrequenz ist die höchste Herzfrequenz, die du während des Trainings erreicht hast. Wenn du dir nicht sicher bist, verwende eine höhere Zahl und nutze das Diagramm für die maximale Herzfrequenz auf der Fitness-Seite (Optionen -> Diagramm hinzufügen), um zu sehen, wie hoch der tatsächliche Wert ist. Herzfrequenzen, die über deiner maximalen Herzfrequenz liegen, werden als Spitzen betrachtet und abgeschnitten.",

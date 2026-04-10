@@ -1783,6 +1783,7 @@
   "Max value for the week": "Maximální hodnota za týden",
   "Max w/kg": "Max w/kg",
   "Max Wbal depletion": "Max W'bal vyčerpání",
+  "max_file_size_is_n": "Maximální velikost souboru je {n}",
   "max_wbal_depletion": "Jízda při výkonu nad prahovou hodnotou (FTP) vyčerpá W '(W prime) a obnoví se, když výstupní výkon klesne pod prahovou hodnotu, jak ukazuje graf W'bal. Toto je maximální částka, kterou W 'vyčerpal během jízdy a odpovídá nejnižšímu bodu v grafu.",
   "MaxEffort": "MaxEffort",
   "maxHr": "Vaše maximální tepová frekvence je nejvyšší srdeční frekvence, které jste během cvičení dosáhli. Pokud si nejste jisti, použijte vyšší číslo a pomocí tabulky maximálního tepu na stránce fitness (Možnosti -> Přidat graf) zjistěte, jaké je skutečné číslo. Předpokládá se, že srdeční frekvence přesahující vaši maximální srdeční frekvenci jsou hroty a jsou oříznuty.",

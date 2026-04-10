@@ -1783,6 +1783,7 @@
   "Max value for the week": "Max value for the week",
   "Max w/kg": "Max w/kg",
   "Max Wbal depletion": "Max W'bal depletion",
+  "max_file_size_is_n": "Max file size is {n}",
   "max_wbal_depletion": "Riding at power above threshold (FTP) depletes W' (W prime) and it recovers when power output drops under threshold as shown on the W'bal chart. This is the maximum amount that W' was depleted during the ride and matches the lowest point on the chart.",
   "MaxEffort": "MaxEffort",
   "maxHr": "Your max HR is the highest heart rate you have reached during exercise. If you are unsure use a higher number and use the max HR chart on the fitness page (Options -> Add Chart) to see what the real number is. Heart rates over your max HR are assumed to be spikes and clipped.",

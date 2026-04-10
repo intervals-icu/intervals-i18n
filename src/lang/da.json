@@ -1783,6 +1783,7 @@
   "Max value for the week": "Maks værdi for ugen",
   "Max w/kg": "Maks w/kg",
   "Max Wbal depletion": "Maks W'bal udtømning",
+  "max_file_size_is_n": "Maksimal filstørrelse er {n}",
   "max_wbal_depletion": "At køre ved en effekt over tærskelværdien (FTP) udtømmer W' (W prime), og den genopretter sig, når effektudgangen falder under tærskelværdien som vist på W'bal-diagrammet. Dette er det maksimale beløb, som W' blev opbrugt under turen og matcher det laveste punkt på diagrammet.",
   "MaxEffort": "MaxEffort",
   "maxHr": "Din maks HR er den højeste puls du har nået under træning. Hvis du er usikker, brug et højere tal og brug maks HR-diagrammet på fitnesssiden (Options -> Add Chart) for at se, hvad det reelle tal er. Hjertefrekvenser over din maks HR antages at være spidser og klippet.",

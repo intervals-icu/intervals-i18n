@@ -1783,6 +1783,7 @@
   "Max value for the week": "Valore massimo per la settimana",
   "Max w/kg": "Max w/kg",
   "Max Wbal depletion": "Impoverimento di Max W'bal",
+  "max_file_size_is_n": "La dimensione massima del file è {n}",
   "max_wbal_depletion": "Pedalare a una potenza superiore alla soglia (FTP) esaurisce W' (W primo) e si recupera quando la potenza in uscita scende sotto la soglia, come mostrato nel grafico del W'bal. Questa è la quantità massima che W' è stata esaurita durante la corsa e corrisponde al punto più basso sul grafico.",
   "MaxEffort": "MaxEffort",
   "maxHr": "La tua FC massima è la frequenza cardiaca più alta che hai raggiunto durante l'esercizio. Se non sei sicuro usa un numero più alto e usa il grafico della FC massima nella pagina del fitness (Opzioni -> Aggiungi grafico) per vedere qual è il numero reale. Le frequenze cardiache che superano la tua FC massima sono considerate picchi e tagliate.",

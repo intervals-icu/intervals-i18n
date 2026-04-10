@@ -1783,6 +1783,7 @@
   "Max value for the week": "Valoare max săptămână",
   "Max w/kg": "Max W/kg",
   "Max Wbal depletion": "Epuizare Max W'bal",
+  "max_file_size_is_n": "Dimensiunea maximă a fișierului este {n}",
   "max_wbal_depletion": "Ciclism la o putere peste prag (FTP) epuizează W '(W prime) și se recuperează atunci când puterea scade sub prag așa cum se arată în graficul W'bal. Aceasta este suma maximă cu care W' poate fi epuizată în timpul pedalării și se potrivește cu cel mai jos punct din grafic.",
   "MaxEffort": "MaxEfort",
   "maxHr": "Max HR este cea mai mare frecvență cardiacă pe care ai atins-o în timpul exercițiului. Dacă nu ești sigur, utilizați un număr mai mare și utilizați graficul maxim de HR pe pagina de fitness (Opțiuni -> Adaug o diagramă) pentru a vedea care este numărul real. Se presupune că un puls peste max HR reprezintă un vârf și se decupează.",

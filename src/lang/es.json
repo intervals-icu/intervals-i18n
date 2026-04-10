@@ -1783,6 +1783,7 @@
   "Max value for the week": "Valor máximo de la semana",
   "Max w/kg": "Máximo W/Kg",
   "Max Wbal depletion": "El agotamiento de Max W'bal",
+  "max_file_size_is_n": "El tamaño máximo del archivo es {n}",
   "max_wbal_depletion": "Montar a una potencia superior al umbral (FTP) agota W' (W prime) y se recupera cuando la potencia cae por debajo del umbral, como se muestra en el gráfico de W'bal. Esta es la cantidad máxima de W' que se agotó durante el recorrido y coincide con el punto más bajo de la tabla.",
   "MaxEffort": "Máximo Esfuerzo",
   "maxHr": "Su FC máxima es la frecuencia cardíaca más alta que ha alcanzado durante el ejercicio. Si no estás seguro, utiliza un número más alto y usa el gráfico de FC máxima en la página de fitness (Opciones -> Añadir gráfico) para ver cuál es el número real. Las frecuencias cardíacas por encima de su FC máxima se consideran picos y se recortan.",

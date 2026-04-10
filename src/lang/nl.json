@@ -1783,6 +1783,7 @@
   "Max value for the week": "Max. waarde voor de week",
   "Max w/kg": "Max. w/kg",
   "Max Wbal depletion": "Max. W'bal-verbruik",
+  "max_file_size_is_n": "Maximale bestandsgrootte is {n}",
   "max_wbal_depletion": "Rijden met een vermogen boven de drempelwaarde (FTP) put W' (W prime) uit en het herstelt zich wanneer het geleverde vermogen onder de drempelwaarde daalt, zoals aangegeven op de W'bal grafiek. Dit is de maximale hoeveelheid W' die tijdens de rit is uitgeput en komt overeen met het laagste punt op de grafiek.",
   "MaxEffort": "Max. Inspanning",
   "maxHr": "De maximale hartslag is de hoogste hartslag die je tijdens het sporten hebt bereikt. Als je niet zeker bent, gebruik dan de HRmax grafiek op de conditie pagina (Opties -> Grafiek toevoegen) om de juiste waarde te bepalen. Hartslagwaarden boven je HRmax worden beschouwd als artefacten en worden afgetopt.",
