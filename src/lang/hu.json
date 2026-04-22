@@ -1241,7 +1241,7 @@
   "Form Average": "Forma átlag",
   "Form Average %": "Űrlap átlaga %",
   "Form chart": "Forma diagram",
-  "form_as_percent": "A formád az edzettséged és a leterheltséged különbsége. Ez megjeleníthető abszolút számként (pl. -10) vagy az aktuális edzettséged százalékában (pl. -20%). A százalék mód  választása dinamikusan átméretezi a zónákat (pl. optimalizált edzéshez) az aktuális edzettséged szerint és ezért valószínűleg ez a jobb választás.",
+  "form_as_percent": "Az állapot a fittség és a fáradtság különbsége. Ez megjeleníthető abszolút számként (pl. -10) vagy a jelenlegi fittséged százalékos arányaként (pl. -20%). A százalékos opció a zónákat (pl. optimális edzés) a jelenlegi fittségedhez igazítja. Azonban, ha a fittséged alacsony (60 alatt), akkor ez felnagyíthatja az állapotodat, és magas kockázati zónába tolhat. Ezért csak akkor használd a százalékos opciót, ha sokat edzel.",
   "form_blurb": "A fittebbé váláshoz fizikai stressznek kell kitenned a szervezeted az edzésterhelés növelésével, azaz a lila adatvonalat a kék adatvonal felett kell tartanod. A formád matematikailag az edzettséged és a fáradtságod mértékének különbsége. Ha a formád az <b class=\"optimal\">optimális edzési zónában</b> van, akkor javul az edzettséged. Amikor a formád <b class=\"fresh\">kipihent</b> és edzett is vagy, akkor állsz készen versenyzésre. Kerüld a hosszú tartózkodást a <b class=\"highRisk\">magas kockázatú zónában</b>, különben túledzett leszel. Az edzésbe időszakos pihenőheteket kell beiktatnod, hogy kilábalhass a leterheltségből és legjobb állapotodba kerülhess a megcélzott eseményekre.",
   "Format": "Formátum",
   "Formula": "Képlet",

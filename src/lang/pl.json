@@ -1241,7 +1241,7 @@
   "Form Average": "Forma Średnia",
   "Form Average %": "Forma Średnia %",
   "Form chart": "Tabela formy",
-  "form_as_percent": "Forma to twoja kondycja pomniejszona o zmęczenie. Może to być wyświetlane jako liczba bezwzględna (np. -10) lub jako procent Twojego aktualnego wytrenowania (np. -20%). Opcja procentowa skaluje strefy (np. optymalny trening), aby dopasować je do Twojej aktualnej kondycji i jest prawdopodobnie lepszym wyborem.",
+  "form_as_percent": "Forma to twoja kondycja minus zmęczenie. Może być wyrażona jako liczba bezwzględna (np. -10) lub jako procent twojej aktualnej kondycji (np. -20%). Opcja procentowa skaluje strefy (np. optymalny trening), aby dopasować je do twojej aktualnej kondycji. Jednak jeśli twoja kondycja jest niska (poniżej 60), to może wyolbrzymić twoją formę i przesunąć cię do strefy wysokiego ryzyka. Dlatego używaj procentów tylko wtedy, gdy wykonujesz dużo treningu.",
   "form_blurb": "Aby poprawić kondycję, musisz stworzyć stres poprzez zwiększenie obciążenia treningowego, czyli utrzymywanie fioletowej linii powyżej niebieskiej. Twoja forma to Twoje wytrenowanie pomniejszona o zmęczenie. Kiedy twoja forma znajduje się w strefie <b class=\"optimal\">optymalnego treningu</b> , zyskujesz wytrenowanie. Kiedy twoja forma jest <b class=\"fresh\">świeża</b> i jesteś sprawny wtedy jesteś gotowy do wyścigu. Unikaj długiego przebywania w strefie <b class=\"highRisk\">wysokiego ryzyka</b> , bo możesz stać się przetrenowany. Musisz uwzględnić w swoim treningu okresowe tygodnie odpoczynku, aby zregenerować się po zmęczeniu i być w jak najlepszej formie podczas zawodów docelowych.",
   "Format": "Format",
   "Formula": "Wzór",

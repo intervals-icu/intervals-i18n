@@ -1241,7 +1241,7 @@
   "Form Average": "Média do formulário",
   "Form Average %": "Forma Média %",
   "Form chart": "Gráfico de forma",
-  "form_as_percent": "A forma é a sua aptidão física menos fadiga. Pode ser exibido como um número absoluto (por exemplo -10) ou como uma percentagem da sua aptidão física actual (por exemplo -20%). A opção de percentagem escalona as zonas (p.ex. treino óptimo) para corresponder à sua aptidão física actual e é provavelmente a melhor escolha.",
+  "form_as_percent": "A forma é a sua aptidão menos a fadiga. Isto pode ser apresentado como um número absoluto (por exemplo, -10) ou como uma percentagem da sua aptidão atual (por exemplo, -20%). A opção de percentagem ajusta as zonas (por exemplo, treino ótimo) para corresponder à sua aptidão atual. No entanto, se a sua aptidão for baixa (menos de 60), isso exagerará a sua forma e poderá levá-lo à zona de alto risco. Portanto, use a percentagem apenas se fizer muito treino.",
   "form_blurb": "Para ficar mais apto é necessário criar stress aumentando a carga de treino, ou seja, mantendo a linha roxa acima da linha azul. A sua forma é a sua aptidão física menos fadiga. Quando a sua forma está na <b class=\"optimal\">zona de treino ideal</b> está a ganhar aptidão física. Quando a sua forma está <b class=\"fresh\">fresca</b> e está em forma, então está pronto para competir. Evite permanecer na <b class=\"highRisk\">zona de alto risco</b> durante muito tempo ou poderá ficar demasiado cansado ou até lesionado. Inclua sempre semanas de descanso periódicas no seu treino para recuperar da fadiga e em ficar em forma para os seus objectivos.",
   "Format": "Formato",
   "Formula": "Fórmula",

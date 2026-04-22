@@ -1241,7 +1241,7 @@
   "Form Average": "Priemerná forma",
   "Form Average %": "Priemerné % formy",
   "Form chart": "Tabuľka formulárov",
-  "form_as_percent": "Forma je vaša kondícia, menej únavy. Môže byť zobrazená ako absolútne číslo (napr. -10) alebo ako percento vašej aktuálnej kondície (napr. -20 %). Percentuálna možnosť upravuje zóny (napr. Optimálny tréning) tak, aby zodpovedali vašej aktuálnej kondícií, a je pravdepodobne lepšou voľbou",
+  "form_as_percent": "Forma je vaša kondícia mínus únava. Toto môže byť zobrazené ako absolútne číslo (napr. -10) alebo ako percento vašej aktuálnej kondície (napr. -20 %). Percentuálna možnosť škáluje zóny (napr. optimálny tréning) tak, aby zodpovedali vašej aktuálnej kondícii. Ak je však vaša kondícia nízka (menej ako 60), môže to prehnane zvýrazniť vašu formu a môže vás to posunúť do zóny vysokého rizika. Preto používajte percentuálnu možnosť iba v prípade, že vykonávate veľa tréningu.",
   "form_blurb": "Ak chcete byť fit, musíte vytvárať stres zvyšovaním tréningovej záťaže, t. j. udržiavať fialovú čiaru nad modrou čiarou. Vaša forma je vaša kondícia. Keď je vaša forma v <b class='optimal'>optimálnej</b> , získavate kondíciu. Keď je vaša forma <b class='fresh'>svieža</b> a ste fit, môžete pretekať. Vyhnite sa dlhodobému pobytu v <b class='highRisk'>vysoko rizikovej zóne</b>, inak by ste mohli byť pretrénovaní. Do tréningu musíte zaradiť týždne pravidelného odpočinku, aby ste sa zotavili z únavy a boli na pretekoch v čo najlepšej forme.",
   "Format": "Formát",
   "Formula": "Vzorec",

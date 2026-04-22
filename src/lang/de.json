@@ -1241,7 +1241,7 @@
   "Form Average": "Formular Durchschnitt",
   "Form Average %": "Formular Durchschnitt %",
   "Form chart": "Formkurve",
-  "form_as_percent": "Form ist deine Fitness abzüglich deiner Ermüdung. Dies kann als absolute Zahl (z. B. -10) oder als Prozentsatz deiner aktuellen Fitness (z.B. -20 %) angezeigt werden. Die prozentuale Option passt die Zonen (z.B. optimales Training) an deine aktuelle Fitness an und ist wahrscheinlich die bessere Wahl.",
+  "form_as_percent": "Form ist deine Fitness minus Ermüdung. Dies kann als absoluter Wert (z. B. -10) oder als Prozentsatz deiner aktuellen Fitness (z. B. -20 %) dargestellt werden. Die Prozentoption skaliert die Zonen (z. B. optimales Training), um deiner aktuellen Fitness zu entsprechen. Wenn deine Fitness jedoch niedrig ist (weniger als 60), wird deine Form übertrieben dargestellt und könnte dich in die Hochrisikozone bringen. Verwende daher den Prozentsatz nur, wenn du viel trainierst.",
   "form_blurb": "Um fitter zu werden, musst du Stress erzeugen, indem du die Trainingsbelastung erhöhst, d.h. die lila Linie über der blauen Linie halten. Deine Form ist die Fitness abzüglich der Ermüdung. Wenn deine Form in der <b class=\"optimal\">optimalen Trainingszone</b> liegt, steigt deine Fitness. Wenn deine Form <b class=\"fresh\">frisch</b> ist und du gesund bist, bist du bereit für das Rennen. Vermeide es, lange in der <b class=\"highRisk\">Hochrisikozone</b> zu bleiben, sonst kannst du ins Übertraining geraten. Du solltest regelmäßige Ruhewochen in dein Training einbauen, um dich von Ermüdungserscheinungen zu erholen und um bei Zielwettkämpfen in Bestform zu sein.",
   "Format": "Format",
   "Formula": "Formel",

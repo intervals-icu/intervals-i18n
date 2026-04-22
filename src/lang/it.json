@@ -1241,7 +1241,7 @@
   "Form Average": "Media della forma",
   "Form Average %": "% media modulo",
   "Form chart": "Grafico della Forma",
-  "form_as_percent": "La forma è data dal fitness meno la fatica. Questa può essere visualizzata come numero assoluto (ad esempio -10) o come percentuale del proprio fitness attuale (ad esempio -20%). L'opzione percentuale scala le zone (ad esempio l'allenamento ottimale) in base alla tua forma attuale ed è probabilmente la scelta migliore.",
+  "form_as_percent": "La forma è la tua forma fisica meno l'affaticamento. Questo può essere mostrato come un numero assoluto (ad esempio -10) o come una percentuale della tua forma fisica attuale (ad esempio -20%). L'opzione percentuale scala le zone (ad esempio allenamento ottimale) per adattarsi alla tua forma fisica attuale. Tuttavia, se la tua forma fisica è bassa (inferiore a 60), esagererà la tua forma e potrebbe spingerti nella zona ad alto rischio. Quindi usa la percentuale solo se ti alleni molto.",
   "form_blurb": "Per aumentare la forma è necessario creare stress aumentando il carico di allenamento, cioè mantenendo la linea viola sopra la linea blu. La tua forma è data dal fitness meno la fatica. Quando la tua forma è nella <b class=\"optimal\">zona di allenamento ottimale</b> stai guadagnando in forma. Quando la tua forma è <b class=\"fresh\">fresca</b> e sei in forma allora sei pronto a correre. Evita di rimanere a lungo nella <b class=\"highRisk\">zona ad alto rischio</b> o potresti rischiare un sovra-allenamento. Devi includere periodicamente delle settimane di riposo nel tuo allenamento per recuperare dalla fatica e per essere al meglio per gli obiettivi.",
   "Format": "Formato",
   "Formula": "Formula",

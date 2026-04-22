@@ -1241,7 +1241,7 @@
   "Form Average": "Bentuk Rata-rata",
   "Form Average %": "Bentuk Rata-rata%",
   "Form chart": "Bagan form",
-  "form_as_percent": "Form adalah kebugaran Anda dikurangi kelelahan. Ini dapat ditampilkan sebagai angka absolut (misalnya -10) atau sebagai persentase kebugaran Anda saat ini (misalnya -20%). Opsi persentase menskalakan zona (misalnya latihan optimal) agar sesuai dengan kebugaran Anda saat ini dan mungkin merupakan pilihan yang lebih baik.",
+  "form_as_percent": "Form adalah kebugaran Anda dikurangi kelelahan. Ini dapat ditampilkan sebagai angka absolut (misalnya -10) atau sebagai persentase dari kebugaran Anda saat ini (misalnya -20%). Opsi persentase mengskalakan zona (misalnya pelatihan optimal) agar sesuai dengan kebugaran Anda saat ini. Namun, jika kebugaran Anda rendah (kurang dari 60), ini akan melebih-lebihkan form Anda dan mungkin mendorong Anda ke zona risiko tinggi. Jadi, gunakan persentase hanya jika Anda melakukan banyak pelatihan.",
   "form_blurb": "Untuk menjadi lebih bugar, Anda perlu menciptakan stres dengan meningkatkan beban latihan, yaitu menjaga garis ungu di atas garis biru. Bentuk tubuh Anda adalah kebugaran Anda dikurangi kelelahan. Ketika kondisi Anda berada di zona latihan optimal <b class=\"optimal\"></b> , maka Anda mendapatkan kebugaran. Ketika kondisi Anda <b class=\"fresh\">segar</b> dan Anda bugar maka Anda siap untuk berlomba. Hindari berada di zona <b class=\"highRisk\">beresiko tinggi</b> terlalu lama atau Anda akan masuk sindrom overtraining. Anda perlu memasukkan waktu istirahat secara berkala dalam latihan Anda untuk memulihkan diri dari kelelahan dan berada dalam kondisi terbaik untuk event-event lomba lari.",
   "Format": "Format",
   "Formula": "Rumus",

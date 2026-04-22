@@ -1241,7 +1241,7 @@
   "Form Average": "Média de Estado Físico",
   "Form Average %": "Média de Estado Físico %",
   "Form chart": "Gráfico de Estado Físico",
-  "form_as_percent": "Estado físico é seu condicionamento menos a fadiga. Pode ser exibido como um número absoluto (por exemplo, -10) ou como um percentual de seu condicionamento atual (por exemplo, -20%). A opção de percentual ajusta as zonas (por exemplo, treinamento ideal) para corresponder ao seu condicionamento atual e provavelmente é a melhor escolha.",
+  "form_as_percent": "Forma é seu condicionamento físico menos fadiga. Isso pode ser exibido como um número absoluto (por exemplo, -10) ou como uma porcentagem do seu condicionamento atual (por exemplo, -20%). A opção de porcentagem escala as zonas (por exemplo, treinamento ideal) para corresponder ao seu condicionamento atual. No entanto, se seu condicionamento estiver baixo (menos de 60), isso exagerará sua forma e pode levá-lo à zona de alto risco. Portanto, use a porcentagem apenas se você fizer muito treinamento.",
   "form_blurb": "Para ficar mais apto, você precisa criar estresse aumentando a carga de treino, ou seja, mantendo a linha roxa acima da linha azul. Sua forma é sua condição física menos a fadiga. Quando sua forma está na <b class='optimal'>zona de treino ideal</b>, você está ganhando condicionamento. Quando sua forma está <b class='fresh'>descansado</b> e você está apto, então está pronto para competir. Evite ficar na <b class='highRisk'>zona de alto risco</b> por muito tempo ou pode acabar sobrecarregado. Você precisa incluir semanas de descanso periódicas no seu treino para se recuperar da fadiga e estar no seu melhor para os eventos principais.",
   "Format": "Formato",
   "Formula": "Fórmula",

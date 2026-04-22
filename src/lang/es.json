@@ -1241,7 +1241,7 @@
   "Form Average": "Forma Promedio",
   "Form Average %": "Forma Promedio %",
   "Form chart": "Cuadro de formulario",
-  "form_as_percent": "La forma es tu aptitud menos la fatiga. Puede mostrarse como un número absoluto (por ejemplo, -10) o como un porcentaje de tu forma física actual (por ejemplo, -20%). La opción de porcentaje escala las zonas (por ejemplo, el entrenamiento óptimo) para ajustarse a tu forma física actual y es probablemente la mejor opción.",
+  "form_as_percent": "La forma es tu condición física menos la fatiga. Esto puede mostrarse como un número absoluto (por ejemplo, -10) o como un porcentaje de tu condición física actual (por ejemplo, -20%). La opción de porcentaje escala las zonas (por ejemplo, entrenamiento óptimo) para que coincidan con tu condición física actual. Sin embargo, si tu condición física es baja (menos de 60), exagerará tu forma y podría empujarte a la zona de alto riesgo. Por lo tanto, solo usa el porcentaje si haces mucho entrenamiento.",
   "form_blurb": "Para ponerse en forma, necesita crear estrés aumentando la carga de entrenamiento, es decir, manteniendo la línea violeta por encima de la línea azul. Tu forma es tu aptitud menos fatiga. Cuando tu forma está en la <b class=\"optimal\">zona de entrenamiento óptima</b> , estás ganando forma. Cuando tu forma sea <b class=\"fresh\">fresco</b> y estés en forma, entonces estás listo para correr. Evite permanecer en la <b class=\"highRisk\">zona de alto riesgo</b> durante mucho tiempo o puede que se entrene en exceso. Debe incluir semanas de descanso periódicas en su entrenamiento para recuperarse de la fatiga y estar en su mejor momento para los eventos de objetivos.",
   "Format": "Formato",
   "Formula": "Fórmula",

@@ -1241,7 +1241,7 @@
   "Form Average": "Vorm Gemiddelde",
   "Form Average %": "Formulier Gemiddeld %",
   "Form chart": "Vorm-Curve",
-  "form_as_percent": "Vorm is je conditie minus vermoeidheid. Het kan uitgedrukt worden als een absoluut getal (bijvoorbeeld -10) of als een percentage van je huidige conditie (bijvoorbeeld -20%). De procentuele weergave past de zones aan (zoals de optimale trainingszone) aan je huidige staat aan en is waarschijnlijk een betere keuze.",
+  "form_as_percent": "Vorm is je fitheid minus vermoeidheid. Dit kan worden weergegeven als een absoluut getal (bijv. -10) of als een percentage van je huidige fitheid (bijv. -20%). De percentage-optie schaalt de zones (bijv. optimale training) om overeen te komen met je huidige fitheid. Echter, als je fitheid laag is (minder dan 60), zal het je vorm overdrijven en je mogelijk in de hoogrisicozone duwen. Gebruik het percentage dus alleen als je veel traint.",
   "form_blurb": "Om fitter te worden moet je stress creëren door de trainingsbelasting te verhogen, d.w.z. de paarse lijn boven de blauwe lijn houden. Je vorm is je conditie minus vermoeidheid. Als je vorm in de <b class=\"optimal\">optimale trainingszone</b> zit, word je fitter. Als je vorm <b class=\"fresh\">fris</b> is en je bent fit dan ben je klaar om te racen. Blijf niet te lang in de <b class=\"highRisk\">hoog risicozone</b> , anders raak je overtraind. Je moet regelmatig rustweken inbouwen om te herstellen van vermoeidheid en om op je best te zijn voor doel-evenementen.",
   "Format": "Formaat",
   "Formula": "Formule",

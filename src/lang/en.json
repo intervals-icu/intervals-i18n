@@ -1241,7 +1241,7 @@
   "Form Average": "Form Average",
   "Form Average %": "Form Average %",
   "Form chart": "Form chart",
-  "form_as_percent": "Form is your fitness less fatigue. This can be displayed as a absolute number (e.g. -10) or as a percentage of your current fitness (e.g. -20%). The percentage option scales the zones (e.g. optimal training) to match your current fitness and is probably the better choice.",
+  "form_as_percent": "Form is your fitness less fatigue. This can be displayed as an absolute number (e.g. -10) or as a percentage of your current fitness (e.g. -20%). The percentage option scales the zones (e.g. optimal training) to match your current fitness. However if your fitness is low (less than 60) it will exaggerate your form and might push you into the high risk zone. So only use the percentage if you do a lot of training.",
   "form_blurb": "To get fitter you need to create stress by increasing training load i.e. keeping the purple line above the blue line. Your form is your fitness less fatigue. When your form is in the <b class=\"optimal\">optimal training zone</b> you are gaining fitness. When your form is <b class=\"fresh\">fresh</b> and you are fit then you are ready to race. Avoid staying in the <b class=\"highRisk\">high risk zone</b> for long or you might become over-trained. You need to include periodic rest weeks in your training to recover from fatigue and to be at your best for goal events.",
   "Format": "Format",
   "Formula": "Formula",

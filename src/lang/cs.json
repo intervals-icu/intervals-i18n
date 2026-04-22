@@ -1241,7 +1241,7 @@
   "Form Average": "Průměr formuláře",
   "Form Average %": "Formulář Průměrné %",
   "Form chart": "Graf formy",
-  "form_as_percent": "Forma je vaše kondice, méně únavy. Toto může být zobrazeno jako absolutní číslo (např. -10) nebo jako procento vaší aktuální kondice (např. -20%). Procentní možnost přizpůsobuje zóny (např. Optimální trénink) tak, aby odpovídala vaší aktuální kondici, a je pravděpodobně lepší volbou.",
+  "form_as_percent": "Forma je vaše kondice minus únava. To lze zobrazit jako absolutní číslo (např. -10) nebo jako procento vaší aktuální kondice (např. -20 %). Volba procenta škáluje zóny (např. optimální trénink) tak, aby odpovídaly vaší aktuální kondici. Pokud je však vaše kondice nízká (méně než 60), může to formu přehánět a může vás to posunout do zóny vysokého rizika. Proto používejte procenta pouze tehdy, pokud trénujete hodně.",
   "form_blurb": "Abyste byli fit, musíte vytvořit stres zvýšením tréninkové zátěže, tj. Udržováním fialové čáry nad modrou čarou. Vaše forma je vaše kondice. Když je vaše forma v <b class=\"optimal\">optimální tréninkové zóně</b> , získáváte kondici. Když je vaše forma <b class=\"fresh\">čerstvá</b> a jste fit, můžete závodit. Vyhněte se dlouhodobému pobytu ve <b class=\"highRisk\">zóně s vysokým rizikem</b> , jinak byste mohli být preťežen. Do tréninku musíte zahrnout týdny pravidelného odpočinku, abyste se zotavili z únavy a byli nejlepší pro vaše závody.",
   "Format": "Formát",
   "Formula": "Vzorec",

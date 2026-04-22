@@ -1241,7 +1241,7 @@
   "Form Average": "Form Gennemsnit",
   "Form Average %": "Form Gennemsnit %",
   "Form chart": "Formdiagram",
-  "form_as_percent": "Form er din kondition minues træthed. Dette kan vises som et absolut tal (f.eks. -10) eller som en procentdel af din nuværende kondition (f.eks. -20%). Procentmuligheden skalerer zonerne (f.eks. optimal træning) for at matche din nuværende kondition og er sandsynligvis det bedre valg.",
+  "form_as_percent": "Form er din fitness minus træthed. Dette kan vises som et absolut tal (f.eks. -10) eller som en procentdel af din nuværende fitness (f.eks. -20%). Procentmuligheden skalerer zonerne (f.eks. optimal træning) for at matche din nuværende fitness. Men hvis din fitness er lav (mindre end 60), vil det overdrive din form og kan skubbe dig ind i højrisikozonen. Så brug kun procentdelen, hvis du træner meget.",
   "form_blurb": "For at blive mere fit skal du skabe stress ved at øge træningsbelastningen, det vil siger holde den lilla linje over den blå linje. Din form er din kondition mindre træthed. Når din form er i den <b class=\"optimal\">optimale træningszone</b>, er du ved at blive kondition. Når din form er <b class=\"fresh\">frisk</b>, og du er i form, er du klar til at køre. Undgå at blive i <b class=\"highRisk\">højrisikozonen</b> i længere tid, ellers kan du blive overtrænet. Du skal inkludere periodiske hvileuger i din træning for at komme dig efter træthed og for at være bedst til målbegivenheder.",
   "Format": "Format",
   "Formula": "Formel",

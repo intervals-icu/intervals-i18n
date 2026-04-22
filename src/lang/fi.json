@@ -1241,7 +1241,7 @@
   "Form Average": "Tuoreuden keskiarvo",
   "Form Average %": "Tuoreuden keskiarvo %",
   "Form chart": "Tuoreuskaavio",
-  "form_as_percent": "Tuoreus on kuntosi miinus väsymys. Tämä voidaan esittää absoluuttisena lukuna (esim. -10) tai prosenttiosuutena nykyisestä kuntotasostasi (esim. -20 %). Prosenttivaihtoehto skaalaa alueet (esim. optimaalinen harjoittelu) vastaamaan nykyistä kuntotasoasi ja on todennäköisesti parempi valinta.",
+  "form_as_percent": "Muoto on kuntosi miinus väsymys. Tämä voidaan esittää absoluuttisena lukuna (esim. -10) tai prosenttiosuutena nykyisestä kuntotasostasi (esim. -20 %). Prosenttivaihtoehto skaalaa vyöhykkeet (esim. optimaalinen harjoittelu) vastaamaan nykyistä kuntotasoasi. Jos kuntosi on kuitenkin alhainen (alle 60), se liioittelee muotoasi ja saattaa työntää sinut korkean riskin vyöhykkeelle. Käytä prosenttivaihtoehtoa siis vain, jos harjoittelet paljon.",
   "form_blurb": "Jotta kunto paranisi, sinun täytyy luoda kuormitusta lisäämällä harjoitusmäärää eli pitää violetti viiva sinisen viivan yläpuolella. Tuoreutesi on kuntosi vähennettynä väsymyksellä. Kun tuoreutesi on <b class=\"optimal\">optimaalisella harjoitusalueella</b>, saat kuntoa. Kun tuoreutesi on <b class=\"fresh\">tuore</b> ja olet kunnossa, olet valmis kilpailemaan. Vältä oleskelua <b class=\"highRisk\">korkean riskin alueella</b> pitkään, muuten saatat ylikuormittua. Harjoitteluusi tulee sisällyttää säännöllisiä lepojaksoja palautuaksesi väsymyksestä ja ollaksesi parhaimmillasi tavoitetapahtumissa.",
   "Format": "Muotoilu",
   "Formula": "Kaava",

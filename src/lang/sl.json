@@ -1241,7 +1241,7 @@
   "Form Average": "Povprečje oblike",
   "Form Average %": "Povprečje obrazca %",
   "Form chart": "Graf forme",
-  "form_as_percent": "Forma je vaš fitnes minus utrujenost. To je lahko prikazano kot absolutno število (npr. -10) ali kot odstotek vašega trenutnega fitnesa (npr. -20 %). Možnost odstotka prilagodi cone (npr. optimalen trening), da ustreza vašem trenutnem fitnesu in je verjetno boljša izbira.",
+  "form_as_percent": "Forma je vaša kondicija minus utrujenost. To je mogoče prikazati kot absolutno številko (npr. -10) ali kot odstotek vaše trenutne kondicije (npr. -20 %). Možnost odstotka prilagodi cone (npr. optimalni trening) tako, da ustrezajo vaši trenutni kondiciji. Vendar pa, če je vaša kondicija nizka (manj kot 60), bo to pretiravalo vašo formo in vas lahko potisnilo v cono visokega tveganja. Zato uporabljajte odstotek le, če veliko trenirate.",
   "form_blurb": "Če želite postati bolj fit, morate ustvariti stres s povečanjem napora treninga, to je, da ohranite vijolično črto nad modro črto. Vaša forma je vaš fitnes minus utrujenost. Ko je vaša forma v <b class=\"optimal\">optimalnem območju treninga</b> , pridobivate fitnes. Ko je vaša forma <b class=\"fresh\">sveža</b> in ste fit, ste pripravljeni na dirko. Izogibajte se dolgotrajnemu zadrževanju v <b class=\"highRisk\">območju z visokim tveganjem</b> , sicer se lahko preveč natrenirate. V svoj trening morate vključevati občasne tedne počitka, da si opomorete od utrujenosti in da boste po najboljših močeh za ciljne dogodke.",
   "Format": "Oblika",
   "Formula": "Formula",
