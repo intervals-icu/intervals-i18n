@@ -748,6 +748,8 @@
   "confirm_delete_week": "Apakah Anda yakin ingin menghapus minggu ini dan semua latihannya?",
   "confirm_demote_self": "Apakah Anda yakin tidak ingin lagi menjadi admin grup ini?",
   "confirm_disconnect_from": "Apakah Anda yakin ingin memutuskan sambungan dari {n}?",
+  "confirm_email_address_prompt1": "Alamat email Anda belum dikonfirmasi. Harap konfirmasi alamat email Anda. Email yang dikonfirmasi diperlukan untuk mengatur ulang kata sandi dan menerima email notifikasi.",
+  "confirm_email_address_prompt2": "Kami akan mengirim pesan konfirmasi ke {email}. Harap klik tautan dalam email atau salin dan tempelkan ke browser Anda.",
   "confirm_email_plan": "Apakah Anda yakin ingin mengirim email rencana untuk minggu {week} ke {name}? ?",
   "confirm_extract_workout": "Apakah Anda ingin mencoba mengekstrak latihan dari file aktivitas ini? Beberapa file aktivitas berisi langkah-langkah latihan, misalnya ketika menggunakan perangkat Garmin untuk melakukan latihan di trainer indoor.",
   "confirm_fix_data": "Apakah Anda yakin ingin meralat data untuk {n}",

@@ -748,6 +748,8 @@
   "confirm_delete_week": "Czy na pewno chcesz usunąć ten tydzień i wszystkie jego treningi?",
   "confirm_demote_self": "Czy na pewno nie chcesz już być administratorem tej grupy?",
   "confirm_disconnect_from": "Czy na pewno chcesz odłączyć się od {n}?",
+  "confirm_email_address_prompt1": "Twój adres e-mail nie został potwierdzony. Proszę potwierdź swój adres e-mail. Potwierdzony e-mail jest wymagany do resetowania hasła oraz otrzymywania powiadomień e-mail.",
+  "confirm_email_address_prompt2": "Wyślemy wiadomość potwierdzającą na adres {email}. Proszę kliknij link w wiadomości e-mail lub skopiuj i wklej go do przeglądarki.",
   "confirm_email_plan": "Czy na pewno chcesz wysłać plan na tydzień {week} do {name}?",
   "confirm_extract_workout": "Czy chcesz spróbować wyodrębnić trening z tego pliku aktywności? Niektóre pliki aktywności zawierają kroki treningu, np. podczas korzystania z urządzenia Garmin do wykonywania ćwiczeń na trenażerze stacjonarnym.",
   "confirm_fix_data": "Czy na pewno chcesz dostosować dane dla {n}",

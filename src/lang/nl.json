@@ -748,6 +748,8 @@
   "confirm_delete_week": "Weet je zeker dat je deze week inclusief alle workouts wilt verwijderen?",
   "confirm_demote_self": "Weet je zeker dat je niet langer beheerder van deze groep wilt zijn?",
   "confirm_disconnect_from": "Weet je zeker dat je {n} wilt ontkoppelen?",
+  "confirm_email_address_prompt1": "Uw e-mailadres is niet bevestigd. Bevestig alstublieft uw e-mailadres. Een bevestigd e-mailadres is vereist voor het opnieuw instellen van wachtwoorden en om notificatie-e-mails te ontvangen.",
+  "confirm_email_address_prompt2": "We sturen een bevestigingsbericht naar {email}. Klik alstublieft op de link in de e-mail of kopieer en plak deze in uw browser.",
   "confirm_email_plan": "Weet je zeker dat je het plan voor de week van {week} naar {name}wilt e-mailen?",
   "confirm_extract_workout": "Wil je proberen een workout uit dit activiteitenbestand te extraheren? Sommige activiteitenbestanden bevatten workout-stappen, b.v. wanneer je een Garmin-apparaat gebruikt om een workout uit te voeren op een indoortrainer.",
   "confirm_fix_data": "Weet je zeker dat je de data voor {n} wilt aanpassen",

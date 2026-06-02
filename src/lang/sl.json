@@ -748,6 +748,8 @@
   "confirm_delete_week": "Ali ste prepričani, da želite izbrisati ta teden in vse njegove treninge?",
   "confirm_demote_self": "Ali ste prepričani, da ne želite več biti skrbnik te skupine?",
   "confirm_disconnect_from": "Ali ste prepričani, da želite prekiniti povezavo s {n}?",
+  "confirm_email_address_prompt1": "Vaš e-poštni naslov ni potrjen. Prosimo, potrdite svoj e-poštni naslov. Potrjen e-poštni naslov je potreben za ponastavitev gesla in prejemanje obvestil po e-pošti.",
+  "confirm_email_address_prompt2": "Poslali bomo potrditveno sporočilo na {email}. Prosimo, kliknite povezavo v e-pošti ali jo kopirajte in prilepite v svoj brskalnik.",
   "confirm_email_plan": "Ali ste prepričani, da želite po e-pošti poslati načrt za teden od {week} do {name}?",
   "confirm_extract_workout": "Ali želite poskusiti ekstrahirati vadbo iz te datoteke dejavnosti? Nekatere datoteke dejavnosti vsebujejo korake vadbe, npr. pri uporabi naprave Garmin za izvajanje vadbe na sobnem trenažerju.",
   "confirm_fix_data": "Ali ste prepričani, da želite prilagoditi podatke za {n}",

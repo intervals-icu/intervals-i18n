@@ -748,6 +748,8 @@
   "confirm_delete_week": "Bist du sicher, dass du diese Woche und alle Trainingseinheiten löschen möchtest?",
   "confirm_demote_self": "Bist du sicher, dass du nicht länger Administrator dieser Gruppe sein möchtest?",
   "confirm_disconnect_from": "Bist du sicher, dass du die Verbindung zu {n} trennen möchtest?",
+  "confirm_email_address_prompt1": "Ihre E-Mail-Adresse ist nicht bestätigt. Bitte bestätigen Sie Ihre E-Mail-Adresse. Eine bestätigte E-Mail ist erforderlich, um das Passwort zurückzusetzen und Benachrichtigungs-E-Mails zu erhalten.",
+  "confirm_email_address_prompt2": "Wir senden eine Bestätigungsnachricht an {email}. Bitte klicken Sie auf den Link in der E-Mail oder kopieren Sie ihn und fügen Sie ihn in Ihren Browser ein.",
   "confirm_email_plan": "Möchtest du den Plan für die Woche von {week} bis {name} wirklich per E-Mail senden?",
   "confirm_extract_workout": "Möchtest du versuchen, eine Trainingseinheit aus dieser Aktivitätsdatei zu extrahieren? Einige Aktivitätsdateien enthalten Trainingsschritte, z.B. wenn du ein Garmin-Gerät verwendest, um ein Training auf einem Indoor-Trainer durchzuführen.",
   "confirm_fix_data": "Bist du sicher, dass du die Daten für {n} anpassen möchtest?",

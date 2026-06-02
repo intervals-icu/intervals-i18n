@@ -748,6 +748,8 @@
   "confirm_delete_week": "Biztos, hogy törölni akarod ezt a hetet és az összes edzést?",
   "confirm_demote_self": "Biztos, hogy többé nem akarsz adminisztrátor lenni ebben a csoportban?",
   "confirm_disconnect_from": "Biztos, hogy meg akarod szakítani a kapcsolatot ezzel: {n}?",
+  "confirm_email_address_prompt1": "Az e-mail címe nincs megerősítve. Kérjük, erősítse meg az e-mail címét. A megerősített e-mail cím szükséges a jelszó visszaállításához és az értesítő e-mailek fogadásához.",
+  "confirm_email_address_prompt2": "Megerősítő üzenetet küldünk a következő címre: {email}. Kérjük, kattintson az e-mailben található hivatkozásra, vagy másolja be azt a böngészőjébe.",
   "confirm_email_plan": "Biztosan el szeretnéd küldeni e-mailben a(z) {week}. hétre vonatkozó tervet a következőnek: {name}?",
   "confirm_extract_workout": "Megpróbálod kinyerni az  edzésfeladatot ebből a tevékenységfájlból? Egyes tevékenységfájlok edzésfeladato(ka)t tartalmazhatnak, pl. ha egy Garmin eszközt használ edzés végzésére egy szobai edzőgépen.",
   "confirm_fix_data": "Biztosan módosítani szeretnéd a (z) {n} adatait",

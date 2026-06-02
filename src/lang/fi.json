@@ -748,6 +748,8 @@
   "confirm_delete_week": "Haluatko varmasti poistaa tämän viikon ja kaikki sen harjoitukset?",
   "confirm_demote_self": "Haluatko varmasti, ettet enää ole tämän ryhmän ylläpitäjä?",
   "confirm_disconnect_from": "Haluatko varmasti katkaista yhteyden {n}?",
+  "confirm_email_address_prompt1": "Sähköpostiosoitteesi on vahvistamaton. Vahvista sähköpostiosoitteesi. Vahvistettu sähköposti vaaditaan salasanan palauttamiseen ja ilmoitussähköpostien vastaanottamiseen.",
+  "confirm_email_address_prompt2": "Lähetämme vahvistusviestin osoitteeseen {email}. Klikkaa sähköpostissa olevaa linkkiä tai kopioi ja liitä se selaimeesi.",
   "confirm_email_plan": "Haluatko varmasti lähettää viikon {week} suunnitelman sähköpostitse henkilölle {name}?",
   "confirm_extract_workout": "Haluatko yrittää poimia harjoituksen tästä aktiviteettitiedostosta? Jotkut aktiviteettitiedostot sisältävät harjoitusvaiheita, esim. Garmin-laitetta käytettäessä sisäpyöräilijän harjoituksen aikana.",
   "confirm_fix_data": "Haluatko varmasti säätää tiedot kohteelle {n}?",

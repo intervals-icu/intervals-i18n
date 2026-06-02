@@ -748,6 +748,8 @@
   "confirm_delete_week": "确定删除这周和所有的训练？",
   "confirm_demote_self": "您确定不再想担任该群组的管理员吗？",
   "confirm_disconnect_from": "确认断开与{n}的连接?",
+  "confirm_email_address_prompt1": "您的电子邮件地址尚未确认。请确认您的电子邮件地址。确认的电子邮件地址是重置密码和接收通知邮件的必要条件。",
+  "confirm_email_address_prompt2": "我们将向 {email} 发送确认邮件。请点击邮件中的链接，或将其复制粘贴到浏览器中。",
   "confirm_email_plan": "您确定要将 {week} 周的计划通过电子邮件发送给 {name}吗？",
   "confirm_extract_workout": "你想尝试从这个活动文件中提取锻炼吗？一些活动文件包含锻炼步骤，例如使用 Garmin 设备在室内训练器上进行锻炼时。",
   "confirm_fix_data": "确定调整 {n} 的数据？",

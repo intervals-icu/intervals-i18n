@@ -748,6 +748,8 @@
   "confirm_delete_week": "Sigur dorești să ștergi această săptămână și toate antrenamentele sale?",
   "confirm_demote_self": "Ești sigur că nu mai vrei să fii și administrator pentru acest grup?",
   "confirm_disconnect_from": "Sigur dorești să te deconectezi de la {n}?",
+  "confirm_email_address_prompt1": "Adresa ta de email nu este confirmată. Te rugăm să confirmi adresa de email. O adresă de email confirmată este necesară pentru resetarea parolei și pentru a primi notificări prin email.",
+  "confirm_email_address_prompt2": "Vom trimite un mesaj de confirmare către {email}. Te rugăm să faci clic pe linkul din email sau să îl copiezi și să îl inserezi în browserul tău.",
   "confirm_email_plan": "Sigur doriți să trimiteți prin e-mail planul pentru săptămâna {week} către {name}?",
   "confirm_extract_workout": "Doriți să încercați să extrageți un antrenament din acest fișier de activitate? Unele fișiere de activitate conțin pași de antrenament, de ex. atunci când utilizați un dispozitiv Garmin pentru a efectua un antrenament pe un antrenor de interior.",
   "confirm_fix_data": "Sigur dorești să ajustezi datele pentru {n}",

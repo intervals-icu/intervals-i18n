@@ -748,6 +748,8 @@
   "confirm_delete_week": "Ste si istí, že chcete vymazať tento týždeň a všetky jeho tréningy?",
   "confirm_demote_self": "Určite už nechcete byť správcom tejto skupiny",
   "confirm_disconnect_from": "Ste si istí, že sa chcete odpojiť od {n}?",
+  "confirm_email_address_prompt1": "Vaša e-mailová adresa nie je potvrdená. Prosím, potvrďte svoju e-mailovú adresu. Potvrdený e-mail je potrebný na obnovenie hesla a na prijímanie notifikačných e-mailov.",
+  "confirm_email_address_prompt2": "Pošleme potvrdzovaciu správu na {email}. Prosím, kliknite na odkaz v e-maile alebo ho skopírujte a vložte do svojho prehliadača.",
   "confirm_email_plan": "Naozaj chcete poslať plán na týždeň {week} e-mailom používateľovi {name}?",
   "confirm_extract_workout": "Chcete vyskúšať extrahovanie cvičení z tohto súboru aktivít? Niektoré súbory aktivít obsahujú kroky cvičenia, napr. pri používaní zariadenia Garmin na vykonávanie cvičení na indoorovom trenažéri",
   "confirm_fix_data": "Naozaj chcete upraviť údaje pre {n}",

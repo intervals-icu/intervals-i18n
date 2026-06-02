@@ -748,6 +748,8 @@
   "confirm_delete_week": "Bu haftayı ve tüm antrenmanlarını silmek istediğine emin misin?",
   "confirm_demote_self": "Artık bu grubun yöneticisi olmak istemediğine emin misin?",
   "confirm_disconnect_from": "{n} ile bağlantıyı kesmek istediğine emin misin?",
+  "confirm_email_address_prompt1": "E-posta adresiniz onaylanmamış. Lütfen e-posta adresinizi onaylayın. Şifre sıfırlamaları ve bildirim e-postalarını almak için onaylanmış bir e-posta gereklidir.",
+  "confirm_email_address_prompt2": "Bir onay mesajı {email} adresine gönderilecektir. Lütfen e-postadaki bağlantıya tıklayın veya bağlantıyı kopyalayıp tarayıcınıza yapıştırın.",
   "confirm_email_plan": "{week} haftasının planını {name} kişisine e-posta ile göndermek istediğine emin misin?",
   "confirm_extract_workout": "Bu aktivite dosyasından bir antrenman çıkarmayı denemek ister misin? Bazı aktivite dosyaları, örneğin Garmin cihazıyla iç mekân antrenmanı yaparken, antrenman adımlarını içerir.",
   "confirm_fix_data": "{n} için verileri ayarlamak istediğine emin misin?",

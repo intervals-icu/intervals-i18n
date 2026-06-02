@@ -748,6 +748,8 @@
   "confirm_delete_week": "Er du sikker på, at du vil slette denne uge og alle dens træning?",
   "confirm_demote_self": "Er du sikker på, at du ikke længere vil være og administrere denne gruppe?",
   "confirm_disconnect_from": "Er du sikker på, at du vil afbryde forbindelsen til {n}?",
+  "confirm_email_address_prompt1": "Din e-mailadresse er ikke bekræftet. Bekræft venligst din e-mailadresse. En bekræftet e-mail er påkrævet for nulstilling af adgangskode og for at modtage notifikations-e-mails.",
+  "confirm_email_address_prompt2": "Vi sender en bekræftelsesbesked til {email}. Klik venligst på linket i e-mailen eller kopier og indsæt det i din browser.",
   "confirm_email_plan": "Er du sikker på, at du vil e-maile planen for ugen {week} til {name}?",
   "confirm_extract_workout": "Vil du prøve at udtrække en træning fra denne aktivitetsfil? Nogle aktivitetsfiler indeholder træningstrin, f.eks. når du bruger en Garmin-enhed til at udføre en træning på en indendørs træner.",
   "confirm_fix_data": "Er du sikker på, at du vil justere data for {n}",

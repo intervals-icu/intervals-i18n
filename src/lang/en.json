@@ -748,6 +748,8 @@
   "confirm_delete_week": "Are you sure you want to delete this week and all its workouts?",
   "confirm_demote_self": "Are you sure you no longer want to be an admin for this group?",
   "confirm_disconnect_from": "Are you sure you want to disconnect from {n}?",
+  "confirm_email_address_prompt1": "Your email address is unconfirmed. Please confirm your email address. A confirmed email is required for password resets and to receive notification emails.",
+  "confirm_email_address_prompt2": "We will send a confirmation message to {email}. Please click the link in the email or cut and paste it into your browser.",
   "confirm_email_plan": "Are you sure you want to email the plan for the week of {week} to {name}?",
   "confirm_extract_workout": "Do you want to try and extract a workout from this activity file? Some activity files contain workout steps e.g. when using a Garmin device to perform a workout on an indoor trainer.",
   "confirm_fix_data": "Are you sure you want to adjust data for {n}",
