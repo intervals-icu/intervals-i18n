@@ -2929,6 +2929,7 @@
   "Today": "Ma",
   "Today as % of total for the week": "Ma a hét összességének %-a",
   "Tomorrow": "Holnap",
+  "too_many_attempts_wait_1_minute": "Túl sok próbálkozás, kérjük, várjon egy percet",
   "too_old_for_weather": "Ez a tevékenység túl régi az időjárás elemzéséhez. A történelmi időjárás-előrejelzési adatok csak {oldest} időponttól érhetők el.",
   "Top": "Felső",
   "Top Color": "Felső színe",

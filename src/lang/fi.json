@@ -2929,6 +2929,7 @@
   "Today": "Tänään",
   "Today as % of total for the week": "Tänään % viikkokokonaisajasta",
   "Tomorrow": "Huomenna",
+  "too_many_attempts_wait_1_minute": "Liian monta yritystä, odota hetki",
   "too_old_for_weather": "Tämä aktiviteetti on liian vanha sääanalyysiin. Historialliset sääennustetiedot ovat saatavilla vain ajalta {oldest} alkaen.",
   "Top": "Ylin",
   "Top Color": "Ylin väri",

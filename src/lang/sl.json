@@ -2929,6 +2929,7 @@
   "Today": "Danes",
   "Today as % of total for the week": "Danes kot % celotnega tedna",
   "Tomorrow": "Jutri",
+  "too_many_attempts_wait_1_minute": "Preveč poskusov, prosimo počakajte minuto",
   "too_old_for_weather": "Ta dejavnost je za vremensko analizo preveč stara. Zgodovinski podatki o vremenski napovedi so na voljo šele od {oldest} naprej.",
   "Top": "Zgoraj",
   "Top Color": "Vrhunska barva",

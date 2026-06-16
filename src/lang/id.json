@@ -2929,6 +2929,7 @@
   "Today": "Hari ini",
   "Today as % of total for the week": "Hari ini sebagai % dari total untuk minggu ini",
   "Tomorrow": "Besok",
+  "too_many_attempts_wait_1_minute": "Terlalu banyak percobaan, silakan tunggu sebentar",
   "too_old_for_weather": "Aktivitas ini terlalu lama untuk analisis cuaca. Data prakiraan cuaca historis hanya tersedia mulai dari {oldest}.",
   "Top": "Atas",
   "Top Color": "Warna Atas",

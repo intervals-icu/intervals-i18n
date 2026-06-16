@@ -2929,6 +2929,7 @@
   "Today": "今日",
   "Today as % of total for the week": "今週の合計に対する今日の割合",
   "Tomorrow": "明日",
+  "too_many_attempts_wait_1_minute": "試行回数が多すぎます。しばらくお待ちください",
   "too_old_for_weather": "このアクティビティは気象分析には古すぎます。過去の天気予報データは {oldest} 以降からしか利用できません。",
   "Top": "トップ",
   "Top Color": "トップのカラー",

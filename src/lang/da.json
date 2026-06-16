@@ -2929,6 +2929,7 @@
   "Today": "I dag",
   "Today as % of total for the week": "I dag som % af alt for ugen",
   "Tomorrow": "I morgen",
+  "too_many_attempts_wait_1_minute": "For mange forsøg, vent venligst et minut",
   "too_old_for_weather": "Denne aktivitet er for gammel til vejranalyse. Historiske vejrprognosedata er kun tilgængelige fra {oldest} og frem.",
   "Top": "Top",
   "Top Color": "Top farve",

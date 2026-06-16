@@ -2929,6 +2929,7 @@
   "Today": "Dnes",
   "Today as % of total for the week": "Dnes ako % z celkového počtu za týždeň",
   "Tomorrow": "Zajtra",
+  "too_many_attempts_wait_1_minute": "Príliš veľa pokusov, počkajte prosím minútu",
   "too_old_for_weather": "Tá táto aktivita príliš stará na analýzu počasia. Historické údaje o predpovedi počasia sú k dispozícii iba od {oldest}.",
   "Top": "Horné",
   "Top Color": "Vrchná farba",

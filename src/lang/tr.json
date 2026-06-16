@@ -2929,6 +2929,7 @@
   "Today": "Bugün",
   "Today as % of total for the week": "Bugün, haftalık toplamın %'si olarak",
   "Tomorrow": "Yarın",
+  "too_many_attempts_wait_1_minute": "Çok fazla deneme, lütfen bir dakika bekleyin",
   "too_old_for_weather": "Bu aktivite hava analizi için çok eski. Tarihsel hava tahmini verileri yalnızca {oldest} tarihinden itibaren mevcuttur.",
   "Top": "Üst",
   "Top Color": "Üst Renk",

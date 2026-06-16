@@ -2929,6 +2929,7 @@
   "Today": "Heute",
   "Today as % of total for the week": "Heute als % der Gesamtsumme der Woche",
   "Tomorrow": "Morgen",
+  "too_many_attempts_wait_1_minute": "Zu viele Versuche, bitte warten Sie eine Minute",
   "too_old_for_weather": "Diese Aktivität ist für die Wetteranalyse zu alt. Historische Wettervorhersagedaten sind nur ab {oldest} verfügbar.",
   "Top": "Top",
   "Top Color": "Top-Farbe",
