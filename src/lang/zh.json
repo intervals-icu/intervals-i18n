@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "Garmin/Strava ID或文件名",
   "garmin_connect_replace_strava": "从Garmin Connect下载的活动将替换Strava的活动",
   "garmin_download_activities_blurb": "在此日期或之后创建的活动会从Garmin Connect下载，这可能需要一些时间。由于Garmin API的限制，数据不能超过一年的时间。请注意，非Garmin设备(如TrainerRoad)的活动不会提供给Intervals.icu。请使用Dropbox获取这些数据",
+  "garmin_dup_historical_data_request": "Garmin 拒绝了重复的历史数据请求",
   "garmin_import_complete": "Garmin数据导入完成",
   "garmin_sync_activity_types_blurb": "仅从 Garmin 下载特定活动类型。请小心。 Garmin 不允许重复调用来获取旧数据，因此您无法使用下载旧数据按钮从错误排除活动类型中恢复。如果发生这种情况，您将需要从 Garmin Connect 手动下载 FIT 文件并将其上传到日历页面。",
   "GARMIN_text": "Garmin",

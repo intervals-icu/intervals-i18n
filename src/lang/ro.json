@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "ID sau nume de fișier Garmin / Strava",
   "garmin_connect_replace_strava": "Activitățile descărcate de la Garmin Connect le vor înlocui pe cele de la Strava",
   "garmin_download_activities_blurb": "Activitățile create la sau după această dată sunt descărcate de la Garmin Connect. Ar putea dura ceva timp. Datele nu pot fi mai vechi de un an din cauza restricțiilor API Garmin. Te rugăm să reții că activitățile de pe dispozitive non-Garmin (de ex. TrainerRoad) nu sunt furnizate către Intervals.icu. Folosește Dropbox pentru acestea.",
+  "garmin_dup_historical_data_request": "Cererea de duplicare a datelor istorice a fost respinsă de Garmin",
   "garmin_import_complete": "Importul de date Garmin s-a finalizat",
   "garmin_sync_activity_types_blurb": "Descărcați numai anumite tipuri de activitate de la Garmin. Vă rugăm să fiți atent. Garmin nu permite apelurilor duplicate pentru a prelua date vechi, astfel încât să nu vă puteți recupera de la excluderea incorectă a tipurilor de activități folosind butonul de descărcare a datelor vechi. Dacă se întâmplă acest lucru, va trebui să descărcați manual fișierele FIT din Garmin Connect și să le încărcați pe pagina calendarului.",
   "GARMIN_text": "Garmin",

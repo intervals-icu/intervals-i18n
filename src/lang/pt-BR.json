@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "ID ou nome de arquivo Garmin/Strava",
   "garmin_connect_replace_strava": "Atividades baixadas do Garmin Connect substituirão aquelas do Strava",
   "garmin_download_activities_blurb": "Atividades criadas a partir desta data são baixadas do Garmin Connect. Isso pode levar um tempo. Os dados não podem ter mais de um ano devido às restrições da API do Garmin. Note que atividades de dispositivos não-Garmin (por exemplo, TrainerRoad) não são fornecidas ao Intervals.icu. Use o Dropbox para estas.",
+  "garmin_dup_historical_data_request": "Solicitação de dados históricos duplicados rejeitada pela Garmin",
   "garmin_import_complete": "Importação de dados do Garmin concluída",
   "garmin_sync_activity_types_blurb": "Baixe apenas tipos de atividade específicos do Garmin. Tenha cuidado. O Garmin não permite chamadas duplicadas para buscar dados antigos, então você não pode recuperar dados excluídos incorretamente usando o botão de download de dados antigos. Se isso acontecer, você precisará baixar manualmente os arquivos FIT do Garmin Connect e carregá-los na página do calendário.",
   "GARMIN_text": "Garmin",

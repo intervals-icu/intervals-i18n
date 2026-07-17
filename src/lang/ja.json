@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "Garmin/Strava ID・ファイル名",
   "garmin_connect_replace_strava": "Garmin Connectからダウンロードしたアクティビティは、Stravaからのものに置き換わります。",
   "garmin_download_activities_blurb": "この日以降に作成されたアクティビティは、Garmin Connectからダウンロードされます。ダウンロードにはしばらく時間がかかる場合があります。Garmin APIの制限により、1年以上前のデータは使用できません。Garmin以外のデバイス（TrainerRoadなど）のアクティビティはIntervals.icuに取り込まれないことにはご注意ください。それらのデータの取り込みにはDropboxをご利用ください。",
+  "garmin_dup_historical_data_request": "ガーミンにより、過去のデータの重複リクエストが却下された",
   "garmin_import_complete": "Garminデータのインポートが完了しました",
   "garmin_sync_activity_types_blurb": "Garminからは必要なアクティビティタイプのみをダウンロードするようにしてください。お気をつけください。Garminでは、古いデータを取得する呼び出しは１回だけしか許可されていないため、誤って除外されたアクティビティ設定で「過去のデータをダウンロード」ボタンを使用した場合は、この機能を使って再度取得することは出来ません。この問題が発生した場合は、Garmin ConnectからFITファイルを手動でダウンロードし、カレンダーページに手動でアップロードする必要があります。",
   "GARMIN_text": "Garmin",

@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "Garmin/Strava ID veya dosya adı",
   "garmin_connect_replace_strava": "Garmin Connect’ten indirilen aktiviteler Strava’dakilerin yerini alır",
   "garmin_download_activities_blurb": "Bu tarihte veya sonrasında oluşturulan aktiviteler Garmin Connect’ten indirilir. Bu biraz zaman alabilir. Veri Garmin API kısıtlamaları nedeniyle bir yıldan daha eski olamaz. Garmin dışı cihazlardan (örn. TrainerRoad) gelen aktiviteler Intervals.icu’ya aktarılmaz. Bunlar için Dropbox kullanabilirsin.",
+  "garmin_dup_historical_data_request": "Garmin tarafından yinelenen tarihsel veri isteği reddedildi",
   "garmin_import_complete": "Garmin veri aktarımı tamamlandı",
   "garmin_sync_activity_types_blurb": "Yalnızca belirli aktivite türlerini Garmin’den indir. Dikkatli ol. Garmin eski verileri almak için yinelenen çağrılara izin vermez, bu yüzden yanlışlıkla aktivite türlerini hariç tutarsan “eski verileri indir” düğmesiyle geri alamazsın. Bu durumda FIT dosyalarını Garmin Connect’ten manuel indirip takvim sayfasına yüklemen gerekir.",
   "GARMIN_text": "Garmin",

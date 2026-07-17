@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "Garmin/Strava-tunnus tai tiedostonimi",
   "garmin_connect_replace_strava": "Garmin Connectista ladatut aktiviteetit korvaavat Stravasta ladatut",
   "garmin_download_activities_blurb": "Tämän päivämäärän jälkeen luodut aktiviteetit ladataan Garmin Connectista. Tämä voi kestää hetken. Tiedot eivät voi olla yli vuoden vanhoja Garminin API-rajoitusten vuoksi. Huomaa, että ei-Garmin-laitteiden (esim. TrainerRoad) aktiviteetteja ei toimiteta Intervals.icu:lle. Käytä näihin Dropboxia.",
+  "garmin_dup_historical_data_request": "Kaksoiskappale historiallisesta tietopyynnöstä hylätty Garminin toimesta",
   "garmin_import_complete": "Garmin-tietojen tuonti valmis",
   "garmin_sync_activity_types_blurb": "Lataa Garminista vain tietyt aktiviteettityypit. Ole varovainen. Garmin ei salli päällekkäisiä pyyntöjä vanhojen tietojen hakemiseksi, joten et voi korjata virheellisesti suljettuja aktiviteettityyppejä käyttämällä vanhojen tietojen latauspainiketta. Jos näin tapahtuu, sinun on ladattava FIT-tiedostot manuaalisesti Garmin Connectista ja ladattava ne kalenterisivulla.",
   "GARMIN_text": "Garmin",

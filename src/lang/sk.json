@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "ID alebo názov súboru Garmin/Strava",
   "garmin_connect_replace_strava": "Aktivity prevzaté z aplikácie Garmin Connect nahradia aktivity zo služby Strava",
   "garmin_download_activities_blurb": "Aktivity vytvorené v tento deň alebo po ňom sa preberajú z aplikácie Garmin Connect. Môže to chvíľu trvať. Vzhľadom na obmedzenia rozhrania API spoločnosti Garmin nemôžu byť údaje dlhšie ako jeden rok. Upozorňujeme, že aktivity zo zariadení iných ako Garmin (napr. TrainerRoad) sa na Intervals.icu neposkytujú. Na tento účel použite službu Dropbox",
+  "garmin_dup_historical_data_request": "Žiadosť o duplikát historických údajov zamietnutá spoločnosťou Garmin",
   "garmin_import_complete": "Import údajov Garmin je dokončený",
   "garmin_sync_activity_types_blurb": "Stiahnite si zo služby Garmin len určité typy aktivít. Buďte opatrní. Spoločnosť Garmin neumožňuje duplicitné volania na načítanie starých údajov, preto nemôžete obnoviť nesprávne vylúčené typy aktivít pomocou tlačidla Stiahnuť staré údaje. Ak sa to stane, budete musieť manuálne prevziať súbory FIT z aplikácie Garmin Connect a nahrať ich na stránku kalendára, aby ste mohli v.",
   "GARMIN_text": "Garmin",

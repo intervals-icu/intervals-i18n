@@ -1313,6 +1313,7 @@
   "Garmin/Strava ID or filename": "Garmin/Strava ID ali ime datoteke",
   "garmin_connect_replace_strava": "Aktivnosti, prenesene iz Garmin Connect, bodo nadomestile tiste iz Strave",
   "garmin_download_activities_blurb": "Aktivnosti, ustvarjene na ta datum ali pozneje, se prenesejo iz Garmin Connect. To lahko traja nekaj časa. Podatki ne smejo biti stari več kot eno leto, zaradi omejitev Garmin API. Upoštevajte, da aktivnosti iz naprav, ki niso Garmin (npr. TrainerRoad) niso posredovane Intervals.icu. Za te namene uporabite Dropbox.",
+  "garmin_dup_historical_data_request": "Zahteva za podvajanje zgodovinskih podatkov je bila zavrnjena s strani Garmin",
   "garmin_import_complete": "Uvoz Garmin podatkov je končan",
   "garmin_sync_activity_types_blurb": "Od Garmina prenesite samo določene vrste dejavnosti. Prosim, bodi previden. Garmin ne dovoljuje podvojenih klicev za pridobivanje starih podatkov, tako da ne morete obnoviti nepravilne izključitve vrst dejavnosti z gumbom za prenos starih podatkov. Če se to zgodi, boste morali ročno prenesti datoteke FIT iz storitve Garmin Connect in jih naložiti na stran koledarja.",
   "GARMIN_text": "Garmin",
