@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Puterea medie în timpul SFT",
   "sft_blurb": "Un test de oboseală submaximal este un efort constant, repetat regulat la aceeași putere sau ritm. Deoarece efortul este același de fiecare dată, schimbările în ritmul cardiac în timpul testului și cât de repede scade ritmul cardiac după test oferă informații despre condiția fizică și nivelul de oboseală.",
   "sft_blurb2": "Intervals.icu poate detecta și analiza automat aceste teste și poate urmări schimbările în timp.",
+  "sft_chart_no_tests": "Nicio testare a oboselii sub-maximale în această perioadă",
   "sft_cv_blurb": "Coeficientul de variație: abaterea standard a puterii sau ritmului tău în timpul testului, exprimată ca procent din media acestora. Cu cât este mai mică, cu atât efortul a fost mai constant. O valoare ridicată indică un test neregulat, iar valorile ritmului cardiac obținute sunt mai puțin de încredere.",
   "sft_cv_title": "Coeficientul de variație în timpul SFT",
   "sft_detected": "A fost detectat un test de oboseală submaximal.",

@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Durchschnittliche Leistung während des SFT",
   "sft_blurb": "Ein submaximaler Ermüdungstest ist eine gleichmäßige Anstrengung, die regelmäßig mit derselben Leistung oder demselben Tempo wiederholt wird. Da die Anstrengung jedes Mal gleich ist, sagen Veränderungen der Herzfrequenz während des Tests und wie schnell die Herzfrequenz danach abfällt, etwas über Ihre Fitness und Ermüdung aus.",
   "sft_blurb2": "Intervals.icu kann diese Tests automatisch erkennen und analysieren und Veränderungen im Laufe der Zeit verfolgen.",
+  "sft_chart_no_tests": "Keine submaximalen Ermüdungstests in diesem Zeitraum",
   "sft_cv_blurb": "Variationskoeffizient: die Standardabweichung Ihrer Leistung oder Ihres Tempos während des Tests als Prozentsatz des Durchschnitts. Je niedriger dieser Wert ist, desto gleichmäßiger war die Anstrengung. Ein hoher Wert bedeutet, dass der Test unregelmäßig war und die Herzfrequenzwerte daraus weniger zuverlässig sind.",
   "sft_cv_title": "Variationskoeffizient während des SFT",
   "sft_detected": "Ein submaximaler Ermüdungstest wurde erkannt.",

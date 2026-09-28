@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Potencia promedio durante el SFT",
   "sft_blurb": "Una prueba de fatiga submáxima es un esfuerzo constante, repetido regularmente a la misma potencia o ritmo. Debido a que el esfuerzo es el mismo cada vez, los cambios en la frecuencia cardíaca durante la prueba y en la rapidez con que la frecuencia cardíaca disminuye después dicen algo sobre tu estado físico y cuán fatigado estás.",
   "sft_blurb2": "Intervals.icu puede detectar y analizar automáticamente estas pruebas, y seguir los cambios a lo largo del tiempo.",
+  "sft_chart_no_tests": "No hay pruebas de fatiga submáxima en este período",
   "sft_cv_blurb": "Coeficiente de variación: la desviación estándar de tu potencia o ritmo durante la prueba como un porcentaje de la media. Cuanto menor sea, más constante fue el esfuerzo. Un valor alto significa que la prueba fue irregular y los datos de frecuencia cardíaca son menos fiables.",
   "sft_cv_title": "Coeficiente de variación durante el SFT",
   "sft_detected": "Se ha detectado una prueba de fatiga submáxima.",

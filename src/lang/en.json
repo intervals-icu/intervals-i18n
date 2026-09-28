@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Average power during the SFT",
   "sft_blurb": "A submaximal fatigue test is a steady effort, repeated regularly at the same power or pace. Because the effort is the same each time, changes in heart rate during the test and in how quickly your heart rate falls afterwards say something about your fitness and how fatigued you are.",
   "sft_blurb2": "Intervals.icu can automatically detect and analyse these tests, and track changes over time.",
+  "sft_chart_no_tests": "No sub-maximal fatigue tests in this period",
   "sft_cv_blurb": "Coefficient of variation: the standard deviation of your power or pace during the test as a percentage of the average. The lower this is the steadier the effort was. A high value means the test was ragged and the heart rate numbers from it are less trustworthy.",
   "sft_cv_title": "Coefficient of variation during the SFT",
   "sft_detected": "A submaximal fatigue test has been detected.",

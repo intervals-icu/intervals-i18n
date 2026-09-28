@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Gennemsnitlig effekt under SFT",
   "sft_blurb": "En submaksimal træthedstest er en jævn indsats, gentaget regelmæssigt ved samme effekt eller tempo. Fordi indsatsen er den samme hver gang, siger ændringer i puls under testen og hvor hurtigt din puls falder bagefter noget om din form og hvor træt du er.",
   "sft_blurb2": "Intervals.icu kan automatisk registrere og analysere disse tests og følge ændringer over tid.",
+  "sft_chart_no_tests": "Ingen submaksimale træthedstests i denne periode",
   "sft_cv_blurb": "Variationskoefficient: standardafvigelsen af din effekt eller tempo under testen som en procentdel af gennemsnittet. Jo lavere denne er, desto mere stabil var indsatsen. En høj værdi betyder, at testen var ujævn, og pulsværdierne fra den er mindre pålidelige.",
   "sft_cv_title": "Variationskoefficient under SFT",
   "sft_detected": "En submaksimal træthedstest er blevet registreret.",

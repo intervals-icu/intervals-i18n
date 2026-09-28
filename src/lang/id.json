@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Daya rata-rata selama SFT",
   "sft_blurb": "Tes kelelahan submaksimal adalah usaha stabil, diulang secara teratur pada daya atau kecepatan yang sama. Karena usaha yang sama setiap kali, perubahan detak jantung selama tes dan seberapa cepat detak jantung Anda turun setelahnya menunjukkan sesuatu tentang kebugaran dan tingkat kelelahan Anda.",
   "sft_blurb2": "Intervals.icu dapat secara otomatis mendeteksi dan menganalisis tes ini, serta melacak perubahan dari waktu ke waktu.",
+  "sft_chart_no_tests": "Tidak ada tes kelelahan sub-maksimal dalam periode ini",
   "sft_cv_blurb": "Koefisien variasi: deviasi standar dari daya atau kecepatan Anda selama tes sebagai persentase dari rata-rata. Semakin rendah nilai ini, semakin stabil usaha yang dilakukan. Nilai yang tinggi berarti tes tidak konsisten dan angka detak jantung dari tes tersebut kurang dapat dipercaya.",
   "sft_cv_title": "Koefisien variasi selama SFT",
   "sft_detected": "Tes kelelahan submaksimal telah terdeteksi.",

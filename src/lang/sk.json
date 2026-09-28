@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Priemerný výkon počas SFT",
   "sft_blurb": "Submaximálny test únavy je konštantné úsilie, ktoré sa pravidelne opakuje na rovnakej výkonnosti alebo tempe. Pretože úsilie je zakaždým rovnaké, zmeny tepovej frekvencie počas testu a rýchlosť, akou tepová frekvencia klesá po ňom, hovoria niečo o vašej kondícii a únavovom stave.",
   "sft_blurb2": "Intervals.icu môže automaticky detegovať a analyzovať tieto testy a sledovať zmeny v priebehu času.",
+  "sft_chart_no_tests": "Žiadne submaximálne testy únavy v tomto období",
   "sft_cv_blurb": "Koeficient variability: štandardná odchýlka vašej výkonovej alebo rýchlostnej hodnoty počas testu ako percento z priemeru. Čím nižšia je táto hodnota, tým stabilnejšie bolo úsilie. Vysoká hodnota znamená, že test bol nepravidelný a údaje o srdcovej frekvencii z neho sú menej spoľahlivé.",
   "sft_cv_title": "Koeficient variability počas SFT",
   "sft_detected": "Bol zistený submaximálny test únavy.",

@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Średnia moc podczas SFT",
   "sft_blurb": "Test zmęczenia submaksymalnego to stały wysiłek, powtarzany regularnie przy tej samej mocy lub tempie. Ponieważ wysiłek jest taki sam za każdym razem, zmiany tętna podczas testu i szybkość jego spadku po teście mówią coś o twojej kondycji i zmęczeniu.",
   "sft_blurb2": "Intervals.icu może automatycznie wykrywać i analizować te testy oraz śledzić zmiany w czasie.",
+  "sft_chart_no_tests": "Brak testów zmęczenia podmaksymalnego w tym okresie",
   "sft_cv_blurb": "Współczynnik zmienności: odchylenie standardowe Twojej mocy lub tempa podczas testu jako procent średniej. Im niższa wartość, tym bardziej równomierny był wysiłek. Wysoka wartość oznacza, że test był nieregularny, a dane tętna z niego są mniej wiarygodne.",
   "sft_cv_title": "Współczynnik zmienności podczas SFT",
   "sft_detected": "Wykryto test zmęczenia submaksymalnego.",

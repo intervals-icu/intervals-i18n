@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Puissance moyenne pendant le SFT",
   "sft_blurb": "Un test de fatigue sous-maximal (SFT) est un effort constant, répété régulièrement à la même puissance ou allure. Parce que l'effort est le même à chaque fois, les variations de la fréquence cardiaque pendant le test et la rapidité avec laquelle votre fréquence cardiaque diminue ensuite indiquent votre forme physique et votre niveau de fatigue.",
   "sft_blurb2": "Intervals.icu peut détecter et analyser automatiquement ces tests, et suivre les changements au fil du temps.",
+  "sft_chart_no_tests": "Aucun test de fatigue sous-maximal durant cette période",
   "sft_cv_blurb": "Coefficient de variation : l'écart type de votre puissance ou de votre allure pendant le test, exprimé en pourcentage de la moyenne. Plus ce chiffre est bas, plus l'effort a été régulier. Une valeur élevée signifie que le test a été irrégulier et que les données de fréquence cardiaque en sont moins fiables.",
   "sft_cv_title": "Coefficient de variation pendant le SFT",
   "sft_detected": "Un test de fatigue sous-maximal a été détecté.",

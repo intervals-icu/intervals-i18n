@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Povprečna moč med SFT",
   "sft_blurb": "Submaksimalni test utrujenosti je enakomeren napor, ki se redno ponavlja z enako močjo ali hitrostjo. Ker je napor vedno enak, spremembe srčnega utripa med testom in hitrost padca srčnega utripa po njem povedo nekaj o vaši telesni pripravljenosti in stopnji utrujenosti.",
   "sft_blurb2": "Intervals.icu lahko samodejno zazna in analizira te teste ter spremlja spremembe skozi čas.",
+  "sft_chart_no_tests": "V tem obdobju ni bilo testov submaksimalne utrujenosti",
   "sft_cv_blurb": "Koeficient variacije: standardni odklon vaše moči ali tempa med testom kot odstotek povprečja. Nižja kot je ta vrednost, bolj enakomeren je bil napor. Visoka vrednost pomeni, da je bil test neenakomeren in so številke srčnega utripa manj zanesljive.",
   "sft_cv_title": "Koeficient variacije med SFT",
   "sft_detected": "Zaznan je bil submaksimalni test utrujenosti.",

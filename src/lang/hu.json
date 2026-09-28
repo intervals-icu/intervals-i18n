@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Átlagos teljesítmény az SFT alatt",
   "sft_blurb": "A szubmaximális fáradtsági teszt egy állandó erőfeszítés, amelyet rendszeresen ismételnek ugyanazon a teljesítményen vagy tempón. Mivel az erőfeszítés minden alkalommal ugyanaz, a pulzusszám változásai a teszt során és az azt követő pulzusszám csökkenés sebessége információt ad a fittségről és a fáradtság mértékéről.",
   "sft_blurb2": "Az Intervals.icu automatikusan képes észlelni és elemezni ezeket a teszteket, valamint nyomon követni a változásokat az idő múlásával.",
+  "sft_chart_no_tests": "Ebben az időszakban nem voltak szubmaximális fáradtsági tesztek",
   "sft_cv_blurb": "Változékonysági együttható: a teljesítményed vagy tempód szórása a teszt során az átlag százalékában kifejezve. Minél alacsonyabb ez az érték, annál egyenletesebb volt az erőfeszítés. Magas érték esetén a teszt szaggatott volt, és a pulzusszám adatok kevésbé megbízhatóak.",
   "sft_cv_title": "Változékonysági együttható az SFT alatt",
   "sft_detected": "Almaximális fáradtsági tesztet észleltek.",

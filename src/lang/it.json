@@ -2695,6 +2695,7 @@
   "sft_average_watts_title": "Potenza media durante il SFT",
   "sft_blurb": "Un test di fatica submassimale è uno sforzo costante, ripetuto regolarmente alla stessa potenza o ritmo. Poiché lo sforzo è lo stesso ogni volta, le variazioni della frequenza cardiaca durante il test e la rapidità con cui la frequenza cardiaca diminuisce dopo indicano qualcosa sulla tua forma fisica e sul livello di affaticamento.",
   "sft_blurb2": "Intervals.icu può rilevare e analizzare automaticamente questi test e monitorare i cambiamenti nel tempo.",
+  "sft_chart_no_tests": "Nessun test di affaticamento sub-massimale in questo periodo",
   "sft_cv_blurb": "Coefficiente di variazione: la deviazione standard della tua potenza o ritmo durante il test espressa in percentuale rispetto alla media. Più basso è questo valore, più costante è stato lo sforzo. Un valore alto indica che il test è stato irregolare e i dati della frequenza cardiaca risultano meno affidabili.",
   "sft_cv_title": "Coefficiente di variazione durante il SFT",
   "sft_detected": "È stato rilevato un test di affaticamento submassimale.",
