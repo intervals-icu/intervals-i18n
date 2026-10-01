@@ -826,6 +826,7 @@
   "confirm_strava_disconnect": "Biztosan visszavonod az Intervals.icu Strava-adatokhoz való hozzáférését? <span class=\"red--text\">A Strava API Általános Szerződési Feltételei megkövetelik, hogy az Intervals.icu webhelyen a Strava-ból származó összes adatot töröljék.</span> Írja be az „igen” -t az alábbi mezőbe, majd kattintson az „OK” gombra a hozzáférés visszavonásához és a Strava-adatok törléséhez az Intervals.icu webhelyről.",
   "confirm_undelete_activities": "Biztosan vissza szeretnéd vonni a (z) {n} törlését?",
   "confirm_unlink_folder": "Biztosan leválasztod ezt a mappát az Intervals.icu oldalról?",
+  "confirm_update_sft_activities": "Biztosan újraszámolja a szubmaximális fáradtsági teszteket a(z) {n} értéken? A sport aktuális beállításai lesznek használva a teszt paramétereiként.",
   "confirm_update_zones_activities": "Biztosan frissíteni szeretnéd a (z) {n} zónákat? Minden meglévő FTP, W 'és küszöbérték értéke megmarad, csak a zónák frissülnek. Ha a sportnak vannak HR zónái, akkor a küszöbérték HR és a maximális HR frissül.",
   "Connect": "Csatlakozás",
   "Connect Devices & Platforms": "Eszközök és platformok csatlakoztatása",

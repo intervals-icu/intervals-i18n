@@ -826,6 +826,7 @@
   "confirm_strava_disconnect": "Weet je zeker dat je Intervals.icu de toegang tot je Strava-gegevens wilt ontzeggen? <span class=\"red--text\">De servicevoorwaarden van de Strava API vereisen dat alle gegevens op Intervals.icu die afkomstig zijn van Strava worden verwijderd.</span> Tik 'ja' in in het onderstaande vak en klik op 'OK' om de toegang in te trekken en je Strava-gegevens te verwijderen van Intervals.icu.",
   "confirm_undelete_activities": "Weet je zeker dat je het verwijderen van {n} ongedaan wilt maken?",
   "confirm_unlink_folder": "Weet je zeker dat je deze map wilt ontkoppelen van Intervals.icu?",
+  "confirm_update_sft_activities": "Weet je zeker dat je de submaximale vermoeidheidstests op {n} opnieuw wilt berekenen? De huidige instellingen voor de sport worden gebruikt voor de testparameters.",
   "confirm_update_zones_activities": "Weet je zeker dat je de zones op {n} wilt bijwerken ? Alle bestaande FTP, W' en drempeltempo waarden blijven behouden, alleen de zones worden bijgewerkt. Als de sport HR-zones heeft, worden drempel-HR en HRmax bijgewerkt.",
   "Connect": "Verbinden",
   "Connect Devices & Platforms": "Apparaten en platforms verbinden",

@@ -826,6 +826,7 @@
   "confirm_strava_disconnect": "Sei sicuro di voler revocare l'accesso di Intervals.icu ai tuoi dati Strava? <span class=\"red--text\">I termini di servizio di Strava API richiedono che tutti i dati su Intervals.icu che provengono da Strava siano cancellati.</span> Inserisci \"sì\" nella casella sottostante e clicca su \"OK\" per revocare l'accesso ed eliminare i tuoi dati Strava da Intervals.icu.",
   "confirm_undelete_activities": "Sei sicuro di voler cancellare {n}?",
   "confirm_unlink_folder": "Sei sicuro di voler scollegare questa cartella da Intervals.icu?",
+  "confirm_update_sft_activities": "Sei sicuro di voler ricalcolare i test di affaticamento sub-massimale su {n}? Verranno utilizzate le impostazioni correnti per lo sport come parametri del test.",
   "confirm_update_zones_activities": "Sei sicuro di voler aggiornare le zone su {n}? Tutti i valori esistenti di FTP, W' e passo di soglia vengono mantenuti, solo le zone vengono aggiornate. Se lo sport ha zone FC, allora la soglia FC e la FC massima vengono aggiornate.",
   "Connect": "Collega",
   "Connect Devices & Platforms": "Collega Dispositivi e Piattaforme",

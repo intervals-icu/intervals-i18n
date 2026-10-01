@@ -826,6 +826,7 @@
   "confirm_strava_disconnect": "Apakah Anda yakin ingin mencabut akses Intervals.icu ke data Strava Anda? <span class=\"red--text\">Persyaratan layanan API Strava mengharuskan semua data di Intervals.icu yang berasal dari Strava dihapus.</span> Masukkan 'ya' pada kotak di bawah ini dan klik 'OK' untuk mencabut akses dan menghapus data Strava Anda dari Intervals.icu.",
   "confirm_undelete_activities": "Apakah Anda yakin ingin membatalkan penghapusan {n}?",
   "confirm_unlink_folder": "Apakah Anda yakin ingin memutuskan tautan folder ini dari Intervals.icu?",
+  "confirm_update_sft_activities": "Apakah Anda yakin ingin menghitung ulang tes kelelahan sub-maksimal pada {n}? Pengaturan saat ini untuk olahraga akan digunakan sebagai parameter tes.",
   "confirm_update_zones_activities": "Apakah Anda yakin ingin memperbarui zona pada {n}? Nilai FTP, W' dan ambang batas kecepatan yang ada akan tetap dipertahankan, hanya zona yang diperbarui. Jika olahraga memiliki zona HR, maka ambang batas HR dan HR maksimal akan diperbarui.",
   "Connect": "Hubungkan",
   "Connect Devices & Platforms": "Hubungkan Perangkat & Platform",

@@ -826,6 +826,7 @@
   "confirm_strava_disconnect": "Opravdu chcete zrušit přístup Intervals.icu k vašim datům Strava? <span class=\"red--text\">Podmínky služby Strava API vyžadují, aby byla odstraněna všechna data na Intervals.icu, která pocházejí ze Stravy.</span> Do pole níže zadejte „ano“ a kliknutím na „OK“ zrušíte přístup a odstraníte svá data ze serveru Strava z webu Intervals.icu.",
   "confirm_undelete_activities": "Opravdu chcete zrušit smazání položky {n}?",
   "confirm_unlink_folder": "Opravdu chcete odpojit tuto složku od Intervals.icu?",
+  "confirm_update_sft_activities": "Opravdu chcete přepočítat submaximální testy únavy na {n}? Pro parametry testu budou použita aktuální nastavení sportu.",
   "confirm_update_zones_activities": "Opravdu chcete aktualizovat zóny v doméně {n}? Jakékoli stávající hodnoty FTP, W 'a prahového tempa jsou zachovány, pouze zóny jsou aktualizovány. Pokud má sport zóny HR, aktualizuje se práh HR a max. HR.",
   "Connect": "Připojit",
   "Connect Devices & Platforms": "Připojit zařízení a platformy",

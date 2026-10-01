@@ -826,6 +826,7 @@
   "confirm_strava_disconnect": "Êtes-vous sûr(e) de vouloir révoquer l'accès d'Intervals.icu à vos données Strava ? <span class=\"red--text\">Les conditions de service de l'API Strava exigent que toutes les données sur Intervals.icu qui proviennent de Strava soient supprimées.</span> Saisissez \" oui \" dans le champ ci-dessous et cliquez sur \" OK \" pour révoquer l'accès et supprimer vos données Strava de Intervals.icu.",
   "confirm_undelete_activities": "Êtes-vous sûr(e) de vouloir annuler la suppression de {n} ?",
   "confirm_unlink_folder": "Êtes-vous sûr(e) de vouloir dissocier ce dossier de Intervals.icu ?",
+  "confirm_update_sft_activities": "Êtes-vous sûr de vouloir recalculer les tests de fatigue sous-maximale sur {n} ? Les paramètres actuels du sport seront utilisés pour les paramètres du test.",
   "confirm_update_zones_activities": "Etes-vous sûr(e) de vouloir mettre à jour les zones sur {n} ? Toutes les valeurs FTP, W' et d'allure seuil existantes sont conservées, seules les zones sont mises à jour. Si le sport comporte des zones de FC, le seuil de FC et la FC maximale sont mis à jour.",
   "Connect": "Connecter",
   "Connect Devices & Platforms": "Connecter les appareils et plateformes",
