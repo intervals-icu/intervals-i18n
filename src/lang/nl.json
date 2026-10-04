@@ -1309,6 +1309,7 @@
   "Flight Time": "Vluchtijd",
   "flight_ratio": "Vluchtijd als percentage van een enkele stap (vluchtijd plus standtijd), een compacte maat voor hoe veerkrachtig de pas is. Intervals.icu berekent dit voor elk apparaat dat grondcontacttijd rapporteert. Het is een aandeel van één stap, terwijl standtijd % een aandeel is van de volledige pas, dus de twee tellen niet op tot 100%.",
   "flight_time": "De tijd dat beide voeten van de grond zijn tussen voetcontacten, in milliseconden. Intervals.icu berekent dit uit cadans en grondcontacttijd wanneer beide beschikbaar zijn.",
+  "Floors Climbed": "Verdiepingen Beklommen",
   "Folder": "Map",
   "folder_build_lib_help": "Sleep trainingen van de kalender of klik op ⋮ 2ee om je bibliotheek op te bouwen",
   "folder_confirm_del": "Weet je zeker dat je {op} {name} wilt?",

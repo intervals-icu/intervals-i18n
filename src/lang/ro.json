@@ -1309,6 +1309,7 @@
   "Flight Time": "Timp de zbor",
   "flight_ratio": "Timpul de zbor ca procent dintr-un pas individual (timpul de zbor plus timpul de sprijin), o măsură compactă a cât de elastic este pasul. Intervals.icu îl calculează pentru fiecare dispozitiv care raportează timpul de contact cu solul. Este o parte dintr-un pas, în timp ce procentajul timpului de sprijin este o parte din pasul complet, deci cele două nu însumează 100%.",
   "flight_time": "Timpul în care ambele picioare sunt în aer între loviturile piciorului, în milisecunde. Intervals.icu îl calculează din cadență și timpul de contact cu solul ori de câte ori ambele sunt disponibile.",
+  "Floors Climbed": "Etaje urcate",
   "Folder": "Folder",
   "folder_build_lib_help": "Trage și plasează antrenamentele din calendar sau fă clic pe ⋮ 2ee pentru a-ți construi biblioteca",
   "folder_confirm_del": "Ești sigur că vrei să {op} {name}?",

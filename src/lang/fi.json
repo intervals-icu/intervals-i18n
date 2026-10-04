@@ -1309,6 +1309,7 @@
   "Flight Time": "Lentoaika",
   "flight_ratio": "Lentoaika prosentteina yhdestä askeleesta (lentoaika plus tukiaika), tiivis mittari askelen kimmoisuudesta. Intervals.icu laskee sen jokaiselle laitteelle, joka raportoi maahan kosketusajan. Se on osuus yhdestä askeleesta, kun taas tukiaika % on osuus koko askeleesta, joten ne eivät yhteensä ole 100 %.",
   "flight_time": "Aika, jonka molemmat jalat ovat ilmassa askelten välillä, millisekunteina. Intervals.icu laskee sen kadenssin ja maahan kosketusajan perusteella, kun molemmat ovat saatavilla.",
+  "Floors Climbed": "Nousutut kerrokset",
   "Folder": "Kansio",
   "folder_build_lib_help": "Vedä ja pudota harjoituksia kalenterista tai napsauta \u00022ee rakentaaksesi kirjastosi",
   "folder_confirm_del": "Haluatko varmasti {op} {name}?",

@@ -1309,6 +1309,7 @@
   "Flight Time": "Uçuş Süresi",
   "flight_ratio": "Uçuş süresi, tek bir adımın (uçuş süresi artı duruş süresi) yüzdesi olarak, adımın ne kadar zıplak olduğunu gösteren kompakt bir ölçüdür. Intervals.icu, yer teması süresini raporlayan her cihaz için bunu hesaplar. Bu, bir adımın payıdır, duruş süresi % ise tam adımın payıdır, bu yüzden ikisi toplamda %100 olmaz.",
   "flight_time": "Ayak darbeleri arasında her iki ayağın yerden kesildiği süre, milisaniye cinsinden. Intervals.icu, hem kadans hem de yer teması süresi mevcut olduğunda bunu hesaplar.",
+  "Floors Climbed": "Çıkılan Katlar",
   "Folder": "Klasör",
   "folder_build_lib_help": "Takvimden antrenmanları sürükleyip bırak veya kütüphaneni oluşturmak için ? tıkla",
   "folder_confirm_del": "{op} {name} yapmak istediğine emin misin?",

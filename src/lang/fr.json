@@ -1309,6 +1309,7 @@
   "Flight Time": "Temps de vol",
   "flight_ratio": "Temps de vol en pourcentage d'une seule foulée (temps de vol plus temps d'appui), une mesure compacte de la réactivité de la foulée. Intervals.icu le calcule pour chaque appareil qui rapporte le temps de contact au sol. C'est une part d'une foulée tandis que le pourcentage de temps d'appui est une part de la foulée complète, donc les deux ne totalisent pas 100 %.",
   "flight_time": "Le temps pendant lequel les deux pieds sont en l'air entre les contacts au sol, en millisecondes. Intervals.icu le calcule à partir de la cadence et du temps de contact au sol chaque fois que les deux sont disponibles.",
+  "Floors Climbed": "Étages gravis",
   "Folder": "Dossier",
   "folder_build_lib_help": "Faites glisser et déposez les entraînements depuis le calendrier ou cliquez sur ⋮ pour construire votre bibliothèque",
   "folder_confirm_del": "Êtes-vous sûr de vouloir {op} {name} ?",

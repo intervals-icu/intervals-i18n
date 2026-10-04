@@ -1309,6 +1309,7 @@
   "Flight Time": "飞行时间",
   "flight_ratio": "飞行时间占单步时间（飞行时间加支撑时间）的百分比，是衡量步幅弹性的简洁指标。Intervals.icu 对每个报告地面接触时间的设备都进行计算。它是单步时间的比例，而支撑时间百分比是整个步幅的比例，因此两者加起来不等于100%。",
   "flight_time": "两脚在脚步着地之间离地的时间，单位为毫秒。Intervals.icu 在同时获得步频和地面接触时间时计算该值。",
+  "Floors Climbed": "爬楼层数",
   "Folder": "文件夹",
   "folder_build_lib_help": "从日历中拖放训练，或点击  ⋮ 2ee 构建您的训练库",
   "folder_confirm_del": "您确定要{op} {name}吗？",

@@ -1309,6 +1309,7 @@
   "Flight Time": "Doba letu",
   "flight_ratio": "Doba letu ako percento jedného kroku (doba letu plus doba opory), kompaktné meradlo pružnosti kroku. Intervals.icu to vypočíta pre každé zariadenie, ktoré zaznamenáva dobu kontaktu so zemou. Je to podiel jedného kroku, zatiaľ čo doba opory % je podiel celého kroku, takže tieto dve hodnoty sa nesčítavajú na 100 %.",
   "flight_time": "Doba, počas ktorej sú obe nohy vo vzduchu medzi dopadmi chodidiel, v milisekundách. Intervals.icu to vypočíta z kadencie a doby kontaktu so zemou, keď sú obe dostupné.",
+  "Floors Climbed": "Poschodené poschodia",
   "Folder": "Priečinok",
   "folder_build_lib_help": "Presuňte tréningy z kalendára alebo kliknite na ⋮ 2ee, aby ste si vytvorili svoju knižnicu",
   "folder_confirm_del": "Ste si istý, že chcete {op} {name}?",

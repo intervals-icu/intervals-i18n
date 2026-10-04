@@ -1309,6 +1309,7 @@
   "Flight Time": "Czas lotu",
   "flight_ratio": "Czas lotu jako procent pojedynczego kroku (czas lotu plus czas podparcia), zwięzły wskaźnik sprężystości kroku. Intervals.icu oblicza go dla każdego urządzenia raportującego czas kontaktu z podłożem. Jest to udział jednego kroku, podczas gdy procent czasu podparcia to udział całego kroku, więc te dwie wartości nie sumują się do 100%.",
   "flight_time": "Czas, gdy obie stopy są uniesione nad ziemią między uderzeniami stóp, w milisekundach. Intervals.icu oblicza to na podstawie kadencji i czasu kontaktu z podłożem, gdy oba są dostępne.",
+  "Floors Climbed": "Piętra Wspięte",
   "Folder": "Folder",
   "folder_build_lib_help": "Przeciągnij i upuść treningi z kalendarza lub kliknij ⋮ 2ee, aby zbudować swoją bibliotekę",
   "folder_confirm_del": "Czy na pewno chcesz {op} {name}?",

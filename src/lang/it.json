@@ -1309,6 +1309,7 @@
   "Flight Time": "Tempo di volo",
   "flight_ratio": "Tempo di volo come percentuale di un singolo passo (tempo di volo più tempo di appoggio), una misura compatta di quanto il passo sia elastico. Intervals.icu lo calcola per ogni dispositivo che riporta il tempo di contatto a terra. È una quota di un passo mentre la % del tempo di appoggio è una quota dell'intera falcata, quindi le due non sommano al 100%.",
   "flight_time": "Il tempo in cui entrambi i piedi sono sollevati da terra tra due appoggi, in millisecondi. Intervals.icu lo calcola dalla cadenza e dal tempo di contatto a terra ogni volta che entrambi sono disponibili.",
+  "Floors Climbed": "Piani Saliti",
   "Folder": "Cartella",
   "folder_build_lib_help": "Trascina e rilascia gli allenamenti dal calendario o clicca ⋮ 2ee per costruire la tua libreria",
   "folder_confirm_del": "Sei sicuro di voler {op} {name}?",

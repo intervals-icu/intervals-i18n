@@ -1309,6 +1309,7 @@
   "Flight Time": "Čas letenja",
   "flight_ratio": "Čas letenja kot odstotek enega koraka (čas letenja plus čas stika s tlemi), kompaktna mera, kako odskakljiv je korak. Intervals.icu to izračuna za vsako napravo, ki poroča o času stika s tlemi. To je delež enega koraka, medtem ko je odstotek časa stika s tlemi delež celotnega koraka, zato se ti dve vrednosti ne seštevata do 100 %.",
   "flight_time": "Čas, ko sta obe nogi v zraku med udarci stopal, v milisekundah. Intervals.icu to izračuna iz kadence in časa stika s tlemi, kadar sta obe vrednosti na voljo.",
+  "Floors Climbed": "Prehojene stopnice",
   "Folder": "Mapa",
   "folder_build_lib_help": "Povlecite in spustite vadbe iz koledarja ali kliknite ⋮ 2ee, da sestavite svojo knjižnico",
   "folder_confirm_del": "Ali ste prepričani, da želite {op} {name}?",

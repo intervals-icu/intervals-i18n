@@ -1309,6 +1309,7 @@
   "Flight Time": "Tiempo de vuelo",
   "flight_ratio": "Tiempo de vuelo como porcentaje de un solo paso (tiempo de vuelo más tiempo de apoyo), una medida compacta de cuán elástico es el paso. Intervals.icu lo calcula para cada dispositivo que reporta el tiempo de contacto con el suelo. Es una proporción de un paso, mientras que el porcentaje de tiempo de apoyo es una proporción de la zancada completa, por lo que ambos no suman 100%.",
   "flight_time": "El tiempo durante el cual ambos pies están en el aire entre los impactos del pie, en milisegundos. Intervals.icu lo calcula a partir de la cadencia y el tiempo de contacto con el suelo siempre que ambos estén disponibles.",
+  "Floors Climbed": "Pisos Subidos",
   "Folder": "Carpeta",
   "folder_build_lib_help": "Arrastra y suelta entrenamientos desde el calendario o haz clic en ⋮ 2ee para construir tu biblioteca",
   "folder_confirm_del": "¿Estás seguro de que quieres {op} {name}?",

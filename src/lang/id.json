@@ -1309,6 +1309,7 @@
   "Flight Time": "Waktu Terbang",
   "flight_ratio": "Waktu terbang sebagai persentase dari satu langkah tunggal (waktu terbang ditambah waktu tumpuan), ukuran ringkas seberapa lentur langkahnya. Intervals.icu menghitungnya untuk setiap perangkat yang melaporkan waktu kontak tanah. Ini adalah bagian dari satu langkah sementara persentase waktu tumpuan adalah bagian dari langkah penuh, jadi keduanya tidak berjumlah 100%.",
   "flight_time": "Waktu kedua kaki tidak menyentuh tanah antara hentakan kaki, dalam milidetik. Intervals.icu menghitungnya dari kadensi dan waktu kontak tanah setiap kali keduanya tersedia.",
+  "Floors Climbed": "Lantai yang Didaki",
   "Folder": "Folder",
   "folder_build_lib_help": "Seret dan jatuhkan latihan dari kalender atau klik ⋮ 2ee untuk membangun perpustakaan Anda",
   "folder_confirm_del": "Apakah Anda yakin ingin {op} {name}?",

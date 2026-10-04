@@ -1309,6 +1309,7 @@
   "Flight Time": "Flight Time",
   "flight_ratio": "Flight time as a percentage of a single step (flight time plus stance time), a compact measure of how bouncy the stride is. Intervals.icu calculates it for every device that reports ground contact time. It is a share of one step while stance time % is a share of the full stride, so the two do not add up to 100%.",
   "flight_time": "The time both feet are off the ground between footstrikes, in milliseconds. Intervals.icu calculates it from cadence and ground contact time whenever both are available.",
+  "Floors Climbed": "Floors Climbed",
   "Folder": "Folder",
   "folder_build_lib_help": "Drag and drop workouts from the calendar or click ⋮ to build your library",
   "folder_confirm_del": "Are you sure you want to {op} {name}?",

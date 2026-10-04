@@ -1309,6 +1309,7 @@
   "Flight Time": "Repülési idő",
   "flight_ratio": "A repülési idő egy lépés százalékában (repülési idő plusz talajon töltött idő), egy tömör mérőszám arra, hogy mennyire rugalmas a lépés. Az Intervals.icu minden olyan eszközre kiszámítja, amely jelent talajfogási időt. Ez egy lépés része, míg a talajon töltött idő % a teljes lépés része, így a kettő nem ad össze 100%-ot.",
   "flight_time": "Az az idő, amikor mindkét láb a talaj felett van a lépések között, milliszekundumban. Az Intervals.icu a kadencia és a talajfogási idő alapján számítja ki, amikor mindkettő elérhető.",
+  "Floors Climbed": "Megmászott emeletek",
   "Folder": "Mappa",
   "folder_build_lib_help": "Húzza át az edzéseket a naptárból, vagy kattintson a ⋮ 2ee gombra a könyvtár felépítéséhez",
   "folder_confirm_del": "Biztosan szeretné {op} {name}?",

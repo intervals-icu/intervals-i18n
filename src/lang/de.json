@@ -1309,6 +1309,7 @@
   "Flight Time": "Flugzeit",
   "flight_ratio": "Flugzeit als Prozentsatz eines einzelnen Schrittes (Flugzeit plus Standzeit), ein kompakter Maßstab dafür, wie federnd der Schritt ist. Intervals.icu berechnet dies für jedes Gerät, das die Bodenkontaktzeit meldet. Es ist ein Anteil eines Schrittes, während die Standzeit % ein Anteil des gesamten Schrittes ist, daher ergeben die beiden zusammen nicht 100 %.",
   "flight_time": "Die Zeit, in der beide Füße zwischen den Bodenkontakten in der Luft sind, gemessen in Millisekunden. Intervals.icu berechnet dies aus der Kadenz und der Bodenkontaktzeit, sofern beide verfügbar sind.",
+  "Floors Climbed": "Erklimmte Stockwerke",
   "Folder": "Ordner",
   "folder_build_lib_help": "Ziehen Sie Workouts aus dem Kalender oder klicken Sie auf ⋮ 2ee, um Ihre Bibliothek zu erstellen",
   "folder_confirm_del": "Sind Sie sicher, dass Sie {op} {name} möchten?",

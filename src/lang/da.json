@@ -1309,6 +1309,7 @@
   "Flight Time": "Flyvetid",
   "flight_ratio": "Flyvetid som en procentdel af et enkelt skridt (flyvetid plus standtid), et kompakt mål for hvor fjederagtigt skridtet er. Intervals.icu beregner det for hver enhed, der rapporterer jordkontaktstid. Det er en andel af et skridt, mens standtid % er en andel af hele skridtet, så de to summerer ikke til 100 %.",
   "flight_time": "Den tid, begge fødder er fri af jorden mellem fodslag, i millisekunder. Intervals.icu beregner det ud fra kadence og jordkontaktstid, når begge er tilgængelige.",
+  "Floors Climbed": "Etager Bestiget",
   "Folder": "Mappe",
   "folder_build_lib_help": "Træk og slip træninger fra kalenderen eller klik ⋮ 2ee for at opbygge dit bibliotek",
   "folder_confirm_del": "Er du sikker p du vil {op} {name}?",
