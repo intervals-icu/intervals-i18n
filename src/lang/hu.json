@@ -1071,6 +1071,7 @@
   "Drivetrain": "Hajtáslánc",
   "Drop folders & plans here": "Dobd ide a mappákat és terveket",
   "Drop folders & plans here to share": "Dobd ide a mappákat és terveket a megosztáshoz",
+  "Drop here to cancel": "Engedje el itt a megszakításhoz",
   "Dropbox": "Dropbox",
   "dropbox_add_folders_to_download": "Adj hozzá mappákat a FIT, TCX és GPX fájlok letöltéséhez, vagy töltsd fel a tevékenységeket a Dropboxba",
   "dropbox_upload_folder_blurb": "Az Intervals.icu oldalra feltöltött összes tevékenység ide kerül (kivéve a Strava-t), és a fájlok törlődnek a tevékenységek törlésekor",

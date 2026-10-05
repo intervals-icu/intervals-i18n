@@ -1071,6 +1071,7 @@
   "Drivetrain": "Трансмиссия",
   "Drop folders & plans here": "Бросайте папки и планы сюда",
   "Drop folders & plans here to share": "Бросайте сюда папки и планы для совместного использования",
+  "Drop here to cancel": "Перетащите сюда, чтобы отменить",
   "Dropbox": "Dropbox",
   "dropbox_add_folders_to_download": "Добавьте папки для загрузки файлов FIT, TCX и GPX или выгрузки действий в Dropbox",
   "dropbox_upload_folder_blurb": "Все действия, загруженные на Intervals.icu, попадают сюда (кроме Strava), а файлы удаляются при удалении действий.",

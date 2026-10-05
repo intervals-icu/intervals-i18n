@@ -1071,6 +1071,7 @@
   "Drivetrain": "传动系统",
   "Drop folders & plans here": "将文件夹和计划放在这里",
   "Drop folders & plans here to share": "将文件夹和计划放在这里分享",
+  "Drop here to cancel": "拖到这里取消",
   "Dropbox": "Dropbox",
   "dropbox_add_folders_to_download": "添加文件夹以下载FIT、TCX和GPX文件或将活动上传到Dropbox",
   "dropbox_upload_folder_blurb": "所有上传到Intervals.icu的活动都在这里(Strava除外)，活动删除后文件也会被删除",

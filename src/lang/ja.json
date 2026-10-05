@@ -1071,6 +1071,7 @@
   "Drivetrain": "ドライブトレイン",
   "Drop folders & plans here": "フォルダやプランをここにドロップ",
   "Drop folders & plans here to share": "フォルダやプランをドロップするとシェア出来ます",
+  "Drop here to cancel": "ここにドロップしてキャンセル",
   "Dropbox": "Dropbox",
   "dropbox_add_folders_to_download": "FIT、TCX、GPXファイルを保存・ダウンロードするDropboxフォルダを追加してください",
   "dropbox_upload_folder_blurb": "Intervals.icuにアップロードされたすべてのアクティビティはここに移動し（Stravaを除く）、アクティビティが削除されるとファイルも削除されます。",
