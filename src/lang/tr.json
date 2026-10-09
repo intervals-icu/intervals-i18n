@@ -1391,6 +1391,8 @@
   "Garmin Connect": "Garmin Connect",
   "Garmin/Strava ID or filename": "Garmin/Strava ID veya dosya adı",
   "garmin_connect_replace_strava": "Garmin Connect’ten indirilen aktiviteler Strava’dakilerin yerini alır",
+  "garmin_data_via_api_link_text": "Daha fazla bilgi ve güncellemeler için lütfen forumları takip edin",
+  "garmin_data_via_api_warning": "Ne yazık ki Garmin kullanım şartları güncellendi ve yakında API üzerinden Garmin verilerine erişimi engellemek zorunda kalabiliriz. Herhangi bir duyuru veya bildirim almadık, yeni kullanım şartları Garmin geliştirici portalında aniden ortaya çıktı.",
   "garmin_download_activities_blurb": "Bu tarihte veya sonrasında oluşturulan aktiviteler Garmin Connect’ten indirilir. Bu biraz zaman alabilir. Veri Garmin API kısıtlamaları nedeniyle bir yıldan daha eski olamaz. Garmin dışı cihazlardan (örn. TrainerRoad) gelen aktiviteler Intervals.icu’ya aktarılmaz. Bunlar için Dropbox kullanabilirsin.",
   "garmin_dup_historical_data_request": "Garmin tarafından yinelenen tarihsel veri isteği reddedildi",
   "garmin_import_complete": "Garmin veri aktarımı tamamlandı",

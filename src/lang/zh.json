@@ -1391,6 +1391,8 @@
   "Garmin Connect": "Garmin Connect",
   "Garmin/Strava ID or filename": "Garmin/Strava ID或文件名",
   "garmin_connect_replace_strava": "从Garmin Connect下载的活动将替换Strava的活动",
+  "garmin_data_via_api_link_text": "欲了解更多信息和更新，请关注论坛",
+  "garmin_data_via_api_warning": "不幸的是，Garmin的条款和条件已更新，我们很可能很快将不得不通过API阻止访问Garmin数据。我们没有收到任何公告或通知，新的条款和条件出现在Garmin开发者门户中。",
   "garmin_download_activities_blurb": "在此日期或之后创建的活动会从Garmin Connect下载，这可能需要一些时间。由于Garmin API的限制，数据不能超过一年的时间。请注意，非Garmin设备(如TrainerRoad)的活动不会提供给Intervals.icu。请使用Dropbox获取这些数据",
   "garmin_dup_historical_data_request": "Garmin 拒绝了重复的历史数据请求",
   "garmin_import_complete": "Garmin数据导入完成",

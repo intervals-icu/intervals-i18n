@@ -1391,6 +1391,8 @@
   "Garmin Connect": "Garmin Connect",
   "Garmin/Strava ID or filename": "Garmin/Strava-tunnus tai tiedostonimi",
   "garmin_connect_replace_strava": "Garmin Connectista ladatut aktiviteetit korvaavat Stravasta ladatut",
+  "garmin_data_via_api_link_text": "Lisätietoja ja päivityksiä varten seuraa foorumeita",
+  "garmin_data_via_api_warning": "Valitettavasti Garminin käyttöehdot on päivitetty, ja on todennäköistä, että joudumme pian estämään pääsyn Garminin tietoihin API:n kautta. Emme saaneet mitään ilmoitusta tai tiedotetta, uudet käyttöehdot ilmestyivät Garminin kehittäjäportaalissa.",
   "garmin_download_activities_blurb": "Tämän päivämäärän jälkeen luodut aktiviteetit ladataan Garmin Connectista. Tämä voi kestää hetken. Tiedot eivät voi olla yli vuoden vanhoja Garminin API-rajoitusten vuoksi. Huomaa, että ei-Garmin-laitteiden (esim. TrainerRoad) aktiviteetteja ei toimiteta Intervals.icu:lle. Käytä näihin Dropboxia.",
   "garmin_dup_historical_data_request": "Kaksoiskappale historiallisesta tietopyynnöstä hylätty Garminin toimesta",
   "garmin_import_complete": "Garmin-tietojen tuonti valmis",

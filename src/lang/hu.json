@@ -1391,6 +1391,8 @@
   "Garmin Connect": "Garmin Connect",
   "Garmin/Strava ID or filename": "Garmin/Strava azonosító vagy fájlnév",
   "garmin_connect_replace_strava": "A Garmin Connectről letöltött tevékenységek lecserélik a Strava-ról letöltötteket",
+  "garmin_data_via_api_link_text": "További információkért és frissítésekért kérjük, figyelje a fórumokat",
+  "garmin_data_via_api_warning": "Sajnos a Garmin általános szerződési feltételei frissültek, és valószínű, hogy hamarosan le kell tiltanunk a Garmin adatokhoz való hozzáférést az API-n keresztül. Nem kaptunk semmilyen bejelentést vagy értesítést, az új ÁSZF a Garmin fejlesztői portálon jelent meg.",
   "garmin_download_activities_blurb": "A Garmin Connect webhelyről az adott dátumon és az azt követő dátumokon levő tevékenységek letöltésre kerülnek. Ez eltarthat egy ideig. A Garmin API korlátozásai miatt a letöltött adatok nem ölelhetnek át egy évnél hosszab időtartományt. Felhívjuk figyelmedet, hogy a nem Garmin eszközökkel (pl. TrainerRoad) rögzített tevékenységek nem elérhetők az Intervals.icu számára. Azokhoz használd a Dropboxot közvetítőnek.",
   "garmin_dup_historical_data_request": "A Garmin elutasította a történelmi adatduplikációs kérelmet",
   "garmin_import_complete": "A Garmin adatok importálása befejeződött",

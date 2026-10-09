@@ -1391,6 +1391,8 @@
   "Garmin Connect": "Garmin Connect",
   "Garmin/Strava ID or filename": "Garmin/Strava ID・ファイル名",
   "garmin_connect_replace_strava": "Garmin Connectからダウンロードしたアクティビティは、Stravaからのものに置き換わります。",
+  "garmin_data_via_api_link_text": "詳細情報や最新情報については、フォーラムをご確認ください",
+  "garmin_data_via_api_warning": "残念ながら、ガーミンの利用規約が更新されたため、間もなくAPI経由でのガーミンデータへのアクセスをブロックせざるを得なくなる可能性があります。事前の告知や通知は一切なく、新しい利用規約がガーミンの開発者ポータルに突然掲載されていました。",
   "garmin_download_activities_blurb": "この日以降に作成されたアクティビティは、Garmin Connectからダウンロードされます。ダウンロードにはしばらく時間がかかる場合があります。Garmin APIの制限により、1年以上前のデータは使用できません。Garmin以外のデバイス（TrainerRoadなど）のアクティビティはIntervals.icuに取り込まれないことにはご注意ください。それらのデータの取り込みにはDropboxをご利用ください。",
   "garmin_dup_historical_data_request": "ガーミンにより、過去のデータの重複リクエストが却下された",
   "garmin_import_complete": "Garminデータのインポートが完了しました",

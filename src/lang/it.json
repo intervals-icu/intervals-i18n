@@ -1391,6 +1391,8 @@
   "Garmin Connect": "Garmin Connect",
   "Garmin/Strava ID or filename": "ID Garmin/Strava o nome file",
   "garmin_connect_replace_strava": "Le attività scaricate da Garmin Connect sostituiranno quelle di Strava",
+  "garmin_data_via_api_link_text": "Per ulteriori informazioni e aggiornamenti, si prega di monitorare i forum",
+  "garmin_data_via_api_warning": "Sfortunatamente i termini e condizioni di Garmin sono stati aggiornati ed è probabile che dovremo bloccare presto l'accesso ai dati Garmin tramite l'API. Non abbiamo ricevuto alcun annuncio o notifica, i nuovi T&C sono apparsi nel portale sviluppatori Garmin.",
   "garmin_download_activities_blurb": "Le attività create a partire da questa data vengono scaricate da Garmin Connect. Questo potrebbe richiedere un po' di tempo. I dati non possono essere più di un anno nel passato a causa delle restrizioni Garmin API. Si prega di notare che le attività da dispositivi non Garmin (ad esempio TrainerRoad) non vengono fornite a Intervals.icu. Usa Dropbox per queste.",
   "garmin_dup_historical_data_request": "Richiesta di dati storici duplicati rifiutata da Garmin",
   "garmin_import_complete": "Importazione dati Garmin completa",
