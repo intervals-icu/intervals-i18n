@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Czy na pewno chcesz odłączyć ten folder od Intervals.icu?",
   "confirm_update_sft_activities": "Czy na pewno chcesz ponownie obliczyć testy zmęczenia submaksymalnego na {n}? Do parametrów testu zostaną użyte aktualne ustawienia dla tego sportu.",
   "confirm_update_zones_activities": "Czy na pewno chcesz zaktualizować strefy na {n}? Wszelkie istniejące wartości FTP, W' i tempa progowego są zachowywane, tylko strefy są aktualizowane. Jeśli sport ma strefy HR, wtedy HR progowe i max HR są aktualizowane.",
+  "confirm_update_zones_activities_since": "To są aktywności dla tego sportu od {date} (początek bieżącego sezonu lub rok temu).",
   "Connect": "Połącz",
   "Connect Devices & Platforms": "Połącz urządzenia i platformy",
   "Connect Instructions": "Instrukcje połączenia",

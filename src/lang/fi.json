@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Haluatko varmasti poistaa tämän kansion linkityksen Intervals.icu:hun?",
   "confirm_update_sft_activities": "Haluatko varmasti laskea uudelleen submaksimaalisten väsymystestien tulokset kohdassa {n}? Testin parametreina käytetään lajin nykyisiä asetuksia.",
   "confirm_update_zones_activities": "Haluatko varmasti päivittää alueet kohteessa {n}? Kaikki olemassa olevat FTP-, W'- ja kynnysnopeusarvot säilytetään, vain alueet päivitetään. Jos lajissa on sykealueet, kynnys- ja maksimaalinen syke päivitetään.",
+  "confirm_update_zones_activities_since": "Nämä ovat tämän lajin aktiviteetit ajalta {date} (nykyisen kauden alusta tai vuosi sitten).",
   "Connect": "Yhdistä",
   "Connect Devices & Platforms": "Yhdistä laitteet ja alustat",
   "Connect Instructions": "Yhdistämisohjeet",

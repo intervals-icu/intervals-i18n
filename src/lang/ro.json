@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Sigur dorești să deconectezi acest folder de la Intervals.icu?",
   "confirm_update_sft_activities": "Ești sigur că vrei să recalculi testele de oboseală sub-maximale pe {n}? Setările curente pentru sport vor fi folosite pentru parametrii testului.",
   "confirm_update_zones_activities": "Sigur dorești să actualizezi zonele din {n}? Se păstrează toate valorile existente ale FTP, W’ și ale pragului, doar zonele sunt actualizate. Dacă sportul are zone HR atunci pragul HR și max HR sunt actualizate.",
+  "confirm_update_zones_activities_since": "Acestea sunt activitățile pentru acest sport începând cu {date} (începutul sezonului curent sau acum un an).",
   "Connect": "Conectare",
   "Connect Devices & Platforms": "Conectează dispozitivele și platformele",
   "Connect Instructions": "Instrucțiuni de conectare",

@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Ali ste prepričani, da želite prekiniti povezavo te mape z Intervals.icu?",
   "confirm_update_sft_activities": "Ali ste prepričani, da želite ponovno izračunati submaksimalne teste utrujenosti na {n}? Za parametre testa bodo uporabljene trenutne nastavitve za šport.",
   "confirm_update_zones_activities": "Ali ste prepričani, da želite posodobiti območja na {n}? Vse obstoječe vrednosti FTP, W' in prag tempa se ohranijo, posodobijo se samo območja. Če ima šport HR cone, se posodobita HR prag in maksimalni HR.",
+  "confirm_update_zones_activities_since": "To so dejavnosti za ta šport od {date} (začetek trenutne sezone ali eno leto nazaj).",
   "Connect": "Povežite",
   "Connect Devices & Platforms": "Poveži naprave in platforme",
   "Connect Instructions": "Navodila za povezovanje",

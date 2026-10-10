@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Naozaj chcete tento priečinok odpojiť od Intervals.icu?",
   "confirm_update_sft_activities": "Ste si istí, že chcete prepočítať submaximálne testy únavy na {n}? Pre parametre testu sa použijú aktuálne nastavenia pre daný šport.",
   "confirm_update_zones_activities": "Naozaj chcete aktualizovať zóny v doméne {n}? Všetky existujúce hodnoty FTP, W' a prahové hodnoty tempa sa zachovajú, aktualizujú sa len zóny. Ak má šport zóny HR, aktualizujú sa prahové hodnoty HR a max. HR.",
+  "confirm_update_zones_activities_since": "Toto sú aktivity pre tento šport od {date} (začiatok aktuálnej sezóny alebo pred rokom).",
   "Connect": "Pripojte sa",
   "Connect Devices & Platforms": "Pripojiť zariadenia a platformy",
   "Connect Instructions": "Pokyny na pripojenie",

@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Are you sure you want to unlink this folder from Intervals.icu?",
   "confirm_update_sft_activities": "Are you sure you want to recalculate sub-maximal fatigue tests on {n}? The current settings for the sport will be used for the test parameters.",
   "confirm_update_zones_activities": "Are you sure you want to update zones on {n}? Any existing FTP, W' and threshold pace values are kept, only the zones are updated. If the sport has HR zones then threshold HR and max HR are updated.",
+  "confirm_update_zones_activities_since": "These are the activities for this sport since {date} (the start of the current season or one year ago).",
   "Connect": "Connect",
   "Connect Devices & Platforms": "Connect Devices & Platforms",
   "Connect Instructions": "Connect Instructions",

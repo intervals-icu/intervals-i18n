@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "本当にこのフォルダをIntervals.icuから連携解除しますか？",
   "confirm_update_sft_activities": " {n}での亜最大疲労テストを再計算してもよろしいですか？テストのパラメータには、そのスポーツの現在の設定が使用されます。",
   "confirm_update_zones_activities": "{n}のゾーンを更新します。設定済みのFTP・W'・LTペースの値は残り、ゾーンだけが更新されます。このスポーツに心拍ゾーンが設定されている場合は、乳酸閾値心拍数と最大心拍数も更新されます。よろしいですか？",
+  "confirm_update_zones_activities_since": "これらは、 {date} （今シーズンの開幕、または1年前）以降のこのスポーツに関する活動です。",
   "Connect": "接続",
   "Connect Devices & Platforms": "デバイスとプラットフォームの接続",
   "Connect Instructions": "接続手順",

@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Apakah Anda yakin ingin memutuskan tautan folder ini dari Intervals.icu?",
   "confirm_update_sft_activities": "Apakah Anda yakin ingin menghitung ulang tes kelelahan sub-maksimal pada {n}? Pengaturan saat ini untuk olahraga akan digunakan sebagai parameter tes.",
   "confirm_update_zones_activities": "Apakah Anda yakin ingin memperbarui zona pada {n}? Nilai FTP, W' dan ambang batas kecepatan yang ada akan tetap dipertahankan, hanya zona yang diperbarui. Jika olahraga memiliki zona HR, maka ambang batas HR dan HR maksimal akan diperbarui.",
+  "confirm_update_zones_activities_since": "Ini adalah aktivitas untuk olahraga ini sejak {date} (awal musim saat ini atau satu tahun yang lalu).",
   "Connect": "Hubungkan",
   "Connect Devices & Platforms": "Hubungkan Perangkat & Platform",
   "Connect Instructions": "Petunjuk Koneksi",

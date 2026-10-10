@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "确定从Intervals.icu中取消这个文件夹的链接？",
   "confirm_update_sft_activities": "您确定要重新计算 {n} 上的亚最大疲劳测试吗？测试参数将使用该运动的当前设置。",
   "confirm_update_zones_activities": "确定更新 {n} 区间？任何现有FTP、W'和阈值配速都将被保留，只有区间被更新。如果该运动有心率区间，阈值心率和最大心率将被更新",
+  "confirm_update_zones_activities_since": "自 {date} 起（本赛季开始或一年前），该运动的活动如下。",
   "Connect": "连接",
   "Connect Devices & Platforms": "连接设备和平台",
   "Connect Instructions": "连接说明",

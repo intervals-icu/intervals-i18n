@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Bu klasörü Intervals.icu’dan ayırmak istediğine emin misin?",
   "confirm_update_sft_activities": "{n} üzerinde alt-maksimal yorgunluk testlerini yeniden hesaplamak istediğinizden emin misiniz? Test parametreleri için mevcut spor ayarları kullanılacaktır.",
   "confirm_update_zones_activities": "{n} üzerindeki bölgeleri güncellemek istediğine emin misin? Mevcut FTP, W’ ve eşik tempo değerleri korunur, yalnızca bölgeler güncellenir. Sporun nabız bölgeleri varsa eşik nabız ve maksimum nabız güncellenir.",
+  "confirm_update_zones_activities_since": "Bunlar, bu spor için {date} tarihinden itibaren yapılan aktiviteler (mevcut sezonun başlangıcı veya bir yıl öncesi).",
   "Connect": "Bağlan",
   "Connect Devices & Platforms": "Cihazları ve Platformları Bağla",
   "Connect Instructions": "Bağlantı Talimatları",

@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Êtes-vous sûr(e) de vouloir dissocier ce dossier de Intervals.icu ?",
   "confirm_update_sft_activities": "Êtes-vous sûr de vouloir recalculer les tests de fatigue sous-maximaux sur {n} ? Les paramètres actuels du sport seront utilisés pour les paramètres du test.",
   "confirm_update_zones_activities": "Etes-vous sûr(e) de vouloir mettre à jour les zones sur {n} ? Toutes les valeurs FTP, W' et d'allure seuil existantes sont conservées, seules les zones sont mises à jour. Si le sport comporte des zones de FC, le seuil de FC et la FC maximale sont mis à jour.",
+  "confirm_update_zones_activities_since": "Voici les activités pour ce sport depuis le {date} (le début de la saison en cours ou il y a un an).",
   "Connect": "Connecter",
   "Connect Devices & Platforms": "Connecter les appareils et plateformes",
   "Connect Instructions": "Instructions de connexion",

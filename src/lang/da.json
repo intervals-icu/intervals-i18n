@@ -830,6 +830,7 @@
   "confirm_unlink_folder": "Er du sikker på, at du vil fjerne linket til denne mappe fra Intervals.icu?",
   "confirm_update_sft_activities": "Er du sikker på, at du vil genberegne submaksimale træthedstests på {n}? De nuværende indstillinger for sporten vil blive brugt til testparametrene.",
   "confirm_update_zones_activities": "Er du sikker på, at du vil opdatere zoner på {n}? Eventuelle eksisterende FTP-, W'- og tærskeltempoværdier bevares, kun zonerne opdateres. Hvis sporten har HR-zoner, opdateres tærskel HR og maks HR.",
+  "confirm_update_zones_activities_since": "Dette er aktiviteterne for denne sport siden {date} (starten af den nuværende sæson eller for et år siden).",
   "Connect": "Forbind",
   "Connect Devices & Platforms": "Forbind enheder og platforme",
   "Connect Instructions": "Forbindelsesvejledning",
