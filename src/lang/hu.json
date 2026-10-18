@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Szénhidrát óránként",
   "carbs_used": "CHO Felhasználva",
   "carbs_used_blurb": "A szénhidrát-használat a TSS modell alapján kerül kiszámításra\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">ebben a Rothschild et al. által írt cikkben</a>. További információkért nézd meg <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">ezt a fórum bejegyzést</a>.",
+  "carbs_used_calc": "CHO számítás",
   "carbs_used_title": "Szénhidrát felhasználás grammban",
   "Card": "Kártya",
   "Cassette": "Fogaskoszorú",

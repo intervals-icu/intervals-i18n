@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Вуглеводів на годину",
   "carbs_used": "Викор. вуглеводів",
   "carbs_used_blurb": "Утилізація вуглеводів розраховується за допомогою моделі TSS з\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">цієї статті Ротшильда та ін</a>. Для отримання додаткової інформації дивіться <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">цьому повідомленні на форумі</a>.",
+  "carbs_used_calc": "Розрах. вуглеводів",
   "carbs_used_title": "Утилізація вуглеводів в грамах",
   "Card": "Картка",
   "Cassette": "Касета",

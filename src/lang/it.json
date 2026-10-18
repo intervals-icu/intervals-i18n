@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Carboidrati all'ora",
   "carbs_used": "CHO Utilizzato",
   "carbs_used_blurb": "L'utilizzo dei carboidrati è calcolato utilizzando il modello TSS da\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">questo articolo di Rothschild et al</a>. Per ulteriori informazioni, consulta <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">questo post del forum</a>.",
+  "carbs_used_calc": "Calcolo CHO",
   "carbs_used_title": "Utilizzo dei carboidrati in grammi",
   "Card": "Carta",
   "Cassette": "Cassetta",

@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Carbohydrates per hour",
   "carbs_used": "CHO Used",
   "carbs_used_blurb": "Carbohydrate utilisation is calculated using the TSS model from\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">this paper by Rothschild et al</a>. For more information look at <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">this forum post</a>.",
+  "carbs_used_calc": "CHO Used Calc",
   "carbs_used_title": "Carbohydrate utilisation in grams",
   "Card": "Card",
   "Cassette": "Cassette",

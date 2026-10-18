@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Углеводы в час",
   "carbs_used": "CHO Используемый",
   "carbs_used_blurb": "Использование углеводов рассчитывается с использованием модели TSS из\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">этой статьи Ротшильда и др.<\\/a>. Для получения дополнительной информации смотрите <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">этот пост на форуме<\\/a>.",
+  "carbs_used_calc": "Расчёт CHO",
   "carbs_used_title": "Использование углеводов в граммах",
   "Card": "Карта",
   "Cassette": "Кассета",

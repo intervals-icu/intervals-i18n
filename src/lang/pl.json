@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Węglowodany na godzinę",
   "carbs_used": "CHO Użyte",
   "carbs_used_blurb": "Wykorzystanie węglowodanów oblicza się za pomocą modelu TSS z\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">tego artykułu autorstwa Rothschilda i in.<\\/a> Aby uzyskać więcej informacji, zapoznaj się z <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">tym postem na forum<\\/a>.",
+  "carbs_used_calc": "Obliczanie CHO",
   "carbs_used_title": "Wykorzystanie węglowodanów w gramach",
   "Card": "Karta",
   "Cassette": "Kaseta",

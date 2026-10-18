@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Υδατάνθρακες ανά ώρα",
   "carbs_used": "Υδατάνθρακες που χρησιμοποιήθηκαν",
   "carbs_used_blurb": "Η χρησιμοποίηση των υδατανθράκων υπολογίζεται χρησιμοποιώντας το μοντέλο TSS από\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">αυτή την εργασία των Rothschild et al</a>. Για περισσότερες πληροφορίες δείτε <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">αυτή την ανάρτηση στο φόρουμ</a>.",
+  "carbs_used_calc": "Υπολογισμός υδατανθράκων",
   "carbs_used_title": "Χρήση υδατανθράκων σε γραμμάρια",
   "Card": "Κάρτα",
   "Cassette": "Κασέτα",

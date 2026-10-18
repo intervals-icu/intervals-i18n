@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Glucides par heure",
   "carbs_used": "CHO utilisé",
   "carbs_used_blurb": "L'utilisation des glucides est calculée à l'aide du modèle TSS à partir de\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">cet article de Rothschild et al</a>. Pour plus d'informations, consultez <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">ce post du forum</a>.",
+  "carbs_used_calc": "Calcul CHO",
   "carbs_used_title": "Utilisation des glucides en grammes",
   "Card": "Carte",
   "Cassette": "Cassette",

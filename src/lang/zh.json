@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "每小时碳水化合物",
   "carbs_used": "碳水化合物消耗量",
   "carbs_used_blurb": "碳水化合物消耗量是使用 TSS 模型计算的，来自\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">Rothschild 等人的这篇论文</a>。有关更多信息，请查看 <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">这个论坛帖子</a>。",
+  "carbs_used_calc": "碳水消耗计算",
   "carbs_used_title": "碳水化合物消耗量（克）",
   "Card": "卡片",
   "Cassette": "飞轮",

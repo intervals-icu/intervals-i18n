@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Carbohidrați pe oră",
   "carbs_used": "CHO Utilizat",
   "carbs_used_blurb": "Utilizarea carbohidraților este calculată folosind modelul TSS din\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">această lucrare de Rothschild et al</a>. Pentru mai multe informații, consultați <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">această postare de pe forum</a>.",
+  "carbs_used_calc": "Calcul CHO",
   "carbs_used_title": "Utilizarea carbohidraților în grame",
   "Card": "card",
   "Cassette": "Casetă",

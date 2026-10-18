@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "時間あたりの炭水化物",
   "carbs_used": "消費される炭水化物",
   "carbs_used_blurb": "炭水化物の消費量は、<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">Rothschild et al による論文のTSSモデル</a>を利用して計算しています。詳細については、<a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">このフォーラムの投稿</a>で確認してください。",
+  "carbs_used_calc": "炭水化物計算",
   "carbs_used_title": "消費した炭水化物量（グラム単位）",
   "Card": "カード",
   "Cassette": "カセット",

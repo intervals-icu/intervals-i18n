@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Sacharidy za hodinu",
   "carbs_used": "Použité CHO",
   "carbs_used_blurb": "Využitie sacharidov sa vypočíta pomocou modelu TSS z <a href='https://link.springer.com/article/10.1007/s40279-024-02131-z' target='_blank'>tejto práce od Rothschild et al</a> Viac informácií nájdete v <a href='https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676' target='_blank'>tomto príspevku na fóre</a>",
+  "carbs_used_calc": "Výpočet CHO",
   "carbs_used_title": "Využitie sacharidov v gramoch",
   "Card": "Karta",
   "Cassette": "Kazeta",

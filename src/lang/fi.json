@@ -615,6 +615,7 @@
   "carbs_per_hour_title": "Hiilihydraatit tunnissa",
   "carbs_used": "Käytetty hiilihydraatti (CHO)",
   "carbs_used_blurb": "Hiilihydraattien käyttö lasketaan TSS-mallin avulla\n<a href=\"https://link.springer.com/article/10.1007/s40279-024-02131-z\" target=\"_blank\">tässä Rothschildin ym. artikkelissa</a>. Lisätietoja löytyy <a href=\"https://forum.intervals.icu/t/carb-utilisation-and-ingestion-on-activities/78676\" target=\"_blank\">tästä foorumipostauksesta</a>.",
+  "carbs_used_calc": "CHO-laskenta",
   "carbs_used_title": "Hiilihydraattien käyttö grammoina",
   "Card": "Kortti",
   "Cassette": "Kasetti",
