@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Seuranta Pyyntö",
   "Follower": "Seuraaja",
   "follower_api_access_blurb": "Salli valmentajiesi tai seuraajiesi käyttämien sovellusten käyttää tietojasi. He saavat sovelluksen kautta saman pääsyn kuin heillä on Intervals.icussa, joten valmentajat, jotka voivat muokata tietojasi, voivat tehdä muutoksia myös sovellusten kautta. Seuraajat saavat vain lukuoikeuden. Monet sovellukset käyttävät analyysissään tekoälyä, ja sallimalla pääsyn valmentajillesi tai seuraajillesi annat suostumuksesi tietojesi käsittelyyn tekoälyllä heidän sovelluksissaan. Voit perua pääsyn milloin tahansa muuttamalla tätä asetusta.",
+  "follower_api_access_note": "Näet valmentajasi ja seuraajasi sivulla {link}. Huomaa, että tämä asetus koskee myös tulevia valmentajia ja seuraajia.",
   "Followers": "Seuraajat",
   "Following": "Seurataan",
   "follows_you": "He seuraavat sinua",

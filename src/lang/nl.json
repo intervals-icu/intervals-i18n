@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Volg Verzoek",
   "Follower": "Volger",
   "follower_api_access_blurb": "Sta apps die door je coaches of volgers worden gebruikt toe om je gegevens te openen. Ze krijgen via de app dezelfde toegang als op Intervals.icu, dus coaches die je gegevens kunnen bewerken, kunnen ook wijzigingen aanbrengen via apps. Volgers krijgen alleen-lezen toegang. Veel apps gebruiken AI voor hun analyses, en door je coaches of volgers toegang te geven, stem je ermee in dat je gegevens door AI in hun apps worden verwerkt. Je kunt de toegang op elk moment intrekken door deze instelling te wijzigen.",
+  "follower_api_access_note": "Je kunt zien wie je coaches en volgers zijn op de pagina {link}. Let op: deze instelling geldt ook voor toekomstige coaches en volgers.",
   "Followers": "Volgers",
   "Following": "VOLGEN",
   "follows_you": "volgen je.",

@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Följförfrågan",
   "Follower": "Följare",
   "follower_api_access_blurb": "Ge appar som dina tränare eller följare använder åtkomst till dina data. De får samma åtkomst via appen som de har på Intervals.icu, så tränare som kan redigera dina data kan också göra ändringar via appar. Följare får endast läsåtkomst. Många appar använder AI i sin analys, och genom att ge dina tränare eller följare åtkomst samtycker du till att dina data behandlas av AI i deras appar. Du kan när som helst återkalla åtkomsten genom att ändra den här inställningen.",
+  "follower_api_access_note": "Du kan se vilka dina tränare och följare är på sidan {link}. Observera att den här inställningen även gäller framtida tränare och följare.",
   "Followers": "Följare",
   "Following": "Följer",
   "follows_you": "De följer dig",

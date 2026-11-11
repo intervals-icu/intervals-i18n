@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Richiesta di seguire",
   "Follower": "Follower",
   "follower_api_access_blurb": "Consenti alle app usate dai tuoi allenatori o follower di accedere ai tuoi dati. Tramite l'app ottengono lo stesso accesso che hanno su Intervals.icu, quindi gli allenatori che possono modificare i tuoi dati possono apportare modifiche anche tramite le app. I follower hanno accesso in sola lettura. Molte app usano l'IA nelle loro analisi e, consentendo l'accesso ai tuoi allenatori o follower, acconsenti al trattamento dei tuoi dati da parte dell'IA nelle loro app. Puoi revocare l'accesso in qualsiasi momento modificando questa impostazione.",
+  "follower_api_access_note": "Puoi vedere chi sono i tuoi allenatori e follower nella pagina {link}. Tieni presente che questa impostazione si applica anche ai futuri allenatori e follower.",
   "Followers": "Followers",
   "Following": "Seguendo",
   "follows_you": "ti seguono",

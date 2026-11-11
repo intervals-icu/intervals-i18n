@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Permintaan Ikuti",
   "Follower": "Pengikut",
   "follower_api_access_blurb": "Izinkan aplikasi yang digunakan oleh pelatih atau pengikut Anda untuk mengakses data Anda. Mereka mendapatkan akses yang sama melalui aplikasi seperti yang mereka miliki di Intervals.icu, sehingga pelatih yang dapat mengedit data Anda juga dapat membuat perubahan menggunakan aplikasi. Pengikut hanya mendapatkan akses baca. Banyak aplikasi menggunakan AI sebagai bagian dari analisisnya, dan dengan mengizinkan akses oleh pelatih atau pengikut Anda, berarti Anda menyetujui data Anda diproses oleh AI di aplikasi mereka. Anda dapat mencabut akses kapan saja dengan mengubah pengaturan ini.",
+  "follower_api_access_note": "Anda dapat melihat siapa pelatih dan pengikut Anda di halaman {link}. Perlu diketahui bahwa pengaturan ini juga berlaku untuk pelatih dan pengikut di masa mendatang.",
   "Followers": "Pengikut",
   "Following": "Mengikuti",
   "follows_you": "Sudah mengikuti Anda",

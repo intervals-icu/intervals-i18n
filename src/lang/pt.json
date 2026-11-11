@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Pedido de Seguimento",
   "Follower": "Seguidor",
   "follower_api_access_blurb": "Permita que as aplicações utilizadas pelos seus treinadores ou seguidores acedam aos seus dados. Obtêm através da aplicação o mesmo acesso que têm no Intervals.icu, pelo que os treinadores que podem editar os seus dados também podem fazer alterações através de aplicações. Os seguidores obtêm acesso apenas de leitura. Muitas aplicações utilizam IA nas suas análises e, ao permitir o acesso dos seus treinadores ou seguidores, consente que os seus dados sejam processados por IA nas aplicações deles. Pode revogar o acesso a qualquer momento alterando esta definição.",
+  "follower_api_access_note": "Pode ver quem são os seus treinadores e seguidores na página {link}. Tenha em atenção que esta definição também se aplica a futuros treinadores e seguidores.",
   "Followers": "Seguidores",
   "Following": "Seguindo",
   "follows_you": "Segue-o",

@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Cerere de urmărire",
   "Follower": "Urmăritor",
   "follower_api_access_blurb": "Permite aplicațiilor folosite de antrenorii sau urmăritorii tăi să acceseze datele tale. Prin aplicație, aceștia obțin același acces pe care îl au pe Intervals.icu, astfel încât antrenorii care îți pot edita datele pot face modificări și prin aplicații. Urmăritorii primesc acces doar în citire. Multe aplicații folosesc AI în analizele lor, iar permițând accesul antrenorilor sau urmăritorilor tăi, ești de acord ca datele tale să fie procesate de AI în aplicațiile lor. Poți revoca accesul oricând modificând această setare.",
+  "follower_api_access_note": "Poți vedea cine sunt antrenorii și urmăritorii tăi pe pagina {link}. Reține că această setare se aplică și viitorilor antrenori și urmăritori.",
   "Followers": "Urmăritori",
   "Following": "Urmărire",
   "follows_you": "Ei te urmăresc",

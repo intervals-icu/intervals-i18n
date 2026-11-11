@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Követési kérés",
   "Follower": "Követő",
   "follower_api_access_blurb": "Engedélyezd, hogy az edzőid vagy követőid által használt alkalmazások hozzáférjenek az adataidhoz. Az alkalmazáson keresztül ugyanazt a hozzáférést kapják, mint az Intervals.icu-n, így azok az edzők, akik szerkeszthetik az adataidat, alkalmazásokon keresztül is végezhetnek módosításokat. A követők csak olvasási hozzáférést kapnak. Sok alkalmazás mesterséges intelligenciát használ az elemzéshez, és ha hozzáférést adsz az edzőidnek vagy követőidnek, hozzájárulsz ahhoz, hogy az adataidat MI dolgozza fel az alkalmazásaikban. A hozzáférést bármikor visszavonhatod ennek a beállításnak a módosításával.",
+  "follower_api_access_note": "Az edzőidet és követőidet a(z) {link} oldalon láthatod. Ez a beállítás a jövőbeli edzőkre és követőkre is vonatkozik.",
   "Followers": "Követők",
   "Following": "Követés",
   "follows_you": "követ téged",

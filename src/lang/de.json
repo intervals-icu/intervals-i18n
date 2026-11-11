@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Folgeanfrage",
   "Follower": "Follower",
   "follower_api_access_blurb": "Erlaube Apps, die von deinen Coaches oder Followern genutzt werden, auf deine Daten zuzugreifen. Sie erhalten über die App denselben Zugriff, den sie auf Intervals.icu haben, d. h. Coaches, die deine Daten bearbeiten können, können auch über Apps Änderungen vornehmen. Follower erhalten nur Lesezugriff. Viele Apps nutzen KI für ihre Analysen, und wenn du deinen Coaches oder Followern Zugriff gewährst, stimmst du zu, dass deine Daten in ihren Apps von KI verarbeitet werden. Du kannst den Zugriff jederzeit widerrufen, indem du diese Einstellung änderst.",
+  "follower_api_access_note": "Wer deine Coaches und Follower sind, siehst du auf der Seite {link}. Bitte beachte, dass diese Einstellung auch für zukünftige Coaches und Follower gilt.",
   "Followers": "Follower",
   "Following": "Folgen",
   "follows_you": "Folgt dir",

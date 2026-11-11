@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Takip Talebi",
   "Follower": "Takipçi",
   "follower_api_access_blurb": "Antrenörlerinin veya takipçilerinin kullandığı uygulamaların verilerine erişmesine izin ver. Uygulama aracılığıyla Intervals.icu'daki erişimleriyle aynı erişime sahip olurlar; bu nedenle verilerini düzenleyebilen antrenörler uygulamaları kullanarak da değişiklik yapabilir. Takipçiler yalnızca okuma erişimi alır. Birçok uygulama analizlerinde yapay zekâ kullanır ve antrenörlerine veya takipçilerine erişim izni vermen, verilerinin onların uygulamalarında yapay zekâ tarafından işlenmesine onay verdiğin anlamına gelir. Bu ayarı değiştirerek erişimi istediğin zaman iptal edebilirsin.",
+  "follower_api_access_note": "Antrenörlerinin ve takipçilerinin kim olduğunu {link} sayfasında görebilirsin. Bu ayarın gelecekteki antrenörler ve takipçiler için de geçerli olduğunu unutma.",
   "Followers": "Takipçiler",
   "Following": "Takip Edilen",
   "follows_you": "Onlar seni takip ediyor",

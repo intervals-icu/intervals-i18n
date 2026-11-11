@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "关注请求",
   "Follower": "关注者",
   "follower_api_access_blurb": "允许你的教练或关注者使用的应用访问你的数据。他们通过应用获得的访问权限与在 Intervals.icu 上相同，因此可以编辑你数据的教练也可以通过应用进行更改。关注者仅获得只读访问权限。许多应用在分析中使用 AI，允许你的教练或关注者访问即表示你同意你的数据在他们的应用中由 AI 处理。你可以随时通过更改此设置撤销访问权限。",
+  "follower_api_access_note": "你可以在 {link} 页面查看你的教练和关注者。请注意，此设置也适用于以后的教练和关注者。",
   "Followers": "关注者",
   "Following": "关注",
   "follows_you": "他们关注了你",

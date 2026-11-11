@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Žiadosť o sledovanie",
   "Follower": "Nasledovník",
   "follower_api_access_blurb": "Povoľte aplikáciám, ktoré používajú vaši tréneri alebo nasledovníci, prístup k vašim údajom. Prostredníctvom aplikácie získajú rovnaký prístup, aký majú na Intervals.icu, takže tréneri, ktorí môžu upravovať vaše údaje, môžu pomocou aplikácií vykonávať aj zmeny. Nasledovníci získajú prístup iba na čítanie. Mnohé aplikácie využívajú pri analýze AI a povolením prístupu vašim trénerom alebo nasledovníkom súhlasíte so spracovaním vašich údajov pomocou AI v ich aplikáciách. Prístup môžete kedykoľvek zrušiť zmenou tohto nastavenia.",
+  "follower_api_access_note": "Kto sú vaši tréneri a nasledovníci, uvidíte na stránke {link}. Upozorňujeme, že toto nastavenie platí aj pre budúcich trénerov a nasledovníkov.",
   "Followers": "Nasledovníci",
   "Following": "Sledovanie",
   "follows_you": "Sledujú vás",

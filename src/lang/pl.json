@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Prośba o obserwację",
   "Follower": "Obserwujący",
   "follower_api_access_blurb": "Zezwól aplikacjom używanym przez Twoich trenerów lub obserwujących na dostęp do Twoich danych. Przez aplikację otrzymują taki sam dostęp, jaki mają w Intervals.icu, więc trenerzy, którzy mogą edytować Twoje dane, mogą również wprowadzać zmiany za pomocą aplikacji. Obserwujący otrzymują dostęp tylko do odczytu. Wiele aplikacji wykorzystuje AI w swoich analizach, a zezwalając na dostęp trenerom lub obserwującym, wyrażasz zgodę na przetwarzanie Twoich danych przez AI w ich aplikacjach. Dostęp możesz cofnąć w dowolnym momencie, zmieniając to ustawienie.",
+  "follower_api_access_note": "Swoich trenerów i obserwujących zobaczysz na stronie {link}. Pamiętaj, że to ustawienie dotyczy również przyszłych trenerów i obserwujących.",
   "Followers": "Obserwujący",
   "Following": "Obserwowani",
   "follows_you": "Obserwuje Cię",

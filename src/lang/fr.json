@@ -1348,6 +1348,7 @@
   "follow_req_push_title": "Demande de suivi",
   "Follower": "Abonné(e)",
   "follower_api_access_blurb": "Autorisez les applications utilisées par vos entraîneurs ou vos abonnés à accéder à vos données. Ils obtiennent via l'application le même accès que sur Intervals.icu : les entraîneurs qui peuvent modifier vos données peuvent donc aussi effectuer des modifications via des applications. Les abonnés ont un accès en lecture seule. De nombreuses applications utilisent l'IA dans leurs analyses, et autoriser l'accès à vos entraîneurs ou abonnés signifie que vous consentez au traitement de vos données par l'IA dans leurs applications. Vous pouvez révoquer l'accès à tout moment en modifiant ce paramètre.",
+  "follower_api_access_note": "Vous pouvez voir qui sont vos entraîneurs et abonnés sur la page {link}. Notez que ce paramètre s'applique aussi aux futurs entraîneurs et abonnés.",
   "Followers": "Abonnés",
   "Following": "Abonnements",
   "follows_you": "Il vous suit",
