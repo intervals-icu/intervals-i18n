@@ -29,6 +29,7 @@ to see what has actually changed.
 - Frederik (da)
 - Rodrigo Chogri Galli (pt-BR)
 - Tomáš Vančo (sk)
+- Per Häll (sv)
 
 (Your name here! Send me a PR!)
 
