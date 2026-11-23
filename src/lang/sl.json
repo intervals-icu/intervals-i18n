@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Povezava koledarja je bila kopirana v odložišče",
   "calendar_export_blurb": "Načrtovane treninge, dirke, počitnice in zapiske si lahko ogledate v katerem koli zunanjem koledarju, ki podpira naročanje na URL koledarja (Google, Microsoft, Apple itd.). Kliknite spodnjo povezavo, da jo kopirate v odložišče:",
   "calendar_export_blurb2": "Nato sledite <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">navodilom za ročno nastavitev iz TrainerRoad</a> , da dodate povezavo koledarja v svoj zunanji koledar. Upoštevajte, da opravljene aktivnosti in načrtovani treningi, starejši od enega tedna, niso vključeni.",
+  "Reset Link": "Ponastavi povezavo",
+  "calendar_reset_link_warning": "S tem ustvariš novo povezavo do koledarja, trenutna povezava pa preneha delovati. Zunanji koledarji, naročeni na trenutno povezavo, se ne bodo več posodabljali in vanje boš moral dodati novo povezavo. To naredi, če je bila povezava do tvojega koledarja deljena z nekom, ki je ne bi smel imeti.",
   "CALENDAR_scope_description": "Načrtovani treningi, opombe, dirke itd.",
   "Calendars": "Koledarji",
   "calories": "Število kilokalorij, porabljenih med aktivnostjo. To zagotavlja Strava, ki nato uporablja vrednost, ki jo zagotovijo njeni partnerji za nalaganje.",

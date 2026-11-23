@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Linkul de calendar copiat în clipboard",
   "calendar_export_blurb": "Poți vizualiza antrenamentele, cursele, sărbătorile și notițele în orice calendar extern care acceptă abonarea la o adresă URL a calendarului (Google, Microsoft, Apple etc.). Faceți clic pe linkul de mai jos pentru a-l copia în clipboard:",
   "calendar_export_blurb2": "Apoi urmează <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">instrucțiunile manuale de configurare de la TrainerRoad</a> pentru a adăuga linkul calendarului în calendarul extern. Reține că activitățile finalizate și antrenamentele planificate mai vechi de o săptămână nu sunt incluse.",
+  "Reset Link": "Resetează linkul",
+  "calendar_reset_link_warning": "Aceasta creează un nou link de calendar, iar linkul actual nu va mai funcționa. Calendarele externe abonate la linkul actual nu se vor mai actualiza și va trebui să le adaugi noul link. Fă acest lucru dacă linkul calendarului tău a fost partajat cu cineva care nu ar trebui să-l aibă.",
   "CALENDAR_scope_description": "Antrenamentele planificate, notițele, cursele etc.",
   "Calendars": "Calendare",
   "calories": "Numărul de kilocalorii arse în timpul activității. Acesta este furnizat de Strava, care la rândul său folosește valoarea furnizată de partenerii săi.",

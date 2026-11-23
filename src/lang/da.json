@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Kalenderlinket er blevet kopieret til udklipsholderen",
   "calendar_export_blurb": "Du kan se planlagte træningspas, løb, helligdage og noter i enhver ekstern kalender, der understøtter abonnement på en kalender-URL (Google, Microsoft, Apple osv.). Klik på linket nedenfor for at kopiere det til udklipsholderen:",
   "calendar_export_blurb2": "Følg derefter den <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">manuelle opsætningsinstruktioner fra TrainerRoad</a> for at tilføje kalenderlink til din eksterne kalender. Bemærk at gennemførte aktiviteter og planlagte træningspas mere end en uge gamle ikke er inkluderet.",
+  "Reset Link": "Nulstil link",
+  "calendar_reset_link_warning": "Dette opretter et nyt kalenderlink, og det nuværende link holder op med at virke. Eksterne kalendere, der abonnerer på det nuværende link, bliver ikke længere opdateret, og du skal tilføje det nye link til dem. Gør dette, hvis dit kalenderlink er blevet delt med nogen, der ikke burde have det.",
   "CALENDAR_scope_description": "Dine planlagte træninger, noter, løb osv.",
   "Calendars": "Kalendere",
   "calories": "Antallet af forbrændte kalorier under aktiviteten. Dette er leveret af Strava, som igen bruger værdien leveret af sine uploadpartnere.",

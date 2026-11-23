@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Odkaz na kalendár bol skopírovaný do schránky",
   "calendar_export_blurb": "Naplánované tréningy, preteky, sviatky a poznámky si môžete zobraziť v akomkoľvek externom kalendári, ktorý podporuje prihlásenie na adresu URL kalendára (Google, Microsoft, Apple atď.). Kliknutím na odkaz nižšie ho skopírujete do schránky",
   "calendar_export_blurb2": "Potom postupujte podľa <a href='https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export' target='_blank'>pokynov na manuálne nastavenie služby TrainerRoad</a> a pridajte odkaz na kalendár do svojho externého kalendára. Upozorňujeme, že dokončené aktivity a naplánované tréningy staršie ako týždeň nie sú zahrnuté'",
+  "Reset Link": "Obnoviť odkaz",
+  "calendar_reset_link_warning": "Týmto sa vytvorí nový odkaz na kalendár a súčasný odkaz prestane fungovať. Externé kalendáre prihlásené na súčasný odkaz sa už nebudú aktualizovať a budeš do nich musieť pridať nový odkaz. Urob to, ak bol tvoj odkaz na kalendár zdieľaný s niekým, kto by ho nemal mať.",
   "CALENDAR_scope_description": "Vaše plánované tréningy, poznámky, preteky atď.",
   "Calendars": "Kalendáre",
   "calories": "Množstvo kilokalórií spálených počas aktivity. Tento údaj poskytuje služba Strava, ktorá zase využíva hodnoty poskytnuté jej partnermi pre nahrávanie.",

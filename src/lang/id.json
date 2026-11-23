@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Tautan kalender telah disalin ke papan klip",
   "calendar_export_blurb": "Anda dapat melihat rencana latihan, balapan, hari libur, dan catatan di kalender eksternal apa pun yang mendukung berlangganan URL Kalender (Google, Microsoft, Apple, dll.). Klik tautan di bawah ini untuk menyalinnya ke papan klip:",
   "calendar_export_blurb2": "Kemudian ikuti petunjuk penyiapan manual <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">dari TrainerRoad</a> untuk menambahkan tautan kalender ke kalender eksternal Anda. Perhatikan bahwa aktivitas yang sudah selesai dan latihan yang direncanakan lebih dari seminggu tidak disertakan.",
+  "Reset Link": "Atur Ulang Tautan",
+  "calendar_reset_link_warning": "Ini membuat tautan kalender baru dan tautan saat ini berhenti berfungsi. Kalender eksternal yang berlangganan tautan saat ini tidak akan diperbarui lagi, dan kamu perlu menambahkan tautan baru ke kalender tersebut. Lakukan ini jika tautan kalendermu telah dibagikan kepada seseorang yang seharusnya tidak memilikinya.",
   "CALENDAR_scope_description": "Latihan yang direncanakan, catatan, balapan, dll.",
   "Calendars": "Kalender",
   "calories": "Jumlah kilokalori yang dibakar selama aktivitas. Ini disediakan oleh Strava yang pada gilirannya menggunakan nilai yang disediakan oleh mitra pengunggahnya.",

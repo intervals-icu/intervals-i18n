@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Takvim bağlantısı panoya kopyalandı",
   "calendar_export_blurb": "Planlı antrenmanlarını, yarışlarını, tatillerini ve notlarını Takvim URL’sini destekleyen herhangi bir harici takvimde (Google, Microsoft, Apple vb.) görüntüleyebilirsin. Panoya kopyalamak için aşağıdaki bağlantıya tıkla:",
   "calendar_export_blurb2": "Sonra TrainerRoad’un manuel kurulum talimatlarını takip ederek takvim bağlantısını harici takvimine ekle. Tamamlanmış aktiviteler ve bir haftadan eski planlı antrenmanlar dahil edilmez.",
+  "Reset Link": "Bağlantıyı Sıfırla",
+  "calendar_reset_link_warning": "Bu, yeni bir takvim bağlantısı oluşturur ve mevcut bağlantı çalışmayı durdurur. Mevcut bağlantıya abone olan harici takvimler artık güncellenmez ve yeni bağlantıyı onlara eklemen gerekir. Takvim bağlantın, sahip olmaması gereken biriyle paylaşıldıysa bunu yap.",
   "CALENDAR_scope_description": "Planlı antrenmanların, notların, yarışların vb.",
   "Calendars": "Takvimler",
   "calories": "Aktivite sırasında yakılan kilokalori miktarı. Bu değer Strava tarafından, yükleme ortaklarının sağladığı veriler kullanılarak hesaplanır.",

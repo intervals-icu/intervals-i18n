@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Naptár linkje átmásolva a vágólapra",
   "calendar_export_blurb": "A tervezett edzéseket, versenyeket, eseményeket és jegyzeteket megtekintheted bármely olyan külső naptárban, amely támogatja a naptár URL-címére való feliratkozást (Google, Microsoft, Apple stb.). Kattints az alábbi linkre a vágólapra másoláshoz:",
   "calendar_export_blurb2": "Ezután kövesd a <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">TrainerRoad kézi beállítási utasításait</a> , hogy hozzáadd a naptár linkjét a külső naptáradhoz. Vedd figyelembe, hogy a befejezett tevékenységeket és a tervezett edzéseket, amelyek több mint egy hetesek, nem tartalmazza.",
+  "Reset Link": "Hivatkozás visszaállítása",
+  "calendar_reset_link_warning": "Ez új naptárhivatkozást hoz létre, és a jelenlegi hivatkozás nem fog tovább működni. A jelenlegi hivatkozásra feliratkozott külső naptárak nem frissülnek tovább, és hozzá kell adnod hozzájuk az új hivatkozást. Tedd ezt, ha a naptárhivatkozásodat olyan valakivel osztották meg, akinek nem kellene hozzáférnie.",
   "CALENDAR_scope_description": "Az Ön tervezett edzései, megjegyzései, versenyei stb.",
   "Calendars": "Naptárak",
   "calories": "A tevékenység során elégetett kilokalóriák száma. Ezt a Strava szolgáltatja, amely viszont a feltöltési partnerei által biztosított értéket használja.",

@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Agenda-link is gekopieerd naar het klembord",
   "calendar_export_blurb": "Je kan geplande workouts, wedstrijden, vakanties en notities bekijken in elke externe agenda die een kalender-URL ondersteunt (Google, Microsoft, Apple etc.). Klik op de link hieronder om deze naar het klembord te kopiëren:",
   "calendar_export_blurb2": "Volg dan de <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">handmatige instellingsprocedure van TrainerRoad</a> om de agendalink aan je externe agenda toe te voegen. Merk op dat voltooide activiteiten en geplande workouts ouder dan een week niet worden opgenomen.",
+  "Reset Link": "Link resetten",
+  "calendar_reset_link_warning": "Hiermee wordt een nieuwe agendalink aangemaakt en werkt de huidige link niet meer. Externe agenda's die op de huidige link zijn geabonneerd, worden niet meer bijgewerkt en je moet de nieuwe link eraan toevoegen. Doe dit als je agendalink is gedeeld met iemand die hem niet zou mogen hebben.",
   "CALENDAR_scope_description": "Je geplande trainingen, notities, races, enz.",
   "Calendars": "Agenda's",
   "calories": "Het aantal kilocalorieën dat tijdens de activiteit werd verbrand. Data afkomstig van Strava, welke op zijn beurt de waarde gebruikt die door de uploadpartners wordt verstrekt.",

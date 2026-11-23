@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "日历链接已复制到剪贴板",
   "calendar_export_blurb": "你可以在任何支持订阅日历URL的外部日历(谷歌、微软、苹果等)中查看计划的训练、比赛、假期和笔记。点击下面的链接，将其复制到剪贴板",
   "calendar_export_blurb2": "然后按照<a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">TrainerRoad手动设置说明</a> ，将日历链接添加到你的外部日历。请注意，已完成的活动和超过一周的计划锻炼不包括在内",
+  "Reset Link": "重置链接",
+  "calendar_reset_link_warning": "这将创建一个新的日历链接，当前链接将失效。订阅当前链接的外部日历将不再更新，你需要将新链接添加到这些日历中。如果你的日历链接被分享给了不应拥有它的人，请执行此操作。",
   "CALENDAR_scope_description": "您计划的锻炼、笔记、比赛等",
   "Calendars": "日历",
   "calories": "活动期间消耗的热量，来自Strava提供的，而Strava又使用其合作伙伴提供的数值",

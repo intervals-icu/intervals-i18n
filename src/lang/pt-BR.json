@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "O link do calendário foi copiado para a área de transferência",
   "calendar_export_blurb": "Você pode visualizar treinos planejados, corridas, feriados e notas em qualquer calendário externo que suporte a assinatura de uma URL de calendário (Google, Microsoft, Apple, etc.). Clique no link abaixo para copiá-lo para a área de transferência:",
   "calendar_export_blurb2": "Em seguida, siga as <a href='https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export' target='_blank'>instruções de configuração manual do TrainerRoad</a> para adicionar o link do calendário ao seu calendário externo. Note que atividades concluídas e treinos planejados com mais de uma semana não são incluídos.",
+  "Reset Link": "Redefinir link",
+  "calendar_reset_link_warning": "Isso cria um novo link de calendário e o link atual para de funcionar. Calendários externos inscritos no link atual não serão mais atualizados, e você precisará adicionar o novo link a eles. Faça isso se o link do seu calendário foi compartilhado com alguém que não deveria tê-lo.",
   "CALENDAR_scope_description": "Seus treinos planejados, notas, corridas etc.",
   "Calendars": "Calendários",
   "calories": "O número de quilocalorias queimadas durante a atividade. Este valor é fornecido pelo Strava, que usa o valor fornecido por seus parceiros de upload.",

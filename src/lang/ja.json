@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "カレンダーのリンクがクリップボードにコピーされました",
   "calendar_export_blurb": "カレンダーURLの登録をサポートする外部カレンダー（Google、Microsoft、Appleなど）で、計画されたワークアウト、レース、休日、メモを表示することができます。下のリンクをクリックするとクリップボードにコピーされます。",
   "calendar_export_blurb2": "<a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">TrainerRoadからのマニュアル設定手順（英語）</a>に従って、カレンダーリンクを外部カレンダーに追加してください。なお、完了したアクティビティや1週間以上前の予定されたワークアウトは含まれません。",
+  "Reset Link": "リンクをリセット",
+  "calendar_reset_link_warning": "新しいカレンダーリンクが作成され、現在のリンクは使用できなくなります。現在のリンクを購読している外部カレンダーは更新されなくなるため、新しいリンクを追加し直す必要があります。カレンダーリンクを持つべきでない人と共有してしまった場合に実行してください。",
   "CALENDAR_scope_description": "計画したトレーニング、メモ、レースなど",
   "Calendars": "カレンダー",
   "calories": "アクティビティ中に消費されたキロカロリー数です。これはStravaに保存されている値で、Stravaはアップロードパートナーのアプリから提供された値を使用しています。",

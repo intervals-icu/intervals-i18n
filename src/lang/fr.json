@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Le lien du calendrier a été copié dans le presse-papiers",
   "calendar_export_blurb": "Vous pouvez afficher les entraînements planifiés, les courses, les vacances et les notes dans n'importe quel calendrier externe qui prend en charge la souscription à une URL de calendrier (Google, Microsoft, Apple, etc.). Cliquez sur le lien ci-dessous pour le copier dans le presse-papiers :",
   "calendar_export_blurb2": "Suivez ensuite les instructions <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">de configuration manuelle de TrainerRoad</a> pour ajouter le lien du calendrier à votre calendrier externe. Notez que les activités terminées et les entraînements planifiés datant de plus d'une semaine ne sont pas inclus.",
+  "Reset Link": "Réinitialiser le lien",
+  "calendar_reset_link_warning": "Cela crée un nouveau lien de calendrier et le lien actuel cesse de fonctionner. Les calendriers externes abonnés au lien actuel ne seront plus mis à jour et tu devras leur ajouter le nouveau lien. Fais-le si ton lien de calendrier a été partagé avec quelqu'un qui ne devrait pas l'avoir.",
   "CALENDAR_scope_description": "Vos entraînements planifiés, notes, courses, etc.",
   "Calendars": "Calendriers",
   "calories": "Le nombre de kilocalories brûlées pendant l'activité. Cette valeur est fournie par Strava qui utilise à son tour la valeur fournie par ses partenaires de téléchargement.",

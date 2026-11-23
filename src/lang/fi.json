@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Kalenterilinkki on kopioitu leikepöydälle",
   "calendar_export_blurb": "Voit tarkastella suunniteltuja harjoituksia, kilpailuja, lomia ja muistiinpanoja missä tahansa ulkoisessa kalenterissa, joka tukee kalenterin URL-osoitteen tilaamista (Google, Microsoft, Apple jne.). Napsauta alla olevaa linkkiä kopioidaksesi sen leikepöydälle:",
   "calendar_export_blurb2": "Seuraa sitten <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">TrainerRoadin manuaaliset asennusohjeet</a> lisätäksesi kalenterilinkin ulkoiseen kalenteriisi. Huomaa, että yli viikon vanhat aktiviteetit ja suunnitellut harjoitukset eivät tule mukaan.",
+  "Reset Link": "Nollaa linkki",
+  "calendar_reset_link_warning": "Tämä luo uuden kalenterilinkin, ja nykyinen linkki lakkaa toimimasta. Nykyiseen linkkiin tilatut ulkoiset kalenterit eivät enää päivity, ja sinun on lisättävä uusi linkki niihin. Tee tämä, jos kalenterilinkkisi on jaettu jollekulle, jolla sitä ei pitäisi olla.",
   "CALENDAR_scope_description": "Suunnitellut harjoituksesi, muistiinpanosi, kilpailusi jne.",
   "Calendars": "Kalenterit",
   "calories": "Aktiviteetin aikana kulutettujen kilokalorien määrä. Tieto tulee Stravalta, joka puolestaan käyttää palveluun aktiviteetteja lähettävien kumppaneidensa antamaa arvoa.",

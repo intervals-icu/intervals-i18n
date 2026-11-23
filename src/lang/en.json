@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Calendar link has been copied to the clipboard",
   "calendar_export_blurb": "You can view planned workouts, races, holidays and notes in any external calendar that supports subscribing to a Calendar URL (Google, Microsoft, Apple etc.). Click the link below to copy it to the clipboard:",
   "calendar_export_blurb2": "Then follow the <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">manual setup instructions from TrainerRoad</a> to add the calendar link to your external calendar. Note that completed activities and planned workouts more than a week old are not included.",
+  "Reset Link": "Reset Link",
+  "calendar_reset_link_warning": "This creates a new calendar link and the current link stops working. External calendars subscribed to the current link will no longer update, and you will need to add the new link to them. Do this if your calendar link has been shared with someone who should not have it.",
   "CALENDAR_scope_description": "Your planned workouts, notes, races etc.",
   "Calendars": "Calendars",
   "calories": "The number of kilocalories burned during the activity. This is supplied by Strava which in turn uses the value supplied by its upload partners.",

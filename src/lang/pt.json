@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "O link do calendário foi copiado para a área de transferência",
   "calendar_export_blurb": "Pode ver treinos, corridas, férias e notas planeadas em qualquer calendário externo que suporte a subscrição de um URL de Calendário (Google, Microsoft, Apple, etc.). Clique no link abaixo para o copiar para a área de transferência:",
   "calendar_export_blurb2": "Depois siga as <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">instruções de configuração manual do TrainerRoad</a> para adicionar a ligação do calendário ao seu calendário externo. Note que não estão incluídas actividades concluídas e treinos planeados com mais de uma semana.",
+  "Reset Link": "Repor ligação",
+  "calendar_reset_link_warning": "Isto cria uma nova ligação de calendário e a ligação atual deixa de funcionar. Os calendários externos subscritos à ligação atual deixarão de ser atualizados e terás de lhes adicionar a nova ligação. Faz isto se a ligação do teu calendário foi partilhada com alguém que não a devia ter.",
   "CALENDAR_scope_description": "Os seus treinos planeados, notas, corridas, etc.",
   "Calendars": "Calendários",
   "calories": "O número de quilocalorias queimadas durante a actividade.",

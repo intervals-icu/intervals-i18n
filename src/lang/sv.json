@@ -586,6 +586,8 @@
   "Calendar link has been copied to the clipboard": "Kalenderlänken har kopierats till urklipp",
   "calendar_export_blurb": "Du kan se planerade pass, tävlingar, ledighet och anteckningar i alla externa kalendrar som kan prenumerera på en kalender-URL (Google, Microsoft, Apple m.fl.). Klicka på länken nedan för att kopiera den till urklipp:",
   "calendar_export_blurb2": "Följ sedan <a href=\"https://support.trainerroad.com/hc/en-us/articles/360022469251-Calendar-Export\" target=\"_blank\">TrainerRoads instruktioner för manuell inställning</a> för att lägga till kalenderlänken i din externa kalender. Observera att genomförda aktiviteter och planerade pass som är äldre än en vecka inte ingår.",
+  "Reset Link": "Återställ länk",
+  "calendar_reset_link_warning": "Detta skapar en ny kalenderlänk och den nuvarande länken slutar fungera. Externa kalendrar som prenumererar på den nuvarande länken uppdateras inte längre, och du måste lägga till den nya länken i dem. Gör detta om din kalenderlänk har delats med någon som inte borde ha den.",
   "CALENDAR_scope_description": "Dina planerade pass, anteckningar, tävlingar m.m.",
   "Calendars": "Kalendrar",
   "calories": "Antal förbrukade kilokalorier under aktiviteten. Värdet kommer från Strava, som i sin tur använder värdet från sina uppladdningspartner.",
