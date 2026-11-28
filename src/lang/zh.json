@@ -2265,6 +2265,7 @@
   "otp_email_sent": "一封OTP邮件已经发送到 {0}，如果没有请检查垃圾邮件文件夹",
   "otp_has_been_used": "OTP已经被使用",
   "otp_has_expired": "OTP已过期，请重新申请",
+  "oura_reconnect_scope_blurb": "Oura 需要额外权限才能下载{fields}。现在重新连接 Oura 吗？",
   "Outdoor": "户外",
   "Outdoor power range": "户外功率范围",
   "outdoor_power_range": "有确切功率目标的户外训练步骤被转换为目标功率的正/负这个百分比的范围",

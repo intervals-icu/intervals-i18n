@@ -2267,6 +2267,7 @@
   "otp_email_sent": "An OTP email has been sent to {0}, if you don't see it please check your spam folder",
   "otp_has_been_used": "OTP has already been used",
   "otp_has_expired": "OTP has expired, please request a new one",
+  "oura_reconnect_scope_blurb": "Oura needs extra permission to download {fields}. Reconnect to Oura now?",
   "Outdoor": "Outdoor",
   "Outdoor power range": "Outdoor power range",
   "outdoor_power_range": "Outdoor workout steps with exact power targets are converted into ranges of plus/minus this percentage of the target power",

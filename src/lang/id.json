@@ -2265,6 +2265,7 @@
   "otp_email_sent": "Email OTP telah dikirim ke {0}, jika Anda tidak melihatnya, silakan periksa folder spam Anda",
   "otp_has_been_used": "OTP telah digunakan",
   "otp_has_expired": "OTP telah kedaluwarsa, silakan minta yang baru",
+  "oura_reconnect_scope_blurb": "Oura memerlukan izin tambahan untuk mengunduh {fields}. Hubungkan ulang ke Oura sekarang?",
   "Outdoor": "Outdoor",
   "Outdoor power range": "Rentang daya Outdoor",
   "outdoor_power_range": "Langkah-langkah latihan Outdoor dengan target daya yang tepat dikonversi ke dalam rentang plus/minus persentase target daya ini",

@@ -2265,6 +2265,7 @@
   "otp_email_sent": "OTPメールが{0}に送信されました。もし表示されない場合は、迷惑メールフォルダをご確認ください。",
   "otp_has_been_used": "OTPはすでに使用済みです",
   "otp_has_expired": "OTPの有効期限が切れているため、新しく申請しなおしてください",
+  "oura_reconnect_scope_blurb": "{fields} をダウンロードするには Oura の追加の許可が必要です。今すぐ Oura に再接続しますか？",
   "Outdoor": "アウトドア",
   "Outdoor power range": "アウトドアでのパワー範囲",
   "outdoor_power_range": "具体的な目標パワー値を設定した屋外ワークアウトのステップを、目標パワー値に対する±何％に換算して表示します。r",

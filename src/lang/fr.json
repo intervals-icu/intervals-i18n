@@ -2265,6 +2265,7 @@
   "otp_email_sent": "Un email OTP a été envoyé à {0}, si vous ne le voyez pas, vérifiez votre dossier spam",
   "otp_has_been_used": "L'OTP a déjà été utilisé",
   "otp_has_expired": "L'OTP a expiré, veuillez en demander un nouveau",
+  "oura_reconnect_scope_blurb": "Oura a besoin d’une autorisation supplémentaire pour télécharger {fields}. Se reconnecter à Oura maintenant ?",
   "Outdoor": "Extérieur",
   "Outdoor power range": "Plage de puissance extérieure",
   "outdoor_power_range": "Les étapes de l'entraînement en extérieur avec des objectifs de puissance précis sont converties en plages de plus/moins ce pourcentage de la puissance cible",

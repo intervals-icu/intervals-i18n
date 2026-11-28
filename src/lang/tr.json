@@ -2265,6 +2265,7 @@
   "otp_email_sent": "{0} adresine bir OTP e-postası gönderildi, görmüyorsan spam klasörünü kontrol et",
   "otp_has_been_used": "OTP zaten kullanıldı",
   "otp_has_expired": "OTP’nin süresi doldu, lütfen yeni bir tane iste",
+  "oura_reconnect_scope_blurb": "Oura, {fields} verilerini indirmek için ek izne ihtiyaç duyuyor. Oura'ya şimdi yeniden bağlanılsın mı?",
   "Outdoor": "Dış Mekân",
   "Outdoor power range": "Dış mekân güç aralığı",
   "outdoor_power_range": "Dış mekân antrenman adımlarında belirlenen güç hedefleri, burada belirlediğiniz yüzde oranında +/- olarak hedef aralığı şeklinde aktarılır.",

@@ -2265,6 +2265,7 @@
   "otp_email_sent": "Egy e-mailt küldtünk a {0} címre az egyszer-használatos kódoddal (OTP-vel) , ha nem látod, kérjük, ellenőrizd a spam mappád.",
   "otp_has_been_used": "Az egyszer-használatos OTP kódot már felhasználták",
   "otp_has_expired": "Az egyszer-használatos OTP kód  lejárt, kérjük, kérj újat.",
+  "oura_reconnect_scope_blurb": "Az Ourának további engedély kell a következők letöltéséhez: {fields}. Újracsatlakozol most az Ourához?",
   "Outdoor": "Szabadtéri",
   "Outdoor power range": "Szabadtéri teljesítménytartomány",
   "outdoor_power_range": "A pontos teljesítménycélokkal rendelkező szabadtéri edzéslépéseket a cél teljesítmény plusz/mínusz tartományaiba adjuk meg",

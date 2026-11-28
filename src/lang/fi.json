@@ -2265,6 +2265,7 @@
   "otp_email_sent": "OTP-sähköposti on lähetetty osoitteeseen {0}, jos et näe sitä, tarkista roskapostikansiosi",
   "otp_has_been_used": "OTP on jo käytetty",
   "otp_has_expired": "OTP on vanhentunut, pyydä uusi",
+  "oura_reconnect_scope_blurb": "Oura tarvitsee lisäluvan tietojen {fields} lataamiseen. Yhdistetäänkö Ouraan uudelleen nyt?",
   "Outdoor": "Ulkona",
   "Outdoor power range": "Ulkotehoalue",
   "outdoor_power_range": "Ulkoharjoitusten intervallit, joilla on tarkka tehotavoite, muutetaan vaihteluväliksi, joka on tavoitetehosta plus/miinus tämän verran prosentteina",

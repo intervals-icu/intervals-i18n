@@ -2265,6 +2265,7 @@
   "otp_email_sent": "E-mail s OTP bol odoslaný na adresu {0}, ak ho nevidíte, skontrolujte si priečinok so spamom",
   "otp_has_been_used": "OTP už bolo použité",
   "otp_has_expired": "Platnosť OTP vypršala, vyžiadajte si nový",
+  "oura_reconnect_scope_blurb": "Oura potrebuje ďalšie povolenie na stiahnutie {fields}. Znova sa pripojiť k Oura?",
   "Outdoor": "Vonku",
   "Outdoor power range": "Vonkajší rozsah výkonu",
   "outdoor_power_range": "Kroky v tréningu vonku s presnými silovými cieľmi sa prepočítavajú na rozsahy plus/mínus toto percento cieľového výkonu",

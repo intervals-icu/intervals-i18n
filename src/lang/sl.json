@@ -2265,6 +2265,7 @@
   "otp_email_sent": "E-poštno sporočilo OTP je bilo poslano na {0}, če ga ne vidite, preverite mapo z vsiljeno pošto",
   "otp_has_been_used": "OTP je bil že uporabljen",
   "otp_has_expired": "OTP je potekel, zahtevajte novega",
+  "oura_reconnect_scope_blurb": "Oura potrebuje dodatno dovoljenje za prenos {fields}. Želite znova vzpostaviti povezavo z Oura?",
   "Outdoor": "Na prostem",
   "Outdoor power range": "Zunanji razpon moči",
   "outdoor_power_range": "Koraki zunanjega treninga z natančnimi cilji moči se pretvorijo v razpone plus/minus ta odstotek ciljne moči",

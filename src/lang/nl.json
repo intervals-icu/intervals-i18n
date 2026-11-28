@@ -2265,6 +2265,7 @@
   "otp_email_sent": "Een OTP e-mail is verzonden naar {0}, als je deze niet in je inbox ziet, controleer dan uw spam folder",
   "otp_has_been_used": "OTP is al gebruikt",
   "otp_has_expired": "OTP is verlopen, vraag een nieuwe aan",
+  "oura_reconnect_scope_blurb": "Oura heeft extra toestemming nodig om {fields} te downloaden. Nu opnieuw verbinden met Oura?",
   "Outdoor": "Outdoor",
   "Outdoor power range": "Outdoor vermogensbereik",
   "outdoor_power_range": "Workoutstappen voor outdoor met exacte vermogensdoelstellingen worden omgezet in bereiken van ongeveer dit percentage van het doelvermogen",

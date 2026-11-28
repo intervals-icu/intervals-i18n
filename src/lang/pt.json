@@ -2265,6 +2265,7 @@
   "otp_email_sent": "Um e-mail OTP foi enviado para {0}, se não o vir por favor verifique a sua pasta de spam",
   "otp_has_been_used": "OTP já foi utilizado",
   "otp_has_expired": "OTP expirou, por favor solicite um novo",
+  "oura_reconnect_scope_blurb": "O Oura precisa de permissão adicional para transferir {fields}. Voltar a ligar ao Oura agora?",
   "Outdoor": "Exterior",
   "Outdoor power range": "Intervalo de potência no exterior",
   "outdoor_power_range": "Os treinos ao ar livre com alvos de potência exactos são convertidas em intervalos de mais/menos esta percentagem da potência alvo",

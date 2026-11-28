@@ -2265,6 +2265,7 @@
   "otp_email_sent": "Un e-mail OTP a fost trimis la {0}, dacă nu îl vezi, te rugăm să verifici în spam.",
   "otp_has_been_used": "OTP a fost deja utilizat",
   "otp_has_expired": "OTP a expirat, te rugăm să soliciți unul nou",
+  "oura_reconnect_scope_blurb": "Oura are nevoie de o permisiune suplimentară pentru a descărca {fields}. Te reconectezi acum la Oura?",
   "Outdoor": "În aer liber",
   "Outdoor power range": "Gama de putere outdoor",
   "outdoor_power_range": "Secțiunile de antrenament în aer liber cu obiective exacte de putere sunt convertite în intervale de plus/minus acest procent din puterea țintă",

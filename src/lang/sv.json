@@ -2265,6 +2265,7 @@
   "otp_email_sent": "Ett mejl med engångskod har skickats till {0}. Om du inte ser det, titta i skräpposten",
   "otp_has_been_used": "Engångskoden har redan använts",
   "otp_has_expired": "Engångskoden har gått ut, begär en ny",
+  "oura_reconnect_scope_blurb": "Oura behöver ytterligare behörighet för att hämta {fields}. Vill du ansluta till Oura igen nu?",
   "Outdoor": "Utomhus",
   "Outdoor power range": "Effektintervall utomhus",
   "outdoor_power_range": "Passteg utomhus med exakta effektmål omvandlas till intervall på plus/minus så här många procent av måleffekten",

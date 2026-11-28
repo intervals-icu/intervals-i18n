@@ -2265,6 +2265,7 @@
   "otp_email_sent": "En OTP-e-mail er blevet sendt til {0}. Hvis du ikke kan se den, skal du tjekke din spam-mappe",
   "otp_has_been_used": "OTP er allerede blevet brugt",
   "otp_has_expired": "OTP er udløbet, anmod venligst om en ny",
+  "oura_reconnect_scope_blurb": "Oura skal have yderligere tilladelse til at hente {fields}. Vil du forbinde til Oura igen nu?",
   "Outdoor": "Udendørs",
   "Outdoor power range": "Udendørs effektområde",
   "outdoor_power_range": "Udendørs træningstrin med nøjagtige effektmål konverteres til områder på plus/minus denne procentdel af måleffekten",
